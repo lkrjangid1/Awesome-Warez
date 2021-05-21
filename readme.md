@@ -1,3 +1,51 @@
+<p align="center">
+  <a href="https://i.imgur.com/OTA2IhM.png" target="_blank" rel="nofollow"><img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png" style="max-width:100%;"></a>
+</p>
+<p>
+<a href="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome" style="max-width:100%;"></a>
+[<a href="https://img.shields.io/github/repo-size/lkrjangid1/Warez" target="_blank" rel="nofollow"><img src="https://img.shields.io/github/repo-size/lkrjangid1/Warez" alt="GitHub repo size" style="max-width:100%;"></a>
+[<a href="https://img.shields.io/github/commit-activity/m/lkrjangid1/Warez" target="_blank" rel="nofollow"><img src="https://img.shields.io/github/commit-activity/m/lkrjangid1/Warez" alt="GitHub commit activity" style="max-width:100%;"></a></p>
+
+<h1>
+<a id="warez" class="anchor" href="#warez" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Warez</h1>
+<p>This list is the biggest <a href="https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene" rel="nofollow">Warez</a> overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.</p>
+<h1>
+<a id="disclaimer" class="anchor" href="#disclaimer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Disclaimer</h1>
+<p><strong>GitHub and I do not supporting warez (!) - we're also not responsible for external links or their content! If you dislike the information this list provides then please contact the website owner/webmaster/hoster directly and fill a DMCA request.</strong></p>
+<h3>
+<a id="why-was-this-overview-page-created" class="anchor" href="#why-was-this-overview-page-created" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Why was this overview page created?</h3>
+<ul>
+<li>Research reasons!</li>
+<li>Freedom of information!</li>
+<li>Most lists you find are outdated, not actively maintained or full of malware links.</li>
+</ul>
+<h3>
+<a id="how-frequently-is-the-list-updated" class="anchor" href="#how-frequently-is-the-list-updated" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How frequently is the list updated?</h3>
+<ul>
+<li>Monthly. <em>In emergencies e.g. bigger scene changes/infos the list might recieve updates outside this schedule!</em>
+</li>
+</ul>
+<h3>
+<a id="credits" class="anchor" href="#credits" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Credits</h3>
+<p>Since the list is huge I can't name each and every single one of you, but here is a short list which hopefully covers all of them:</p>
+<ul>
+<li>All contributors</li>
+<li>All demoscene people which helped to build the <em>scene</em>.</li>
+<li>All developers which developed mentioned programs.</li>
+<li>All other people which helped to push this little project forward.</li>
+<li>All people which are involved in the piracy &amp; NetSec scene or created forums to talk about such topics.</li>
+</ul>
+<h3>
+
+ 
+<h2>
+<a id="how-do-i-search-on-this-page" class="anchor" href="#how-do-i-search-on-this-page" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How do I search on this page?</h2>
+<ul>
+<li>A search function is planned, <a href="https://github.com/lkrjangid/Warez/blob/master/.github/PROJECT_ToDo.md" rel="nofollow">among other small features</a>.</li>
+<li>Since there is (currently) - no filter or page search you need to browse trough the page from within your Browser via <code>Ctrl + F</code> or <code>Cmd + F</code>.</li>
+<li>A web based search will be integrated at the end of Jan. 2020.</li>
+</ul>
+
 <h2>
 <a id="liability-for-contents" class="anchor" href="#liability-for-contents" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Liability for Contents</h2>
 <ul>
@@ -5712,3 +5760,9 @@ one cryptocurrency wallet to another across various cryptocurrencies</li>
 <a href="https://anonym.to/?https://namelix.com/" rel="nofollow">Nameflix</a> - Generate a short, brandable business name using artificial intelligence.</li>
 </ul>
 <p><strong><a href="#readme"><code>^ back to top ^</code></a></strong></p>
+  
+  
+  
+  
+<h1><a href='https://awesomeopensource.com/project/CHEF-KOCH/Warez#readme'>ORIGIONAL REPO</a></h1>  
+  
