@@ -40,10 +40,8 @@
  
 <h2>
 <a id="how-do-i-search-on-this-page" class="anchor" href="#how-do-i-search-on-this-page" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How do I search on this page?</h2>
-<ul>
-<li>A search function is planned, <a href="https://github.com/lkrjangid/Warez/blob/master/.github/PROJECT_ToDo.md" rel="nofollow">among other small features</a>.</li>
 <li>Since there is (currently) - no filter or page search you need to browse trough the page from within your Browser via <code>Ctrl + F</code> or <code>Cmd + F</code>.</li>
-<li>A web based search will be integrated at the end of Jan. 2020.</li>
+
 </ul>
 
 <h2>
