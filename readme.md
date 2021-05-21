@@ -3,8 +3,8 @@
 </p>
 <p>
 <a href="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome" style="max-width:100%;"></a>
-[<a href="https://img.shields.io/github/repo-size/lkrjangid1/Warez" target="_blank" rel="nofollow"><img src="https://img.shields.io/github/repo-size/lkrjangid1/Warez" alt="GitHub repo size" style="max-width:100%;"></a>
-[<a href="https://img.shields.io/github/commit-activity/m/lkrjangid1/Warez" target="_blank" rel="nofollow"><img src="https://img.shields.io/github/commit-activity/m/lkrjangid1/Warez" alt="GitHub commit activity" style="max-width:100%;"></a></p>
+<a href="https://img.shields.io/github/repo-size/lkrjangid1/Warez" target="_blank" rel="nofollow"><img src="https://img.shields.io/github/repo-size/lkrjangid1/Warez" alt="GitHub repo size" style="max-width:100%;"></a>
+<a href="https://img.shields.io/github/commit-activity/m/lkrjangid1/Warez" target="_blank" rel="nofollow"><img src="https://img.shields.io/github/commit-activity/m/lkrjangid1/Warez" alt="GitHub commit activity" style="max-width:100%;"></a></p>
 
 <h1>
 <a id="warez" class="anchor" href="#warez" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Warez</h1>
