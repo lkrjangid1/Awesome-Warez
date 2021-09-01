@@ -1,4 +1,3 @@
-<html>
 <p align="center">
   <a href="https://i.imgur.com/OTA2IhM.png" target="_blank" rel="nofollow"><img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png" style="max-width:100%;"></a>
 </p>
@@ -25822,4 +25821,3 @@ General Reading Sites</em>
 
 <h1><a href='https://awesomeopensource.com/project/CHEF-KOCH/Warez#readme'>ORIGIONAL REPO</a></h1>  
   
-</html>
