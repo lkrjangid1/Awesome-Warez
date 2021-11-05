@@ -1,3 +1,14 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N03RRFX51J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N03RRFX51J');
+</script>
+</head>
 <p align="center">
   <a href="https://i.imgur.com/OTA2IhM.png" target="_blank" rel="nofollow"><img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png" style="max-width:100%;"></a>
 </p>
