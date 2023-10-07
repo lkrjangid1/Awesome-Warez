@@ -13784,11 +13784,6 @@
             </h3>
           </div>
           <div class=" js-wiki-sidebar-toggle-display">
-            <div class="filter-bar">
-              <input type="text" id="wiki-pages-filter" class="form-control input-sm input-block js-filterable-field"
-                placeholder="Find a Page…" aria-label="Find a Page…">
-            </div>
-
             <ul class="m-0 p-0 list-style-none" data-filterable-for="wiki-pages-filter" data-filterable-type="substring"
               data-pjax>
               <li class="Box-row">
@@ -14555,12 +14550,6 @@
                 </h3>
               </div>
               <div class=" js-wiki-sidebar-toggle-display">
-                <div class="filter-bar">
-                  <input type="text" id="wiki-pages-filter"
-                    class="form-control input-sm input-block js-filterable-field" placeholder="Find a Page…"
-                    aria-label="Find a Page…">
-                </div>
-
                 <ul class="m-0 p-0 list-style-none" data-filterable-for="wiki-pages-filter"
                   data-filterable-type="substring" data-pjax>
                   <li class="Box-row">
