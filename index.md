@@ -2103,7 +2103,7 @@
       than half a decade.
     </li>
     <li>
-      <a href="https://anonym.to/https://www.magnetdl.com" rel="nofollow">MagnetDL</a> - Find your download by searching
+      <a href="https://www.magnetdl.com" rel="nofollow">MagnetDL</a> - Find your download by searching
       thousands of magnet links using our search engine.
     </li>
     <li>
@@ -4542,11 +4542,11 @@
       games.
     </li>
     <li>
-      <a href="https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed" rel="nofollow">Retro
+      <a href="https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed" rel="nofollow">Retro
         Archive</a> - Collection of all retro based ROM's.
     </li>
     <li>
-      <a href="https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&amp;sle=true"
+      <a href="https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&amp;sle=true"
         rel="nofollow">ROM Center</a> - Newer games tracker, links and downloads via GDrive.
     </li>
     <li>
@@ -4559,7 +4559,7 @@
       page from gametechwiki.com with more links to ROM and ISO websites.
     </li>
     <li>
-      <a href="https://anonym.to/https://www.romnation.net/" rel="nofollow">ROMNation</a> - Lots of ROMs.
+      <a href="https://www.romnation.net/" rel="nofollow">ROMNation</a> - Lots of ROMs.
     </li>
     <li>
       <a href=" https://romsmania.cc/" rel="nofollow">Romsmania</a> - Another great ROMs collection with a decent UI to
@@ -4591,7 +4591,7 @@
     <li>
       <a href=" https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=" rel="nofollow">Rom
         Center paste edition</a> - Paste edition from the original <a
-        href="https://anonym.to/https://old.reddit.com/r/Roms/comments/gar3bc/roms_megathread" rel="nofollow">ROM's
+        href="https://old.reddit.com/r/Roms/comments/gar3bc/roms_megathread" rel="nofollow">ROM's
         MegaThread</a>, basically a lin/archive collection of various game console ROMs.
     </li>
     <li>
@@ -6513,12 +6513,12 @@
       translated by some of the best professionals translators and has crystal clear prints as well.
     </li>
     <li>
-      <a href="https://anonym.to?https://exfan.net/" rel="nofollow">Exfan.net</a> - Bookmark, manga readed history,
+      <a href="https://exfan.net/" rel="nofollow">Exfan.net</a> - Bookmark, manga readed history,
       comments, send manga request.
     </li>
-    <li><a href="https://anonym.to?https://manganelo.link/" rel="nofollow">manganelo</a></li>
-    <li><a href="https://anonym.to?https://www.mangastream.cc/" rel="nofollow">mangatsream</a></li>
-    <li><a href="https://anonym.to?https://www.webtoons.com/" rel="nofollow">Webtoon</a></li>
+    <li><a href="https://manganelo.link/" rel="nofollow">manganelo</a></li>
+    <li><a href="https://www.mangastream.cc/" rel="nofollow">mangatsream</a></li>
+    <li><a href="https://www.webtoons.com/" rel="nofollow">Webtoon</a></li>
   </ul>
 
   <h2>
@@ -16734,7 +16734,7 @@
                 </h2>
                 <ul>
                   <li>
-                    <a href="https://zalukaj.cc/" rel="nofollow">Zalukaj</a> - <em>Movies</em>
+                    <a href="https://filser.cc/" rel="nofollow">Filser</a> - <em>Movies</em>
                   </li>
                   <li>
                     <a href="http://repozytorium.fn.org.pl/?q=pl" rel="nofollow">Repozytorium </a> - <em>Movies</em>
@@ -29070,6 +29070,18 @@
           </svg></a>▷ Live TV / Sports
       </h2>
       <ul>
+        <li>
+          <strong><a href="https://nflhunter.com/" rel="nofollow">Nflhunter</a></strong> - <em>NFL</em>
+        </li>
+        <li>
+          <strong><a href="https://nflbite.tv/" rel="nofollow">Nflbite</a></strong> - <em>NFL</em>
+        </li>
+        <li>
+          <strong><a href="https://nhlstreams.io/" rel="nofollow">Nhlstreams</a></strong> - <em>NHL</em>
+        </li>
+        <li>
+          <strong><a href="https://nhlbite.tv/" rel="nofollow">Nhlbite</a></strong> - <em>NHL</em>
+        </li>
         <li>
           <strong><a href="https://sportsurge.net/" rel="nofollow">Sportsurge</a></strong> - <em>Sports / Stream
             Locator</em>
