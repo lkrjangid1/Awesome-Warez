@@ -1088,6 +1088,9 @@
   </h3>
   <ul>
     <li>
+      <a href="https://tempmail.la/" rel="nofollow">Temp Mail</a> - Free Temporary Email, Protect Privacy, Avoid Spam Harassment
+    </li>
+    <li>
       <a href=" https://10minutemail.net/" rel="nofollow">10 Minute Mail</a> - Disposable, Private mailboxes.
     </li>
     <li>
