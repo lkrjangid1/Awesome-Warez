@@ -4581,6 +4581,9 @@
     <li>
       <a href=" https://www.ziperto.com/" rel="nofollow">Ziperto</a> - Nintendo 3ds CIA files, especially for JRPGs.
     </li>
+        <li>
+      <a href=" https://epicroms.net/" rel="nofollow">EpicRomso</a> - Vast collection of ROMs and ISOs for Nintendo, PlayStation, and PC Games.
+    </li>
     <li>
       <a href=" https://www.smwcentral.net/" rel="nofollow">Smwcentral</a> - Mainly Super Mario (Kaizo) ROMs.
     </li>
