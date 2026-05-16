@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lkrjangid1.github.io/Awesome-Warez/sitemap.xml

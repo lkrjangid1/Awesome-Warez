@@ -1,0 +1,42 @@
+name: Weekly link health check
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'    # Sundays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run link checker
+        run: |
+          python3 scripts/check_links.py --workers 48
+          python3 scripts/render.py
+      - name: Open PR with removals
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: weekly dead-link sweep"
+          branch: chore/dead-links
+          delete-branch: true
+          title: "chore: weekly dead-link sweep"
+          body: |
+            Automated run of `scripts/check_links.py` removed dead links and
+            re-rendered the site. Review `data/dead-links.txt` before merging.
+          add-paths: |
+            data/links.json
+            data/dead-links.txt
+            index.html
+            search.html
+            about.html
+            404.html
+            sitemap.xml
+            categories/*.html

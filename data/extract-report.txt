@@ -1,0 +1,51 @@
+raw entries:        11099
+after dedupe:       10073
+dropped (invalid/boilerplate): 120
+
+per-category counts:
+  trackers               491   Trackers & Torrents
+  usenet                  55   Usenet
+  seedboxes               24   Seedboxes
+  streaming             1242   Streaming
+  music-audio            574   Music & Audio
+  games                  696   Games
+  apps-software         1277   Apps & Software
+  books-reading          722   Books, Comics & Manga
+  education-learning     434   Education & Learning
+  cloud-hosting          594   Cloud & File Hosting
+  media-servers           43   Media Servers
+  privacy-security       580   Privacy & Security
+  tools-utilities       2821   Tools & Utilities
+  communities-info       520   Communities & Info
+
+first 30 dropped:
+  [boilerplate host i.imgur.com] https://i.imgur.com/3fHyG2S.png
+  [boilerplate host i.imgur.com] https://i.imgur.com/0QoLttS.jpg
+  [invalid url]  
+  [invalid url]  
+  [boilerplate host i.imgur.com] https://i.imgur.com/QpP1M6Q.png
+  [boilerplate host i.imgur.com] https://i.imgur.com/QpP1M6Q.png
+  [invalid url]  ://www.jimmyr.com/mp3_search.php
+  [invalid url]  %5Bhttps://www.board4all.bi%5D(https://github.com/anthonyebiner/foxy-calculator)z/
+  [invalid url] 
+  [invalid url]  /https://camvault.xyz/login.html
+  [invalid url] 
+  [invalid url]  angaseeonline.net
+  [invalid url]  hhttp://library.memoryoftheworld.org
+  [invalid url]  ttps://viddit.red/
+  [invalid url]  ttps://novelplanet.com/
+  [invalid url]  /https://gomostream.com/
+  [invalid url] #readme
+  [invalid url]  480mkv.com
+  [invalid url] /nbats/FMHY/wiki/FREEMEDIAHECKYEAH
+  [invalid url] /nbats/FMHY/wiki/Storage
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%8C%80-Torrenting
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%8C%8F-Non-English
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%92%BE-Downloading
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%93%B1-Android---iOS
+  [invalid url] /nbats/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports
