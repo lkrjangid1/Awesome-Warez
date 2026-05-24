@@ -1,822 +1,560 @@
-# generated 2026-05-16T06:00:57.038535+00:00
+# generated 2026-05-24T08:40:01.095064+00:00
 # strict=False
-# alive=8656  dead=818  unknown=599
+# alive=8082  dead=556  unknown=617
 
-[NET] https://divestos.org/fdroid/official/  (apps-software/Android APKs)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.agxapks.com/  (apps-software/Android APKs)  -- AGXAPKS  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://apkdone.com/  (apps-software/Android APKs)  -- APKDone  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://appfilter.net/  (apps-software/Android APKs)  -- App filter  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://appvn.com/  (apps-software/Android APKs)  -- Appvn  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://divestos.org/fdroid/unofficial/  (apps-software/Android APKs)  -- DivestOS  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.happymod.com/  (apps-software/Android APKs)  -- HappyMod  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://barinsta.austinhuang.me/en/latest/  (apps-software/Android Privacy)  -- Barinsta  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cookiejarapps.com/  (apps-software/Android Privacy)  -- CookieJarApps  -- [Errno 61] Connection refused
-[NET] https://divestos.org/index.php?page=recommended_apps  (apps-software/Android Privacy)  -- Divestos Apps  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467  (apps-software/Android Privacy)  -- Mull  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts  (apps-software/Android Tools)  -- aiTTS  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gtranslate.metalune.xyz/  (apps-software/Browser Tools)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://vektort13.space/  (apps-software/Browser Tools)  -- Vektort13  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://yotter.kavin.rocks/  (apps-software/Browser Tools)  -- Yotter  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://discord-avatar-maker.christianreich.art/  (apps-software/Discord Tools)  -- Discord Avatar Maker  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://discord.io/  (apps-software/Discord Tools)  -- Discord.io  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://discordthread.date/  (apps-software/Discord Tools)  -- DiscordThread  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://disgradient.vanished.rocks/  (apps-software/Discord Tools)  -- Disgradient  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://distok.top/stickers/  (apps-software/Discord Tools)  -- Distok  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://movata.cc/  (apps-software/Discord Tools)  -- Movata  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://convert.creatable.cafe/  (apps-software/Discord Tools)  -- Powerconvert  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.adaz3d.com/  (apps-software/GFX Design Software)  -- adaz3d  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://psdkeys.com/  (apps-software/GFX Design Software)  -- PSDKeys  -- [Errno 51] Network is unreachable
-[NET] https://apps.ipabox.store/ipalibrary/index.html  (apps-software/iOS Apps)  -- iPABox  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://next.tweakboxapp.com/  (apps-software/iOS Apps)  -- tweakboxapp  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://sideload.tweakboxapp.com/  (apps-software/iOS Apps)  -- tweakboxapp (sideloaded)  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://macdrop.net/  (apps-software/Mac Software)  -- MacDrop  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nxmac.com/  (apps-software/MacOS)  -- NXMac Ked  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.mymark.me/  (apps-software/Multi Browser)  -- MyMark  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://blog.kumabook.tokyo/stickynotes/index.html  (apps-software/Multi Browser)  -- Sticky Notes  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://provd.net/  (apps-software/Multi Browser)  -- Video Downloader  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://boardscriptz.to/board  (apps-software/Nulled Scripts)  -- BoardScriptz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://forum.cracked-scriptz.r  (apps-software/Nulled Scripts)  -- Cracked-Scriptz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.escripts.club  (apps-software/Nulled Scripts)  -- EScripts  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.nulled.to  (apps-software/Nulled Scripts)  -- Nulled.to  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://scriptzsector.com  (apps-software/Nulled Scripts)  -- ScriptZSector  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://support.wsc-scriptz.org  (apps-software/Nulled Scripts)  -- WSC-Scriptz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://xenfiles.co  (apps-software/Nulled Scripts)  -- XenFiles.co  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ripsave.com/  (apps-software/Reddit Downloader)  -- RippSave  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://lurrker.com/  (apps-software/Reddit Tools)  -- lurrker  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://files.pushshift.io/reddit/  (apps-software/Reddit Tools)  -- PushShift Reddit  -- 
-[NET] https://redditmetrics.com/  (apps-software/Reddit Tools)  -- Reddit Metrics  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.resavr.com/  (apps-software/Reddit Tools)  -- ReSavr  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://routlookit.com/  (apps-software/Reddit Tools)  -- Routlookit  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://snew.notabug.io/  (apps-software/Reddit Tools)  -- Snew  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://ponderinghydrogen.pythonanywhere.com/  (apps-software/Reddit Tools)  -- Subreddit Recommender  -- 
-[NET] https://www.bontersoft.cc/  (apps-software/Software)  -- Bontersoft.cc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.cloud-droid.com  (apps-software/Software)  -- Cloud-Droid  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.nulled.to/  (apps-software/Software)  -- Nulled  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.onhaxcrack.me  (apps-software/Software)  -- OnHaxCrack  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://sanet  (apps-software/Software)  -- Sanet.st  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://w14.monkrus.ws  (apps-software/Software Repacks)  -- monkrus  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freesoff.com/  (apps-software/Software Sites)  -- freesoff  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://msdn.hackerc.at/  (apps-software/Software Sites)  -- msdn.hackerc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.soft2ev.com/  (apps-software/Software Sites)  -- Soft2Ev  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://softncracks.com/  (apps-software/Software Sites)  -- SoftnCracks  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://softotornix.com/  (apps-software/Software Sites)  -- Softotornix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.trendsmap.com/  (apps-software/Twitter Tools)  -- Trends Map  -- [Errno 61] Connection refused
-[NET] https://www.tweeplers.com/  (apps-software/Twitter Tools)  -- Tweeplers  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://twopcharts.com/  (apps-software/Twitter Tools)  -- TwopCharts  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dlogic.lk/projects/youtubedatacalc.php  (apps-software/YouTube Tools)  -- YouTube Data Calc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://citizenevidence.amnestyusa.org/  (apps-software/YouTube Tools)  -- Youtube DataViewer  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://app.mangamew.com/  (books-reading/Android Manga)  -- MangaMew  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://booksdl.org/comics0/  (books-reading/Comic Sites)  -- BookDL Comic & Manga  -- 
-[NET] http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/  (books-reading/Comic Sites)  -- Comic Book Library  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://reciperetrieve.com/  (books-reading/Cooking Sites)  -- Recipe Retrieve  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.yudhacookbook.my.id/  (books-reading/Cooking Sites)  -- YudhaCookbook  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://docplayer.net/  (books-reading/Documents / Articles)  -- docplayer  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.pdfsearchengine.info/  (books-reading/Documents / Articles)  -- PDF Search Engine  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.pdfgeni.com/  (books-reading/Documents / Articles)  -- Pdfgeni  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.sopdf.com/  (books-reading/Documents / Articles)  -- SoPDF  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://kovi.love/  (books-reading/eBooks)  -- Mirror  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.planetpdf.com/free_pdf_ebooks.asp  (books-reading/eBooks)  -- Planet PDF  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://digitalarchive.wilsoncenter.org/collections  (books-reading/History Sites)  -- Digital Archive  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://artflsrv02.uchicago.edu/cgi-bin/philologic/navigate.pl?iww.0  (books-reading/History Sites)  -- Italian Women Writers  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cf.hum.uva.nl/dsp/ljc/  (books-reading/History Sites)  -- Project Laurens Jz Coster  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://catmanga.org/  (books-reading/Manga Sites)  -- CatManga  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://reader.evilflowers.com/  (books-reading/Manga Sites)  -- EvilFlowers  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mangakare.com/  (books-reading/Manga Sites)  -- MangaKare  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://download-pdf-ebooks.online/  (books-reading/Reading)  -- download-pdf-ebooks  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dwnlg.tel/book-n/  (books-reading/Reading)  -- dwnlg.tel  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://ebooks-gratuit.com/  (books-reading/Reading)  -- Gratuit  -- [Errno 61] Connection refused
-[NET] https://www.kutub-pdf.net/  (books-reading/Reading)  -- kutub  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://manga-zip.net/  (books-reading/Reading)  -- manga-zip  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://manga1000.com/  (books-reading/Reading)  -- manga1000  -- [Errno 61] Connection refused
-[NET] http://flibustahezeous3.onion/  (books-reading/Reading)  -- Onion  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://rusmanga.ru/  (books-reading/Reading)  -- rusmanga  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://sblib3fk2gryb46d.onion/  (books-reading/Reading)  -- sblib  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.scan-fr.cc/  (books-reading/Reading)  -- scan-fr  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://scantrad.net/  (books-reading/Reading)  -- scantrad  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://solu.zone/  (books-reading/Reading)  -- Solu  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.ting89.com/  (books-reading/Reading)  -- ting89  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://yokaijump.fr/  (books-reading/Reading)  -- yokaijump  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://books.cat/  (books-reading/Reading Sites)  -- Books.cat  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://hundredzeros.com/  (books-reading/Reading Sites)  -- HundredZeros  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://genotypeinczgrxr.onion/  (books-reading/Reading Sites)  -- Onion  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://krishnamurti.abundanthope.org/  (books-reading/Religion / Esoterica)  -- Abundant Hope  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.beyondweird.com/  (books-reading/Religion / Esoterica)  -- Beyond Weird  -- [Errno 61] Connection refused
-[NET] https://ebookscart.com/request-books/  (books-reading/Request Books)  -- EBooksCart  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://megatools.megous.com/  (cloud-hosting/Cloud Storage)  -- Megatools  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ihaxk.com/2020/03/09/free-google-team-drive/  (cloud-hosting/Creating Share Drives (better known as Team Drives))  -- Create Free TeamDrive  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://td.fastio.me/  (cloud-hosting/Creating Share Drives (better known as Team Drives))  -- Get Free Google Shared Drive  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://leon.educationhost.cloud  (cloud-hosting/Creating Share Drives (better known as Team Drives))  -- Multiple Colleges  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://one.driveindex.ga/  (cloud-hosting/Creating Share Drives (better known as Team Drives))  -- One  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://td.fastio.me/  (cloud-hosting/Creating Share Drives (better known as Team Drives))  -- td.fastio.me  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gdrive.oso.ac.cn/  (cloud-hosting/Creating Share Drives (better known as Team Drives))  -- Washington University  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://boerse.to/  (cloud-hosting/DDL Link Sites)  -- Boerse.to  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cb01.gallery/  (cloud-hosting/DDL Link Sites)  -- CB01.uno  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cwer.ws  (cloud-hosting/DDL Link Sites)  -- CWER.ws  -- [Errno 61] Connection refused
-[NET] https://filewarez.tv/  (cloud-hosting/DDL Link Sites)  -- filewarez.tv  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://kickasswarez.info/  (cloud-hosting/DDL Link Sites)  -- KickassWarez  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://moviesleak.net/  (cloud-hosting/DDL Link Sites)  -- Moviesleak  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.reduson.com/  (cloud-hosting/DDL Link Sites)  -- Reduson  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://rutracker.cr/  (cloud-hosting/DDL Link Sites)  -- RuTracker  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://uhdmv.com/  (cloud-hosting/DDL Link Sites)  -- UHDMV  -- [Errno 61] Connection refused
-[NET] https://www.vidics.to/  (cloud-hosting/DDL Link Sites)  -- Vidics  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://zeroboard.org/  (cloud-hosting/DDL Link Sites)  -- ZeroBoard  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://zippy.direct/  (cloud-hosting/DDL Link Sites)  -- Zippy Direct  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://videospider.in/  (cloud-hosting/DDL Search Engines & Crawlers)  -- VideoSpider  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://clubfilm4.xyz/  (cloud-hosting/Dedicated Hosts)  -- ClubFilm  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://162.12.215.254/Data/Movies/  (cloud-hosting/Dedicated Hosts)  -- Drive  -- 
-[NET] https://flixgo.biz/  (cloud-hosting/Dedicated Hosts)  -- FlixGo  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mellimovies2.tk/  (cloud-hosting/Dedicated Hosts)  -- MelliMovies  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.moviehdkh.com/  (cloud-hosting/Dedicated Hosts)  -- Moviehdkh  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://onionplay.is/  (cloud-hosting/Dedicated Hosts)  -- OnionPlay.co  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ww2.putlocker123.to/  (cloud-hosting/Dedicated Hosts)  -- PutLocker123  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://smflix.cc/  (cloud-hosting/Dedicated Hosts)  -- SmFlix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://thewebflicks.com/  (cloud-hosting/Dedicated Hosts)  -- TheWebFlicks  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://movie.directmoviedl.com/  (cloud-hosting/Dedicated Hosts)  -- VStream  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://k.im/  (cloud-hosting/Free & File Hoster)  -- K!M  -- [Errno 61] Connection refused
-[NET] https://dh.alpacinodump.cf/  (cloud-hosting/Google Team Drives Groups & Discussions)  -- AlpacinoDump  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s10.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 10  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s11.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 11  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s13.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 13  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s14.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 14  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s2.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s3.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s4.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 4  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s5.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 5  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s7.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 7  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s8.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 8  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s9.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- 9  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://anime-tv.fun/  (cloud-hosting/Image hosting / Processing)  -- Anime-TV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animefrenzy.org/  (cloud-hosting/Image hosting / Processing)  -- AnimeFrenzy  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animepill.com/  (cloud-hosting/Image hosting / Processing)  -- AnimePill  -- [Errno 61] Connection refused
-[NET] https://animereborn.net/  (cloud-hosting/Image hosting / Processing)  -- AnimeReborn  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www3.animeseries.io/  (cloud-hosting/Image hosting / Processing)  -- animeseries  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://aniorb.me/  (cloud-hosting/Image hosting / Processing)  -- AniOrb  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://aniwoofy.ml/  (cloud-hosting/Image hosting / Processing)  -- Aniwoofy  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://127.0.0.1:43110/Antilibrary.bit/  (cloud-hosting/Image hosting / Processing)  -- Antilibrary  -- [Errno 61] Connection refused
-[NET] http://anybooksfree.com/  (cloud-hosting/Image hosting / Processing)  -- Any Books Free  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s1.bitdl.ir/  (cloud-hosting/Image hosting / Processing)  -- bitdl 1  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.bookscool.com/en/index.php  (cloud-hosting/Image hosting / Processing)  -- Books'Cool  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.bookyards.com/en/welcome  (cloud-hosting/Image hosting / Processing)  -- Bookyards  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.divineanime.ru/  (cloud-hosting/Image hosting / Processing)  -- DivineAnime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://downloadgram.com/  (cloud-hosting/Image hosting / Processing)  -- DownloadGram  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ebookscart.com/  (cloud-hosting/Image hosting / Processing)  -- EBooksCart  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://getfreemagz.club/  (cloud-hosting/Image hosting / Processing)  -- GetFreeMagz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gogoanime.sh/  (cloud-hosting/Image hosting / Processing)  -- gogoanime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gramvideoz.com/  (cloud-hosting/Image hosting / Processing)  -- GramVideos  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://barcelona-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://barcelona-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://bundesliga-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://bundesliga-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://calcio-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://calcio-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://epl-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://epl-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://futebolaovivo.stream/  (cloud-hosting/Image hosting / Processing)  -- https://futebolaovivo.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mls-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://mls-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://motogp-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://motogp-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nascar-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://nascar-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ncaa-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://ncaa-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ufc-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://ufc-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://wwe-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://wwe-live.stream/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.instafollowers.co/instagram-tools  (cloud-hosting/Image hosting / Processing)  -- InstaFollowers  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://pantsubase.tv/  (cloud-hosting/Image hosting / Processing)  -- Pantsubase  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.pdforigin.info/  (cloud-hosting/Image hosting / Processing)  -- pdforigin  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.picotube.online/  (cloud-hosting/Image hosting / Processing)  -- Picotube  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://shiro.is/  (cloud-hosting/Image hosting / Processing)  -- Shiro  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://simply.moe/  (cloud-hosting/Image hosting / Processing)  -- Simply  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://storiesdown.com/  (cloud-hosting/Image hosting / Processing)  -- StoriesDown  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tenshi.moe/  (cloud-hosting/Image hosting / Processing)  -- tenshi.moe  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/  (cloud-hosting/Image hosting / Processing)  -- The Imperial Library of Trantor  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://xfmro77i3lixucja.onion/  (cloud-hosting/Image hosting / Processing)  -- xfmro77i3lixucja  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://zqktlwi4fecvo6ri.onion/wiki/Libraries  (cloud-hosting/Image hosting / Processing)  -- zqktlwi4fecvo6ri  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.crackle.com/  (cloud-hosting/Legal Hosts)  -- Crackle  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freemovies.ltd/  (cloud-hosting/Legal Hosts)  -- FreeMovies  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://123moviesx.tv/  (cloud-hosting/Multi Hosts)  -- 123Moviesx  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dutafilm.network/  (cloud-hosting/Multi Hosts)  -- Dutafilm  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://wwv.icefilms-info.com/  (cloud-hosting/Multi Hosts)  -- IceFilms  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://kpkyk.com/  (cloud-hosting/Multi Hosts)  -- K a p K e y K  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://layarkacaxxi.biz/  (cloud-hosting/Multi Hosts)  -- Layerca21  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://movieshunters.com/  (cloud-hosting/Multi Hosts)  -- MovieHunters  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://movieshd.co/  (cloud-hosting/Multi Hosts)  -- MoviesHD  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://moviewetrust.co/  (cloud-hosting/Multi Hosts)  -- MovieWeTrust  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://vidhotel.com/  (cloud-hosting/Multi Hosts)  -- VidHotel  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://wwatchseries.com/  (cloud-hosting/Multi Hosts)  -- WWatchSeries  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://share.imwnk.cn  (cloud-hosting/OneDrive Indexer)  -- here  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://aws.rapidleech.gq/  (cloud-hosting/Premium leech)  -- here  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dh.alpacinodump.cf  (cloud-hosting/Public Team Drives)  -- dh.alpacinodump.cf  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://td.klprojects.tech/  (cloud-hosting/Public Team Drives)  -- klprojects  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrent.hoarding.wtf/0:/  (cloud-hosting/Public Team Drives)  -- Torrent Hording  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://leech.softaz.net  (cloud-hosting/RapidLeech Transload Websites)  -- leech.softaz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://madahi313.ir/leech/  (cloud-hosting/RapidLeech Transload Websites)  -- madahi313  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://rapidleech.gq/  (cloud-hosting/RapidLeech Transload Websites)  -- rapidleech.gq  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://shabakehparvaresh.ir/index.php  (cloud-hosting/RapidLeech Transload Websites)  -- shabakehparvaresh  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://web.avjie.com  (cloud-hosting/RapidLeech Transload Websites)  -- web.avjie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://filepursuit.com  (cloud-hosting/Sharehoster search engine)  -- FilePursuit  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://driveteam.nguyenvanlong.blog/  (cloud-hosting/Unlock blocked Google Drive links)  -- driveteam.nguyenvanlong.blog  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gdbypass.host/  (cloud-hosting/Unlock blocked Google Drive links)  -- gdbypass  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://nofile.io/  (cloud-hosting/Upload Files for Free)  -- nofile  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.estrowebservices.com/  (cloud-hosting/VPS Hosting Providers (Bulletproof Hosting))  -- RapidLeechHost.com  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://warezhosting.ru/  (cloud-hosting/VPS Hosting Providers (Bulletproof Hosting))  -- Warez Hosting  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www3.putlocker.onl/  (communities-info/Big Media Libraries)  -- Putlocker.onl  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://discord.io/homebrew  (communities-info/Discord Servers)  -- /hbg/ Homebrew General  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://discord.io/PkgLinks  (communities-info/Discord Servers)  -- r/PkgLinks  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://opndir.com/  (communities-info/Download Directories)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.catfiles.net/  (communities-info/Download Directories)  -- CatFiles  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.theloadguru.com/xdcc-irc-beginners-guide/  (communities-info/Download Directories)  -- IRC / XDCC Tutorial  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.0dayd.com/  (communities-info/Download Sites)  -- 0dayd  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://0dayhome.net/  (communities-info/Download Sites)  -- 0dayhome  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl12.dlb3d.ir/S/  (communities-info/Download Sites)  -- 10  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl2.3rver.org/  (communities-info/Download Sites)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl5.dlb3d.ir/G/  (communities-info/Download Sites)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl3.3rver.org/  (communities-info/Download Sites)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl5.dlb3d.ir/M/  (communities-info/Download Sites)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl5.dlb3d.ir/S/  (communities-info/Download Sites)  -- 4  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl5.dlb3d.ir/Tv.Shows/  (communities-info/Download Sites)  -- 5  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl10.dlb3d.ir/M/  (communities-info/Download Sites)  -- 6  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl11.dlb3d.ir/G/  (communities-info/Download Sites)  -- 7  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl12.dlb3d.ir/F/  (communities-info/Download Sites)  -- 8  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl12.dlb3d.ir/J/  (communities-info/Download Sites)  -- 9  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.amadei33.com/  (communities-info/Download Sites)  -- Amadei33  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.aztutorial.download/  (communities-info/Download Sites)  -- AZTutorial  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dl5.dlb3d.ir/Films/  (communities-info/Download Sites)  -- dlb3d.ir  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.downfree4u.com/  (communities-info/Download Sites)  -- DownFree4u  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://downtut.org/  (communities-info/Download Sites)  -- DownTut  -- [Errno 61] Connection refused
-[NET] https://easy-movie.com.au/cdn/  (communities-info/Download Sites)  -- Easy-Movie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://filedown.co/  (communities-info/Download Sites)  -- FileDown  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://irfree.org/  (communities-info/Download Sites)  -- IRfree  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.nitroddl.net/  (communities-info/Download Sites)  -- NitroDDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://psarips.uk/  (communities-info/Download Sites)  -- PSARips  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.rapiddowntorrent.com/  (communities-info/Download Sites)  -- rapiddowntorrent  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.rlslog.net/  (communities-info/Download Sites)  -- Releaselog  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://rls2day.com/  (communities-info/Download Sites)  -- rls2day  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s27.bitdl.ir/  (communities-info/Download Sites)  -- s27.BitDL.ir  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://seriesvault.tk/  (communities-info/Download Sites)  -- SeriesVault  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://sv.dcnm.ir/Serial/Foreign/  (communities-info/Download Sites)  -- sv.dcnm.ir  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tagmovies.co/  (communities-info/Download Sites)  -- TagMovies  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.torrentabc.com/  (communities-info/Download Sites)  -- TorrentaBC  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrentdown.co/  (communities-info/Download Sites)  -- TorrentDown  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://2ddl.ms/  (communities-info/Download Sites)  -- TwoDDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.viewdowntorrent.com/  (communities-info/Download Sites)  -- viewdowntorrent  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.warez-serbia.com/  (communities-info/Download Sites)  -- Warez-Serbia  -- [Errno 61] Connection refused
-[NET] https://www.warezblogs.com/  (communities-info/Download Sites)  -- WarezBlogs  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://x265movies.cc/  (communities-info/Download Sites)  -- x265 Movies  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.zipfiletorrent.com/  (communities-info/Download Sites)  -- ZipFileTorrent  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://theloadguru.com/xdcc-irc-beginners-guide/  (communities-info/IRC)  -- XDCC Tutorial  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dlgames.fun/  (communities-info/Other Languages)  -- DLGames  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://legendaryrepacks.simplesite.com/  (communities-info/Other Languages)  -- LegendaryRepacks  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://minerocker-repacksite.000webhostapp.com/  (communities-info/Other Languages)  -- MineRocker Repacks  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.sehsgames.com/  (communities-info/Other Languages)  -- SEHS Gamess  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://netsanjplus.ir/  (communities-info/Persian)  -- netsanjplus  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://sci-hub.im/  (communities-info/Piracy archives)  -- Mirror  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://webchat.is/  (communities-info/Piracy Discussion)  -- Chat  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.d00per.com/dupe  (communities-info/PreDB sites)  -- d00per  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://pr3.us/  (communities-info/PreDB sites)  -- Mirror  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.ukispcourtorders.co.uk/  (communities-info/Public DMCA complaints)  -- UK ISP Court Orders  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cracked.to/  (communities-info/Public Reverse & Cracking Discussion Forums)  -- Cracked.to  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.crackingpro.com/  (communities-info/Public Reverse & Cracking Discussion Forums)  -- Cracking Pro  -- [Errno 61] Connection refused
-[NET] http://forum.crack.vc/?thread-22.htm  (communities-info/Public Reverse & Cracking Discussion Forums)  -- needs invite code  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://forum.crack.vc/?thread-22.htm  (communities-info/Public Reverse & Cracking Discussion Forums)  -- Reverse Club (needs invite code)  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://vxug.fakedoma.in/archive.html  (communities-info/Public Reverse & Cracking Discussion Forums)  -- UX Underground  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://zoomerchan.com/  (communities-info/Social Media Alternatives)  -- zoomerchan  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.sfsite.com/  (communities-info/Special Interest)  -- SF Site  -- [Errno 61] Connection refused
-[404] http://www.topmystery.com/onlinebooks  (communities-info/Special Interest)  -- TopMystery  -- 
-[NET] https://exodos.the-eye.eu  (communities-info/The-Eye)  -- All DOS based games  -- [Errno 61] Connection refused
-[NET] https://cgs.the-eye.eu  (communities-info/The-Eye)  -- Custom Google search  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://fusker.the-eye.eu  (communities-info/The-Eye)  -- Image Fusker  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://od-db.the-eye.eu  (communities-info/The-Eye)  -- Open directory index  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://desirecourse.net/  (education-learning/Courses)  -- Desire Course  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freecourselab.com/  (education-learning/Courses)  -- FreeCourseLab  -- [Errno 61] Connection refused
-[NET] https://freestudyweb.com/  (education-learning/Courses)  -- freestudyweb  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://documentary.su/  (education-learning/Documentaries)  -- Documentary  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://download.howtofree.org/  (education-learning/Educational Downloading)  -- Download Online Tutorials Free  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freeudemycourses.us/  (education-learning/Educational Downloading)  -- Free Udemy Courses  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freecoursedl.com/  (education-learning/Educational Downloading)  -- FreeCourseDL  -- [Errno 61] Connection refused
-[NET] https://www.freetutorials.ca/  (education-learning/Educational Downloading)  -- freetutorials.ca  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://am-medicine.com/  (education-learning/Educational Sites)  -- Am Medicine  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://clockwise3rldkgu.onion/  (education-learning/Educational Sites)  -- Clockwise Library  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://certbyte.com/  (education-learning/Educational Streaming)  -- CertByte  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://edpuzz.ninja/  (education-learning/Educational Tools)  -- Edpuzz Ninja  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://sidewaysdictionary.com/  (education-learning/Educational Tools)  -- Sideways Dictionary  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://vocabulary.ugent.be/  (education-learning/Educational Tools)  -- Vocabulary.ugent  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.ahlanedu.com/  (education-learning/Educational Torrenting)  -- Ahlan Education  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://freecoursestock.com/  (education-learning/Educational Torrenting)  -- FreeCourseStock  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://myfreecourses.com/  (education-learning/Educational Torrenting)  -- My Free Courses  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://web.thevaat.com/  (education-learning/Educational Torrenting)  -- TheVaat  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tutsgalaxy.org/  (education-learning/Educational Torrenting)  -- TutsGalaxy  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://g.sicp.me/books/  (education-learning/Programming Sites)  -- #/g/sicp  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.programming-book.com/  (education-learning/Programming Sites)  -- Programming Books  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.handspeak.com/  (education-learning/Reference Sites)  -- HandSpeak  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://3ds-paradise.com/  (games/3DS)  -- 3DS-Paradise  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://anoise.tuxfamily.org/  (games/Ambient / Relaxation)  -- ANoise  -- 
-[NET] https://raining.fm/  (games/Ambient / Relaxation)  -- Raining.fm  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://sounds4sleep.com/  (games/Ambient / Relaxation)  -- Sounds4Sleep  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://viberoom.audio/  (games/Ambient / Relaxation)  -- Viberoom  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://exodos.the-eye.eu/  (games/Arcade / Retro)  -- eXoDOS  -- [Errno 61] Connection refused
-[NET] https://1v1.lol/  (games/Browser Games)  -- 1v1.LOL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://game.cs-online.club/  (games/Browser Games)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://allbad.cards/  (games/Browser Games)  -- AllBad.Cards  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.badgerkingdom.pantomimepony.co.uk/  (games/Browser Games)  -- Badger Kingdom  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cs-online.club/  (games/Browser Games)  -- CS-ONLINE.CLUB  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://www.foddy.net/category/games/browser/  (games/Browser Games)  -- Foddy  -- 
-[NET] https://bloodrizer.ru/games/kittens/  (games/Browser Games)  -- Kittens Game  -- [Errno 61] Connection refused
-[NET] https://marbleblast.vani.ga/  (games/Browser Games)  -- Marble Blast Gold Web  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.surrogate.tv/  (games/Browser Games)  -- Surrogate  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://swooop.playcanvas.com/  (games/Browser Games)  -- SWOOOP  -- [Errno 8] nodename nor servname provided, or not known
-[410] http://80s.lt/?dir=Files%2FGames  (games/Emulation / Roms)  -- 80s  -- 
-[NET] http://daroms.com/  (games/Emulation / Roms)  -- DaRoms  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://www.emulanium.com/roms.php  (games/Emulation / Roms)  -- Emulanium  -- 
-[NET] https://gamewii.net/  (games/Emulation / Roms)  -- Game Wii  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.playemulator.com/  (games/Emulation / Roms)  -- Play Emulator  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://roms-download.com/  (games/Emulation / Roms)  -- Roms Download  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://darkumbra.net/  (games/Game Repacks)  -- Dark Umbra  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://utorrentgames.org/  (games/Game Repacks)  -- TorrentGames  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://crackwatch.com/  (games/Gaming Infos, Emus & other resources)  -- Crackwatch  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://iscracked.info/  (games/Gaming Infos, Emus & other resources)  -- Is Cracked?  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.astraltabletop.com/  (games/Gaming Tools)  -- Astral  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://scenegames.to/  (games/Good Old Download alternatives (mirrors))  -- Scenegames  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrent5.games/catalyst/  (games/PC Game Repackers)  -- R.G.Catalyst  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.compucalitv.com/juegos-pc  (games/PC Games)  -- CompucaliTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gamesturret.ga/  (games/PC Games)  -- Games Turret  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://spartagames.net/category/pc/  (games/PC Games)  -- SpartaGames  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.listenlater.fm/  (games/Podcasts / Radio)  -- ListenLater  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://streamwat.ch/radio/  (games/Podcasts / Radio)  -- WebOasis Radio  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s22.bitdl.ir/  (games/Rom Archives)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s23.bitdl.ir/  (games/Rom Archives)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s24.bitdl.ir/  (games/Rom Archives)  -- 4  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s25.bitdl.ir/  (games/Rom Archives)  -- 5  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s26.bitdl.ir/  (games/Rom Archives)  -- 6  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://alvro.trademark.cat/  (games/Rom Archives)  -- Alvro Tradmark Cat  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s21.bitdl.ir/  (games/Rom Archives)  -- PS4 bitdl.ir  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://darkumbra.net/forums/forum/192-3ds-cia-games/  (games/ROMs)  -- Darkumbra  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.romnation.net/  (games/ROMs)  -- ROMNation  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://romsmania.cc/  (games/ROMs)  -- Romsmania  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://newalbum.club/  (music-audio/Album Art)  -- newalbum.club  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://albumdabster.com  (music-audio/Audio)  -- albumdabster  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://per-fect.nl  (music-audio/Audio)  -- Balaton Sound aka per-fect  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://bestmusik6.org  (music-audio/Audio)  -- Bestmusik6  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://leakedalbums.org/  (music-audio/Audio)  -- LeakedAlbums  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mp3ogg.ru/  (music-audio/Audio)  -- mp3ogg  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://plixid.com  (music-audio/Audio)  -- Plixid  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://rnbxclusive.online  (music-audio/Audio)  -- RnBXclusive  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tut-audio.ru  (music-audio/Audio)  -- tut-audio  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://monash.io/  (music-audio/Audio Tools)  -- Monash IO  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://anonfiles.com/71K53cz1p6  (music-audio/Audio Tools)  -- Registered exe  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.pluspremieres.eu/  (music-audio/iTunes)  -- Plus Premieres  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ddl-music.to/  (music-audio/Music)  -- ddl-music.to  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freeallmusic.top/  (music-audio/Music)  -- FreeAllMusic  -- [Errno 61] Connection refused
-[NET] https://www.streethiphop.org/  (music-audio/Music)  -- streethiphop  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://heydl.info/  (music-audio/Music Libraries / Players)  -- HeyDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://office.zx.al/  (music-audio/Music Libraries / Players)  -- http://office.zx.al/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://zcmail.azurewebsites.net/  (music-audio/Music Libraries / Players)  -- http://zcmail.azurewebsites.net/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://a1p.zha.bi/#intro  (music-audio/Music Libraries / Players)  -- https://a1p.zha.bi/#intro  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://malahu.n5.myws.ca/  (music-audio/Music Libraries / Players)  -- https://malahu.n5.myws.ca/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://od.malahu.tk/  (music-audio/Music Libraries / Players)  -- https://od.malahu.tk/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://od.wasonliu.workers.dev/  (music-audio/Music Libraries / Players)  -- https://od.wasonliu.workers.dev/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://zcnp.azurewebsites.net/  (music-audio/Music Libraries / Players)  -- https://zcnp.azurewebsites.net/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mobomovi.ir/  (music-audio/Music Libraries / Players)  -- MoboMovies  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://perdl.icu/  (music-audio/Music Libraries / Players)  -- Persian Download  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://playstop.ir/  (music-audio/Music Libraries / Players)  -- PlayStop  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://s1movie.fun/  (music-audio/Music Libraries / Players)  -- S1Movie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://saber-fun.ir/  (music-audio/Music Libraries / Players)  -- Saber-Fun  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://startdl.life/  (music-audio/Music Libraries / Players)  -- StartDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://keygenmusic.net  (music-audio/NFO Viewers & KeyGen Music)  -- KeyGen Music  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.scddlr.com/  (music-audio/SoundCloud)  -- scddlr.com  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://donotupdatespotify.sh/  (music-audio/Spotify)  -- Block Spotify Updates on MacOS  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://red3mp3.me/  (music-audio/Tidal (Music) Downloader)  -- Red3Mp3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gerda.tech/  (privacy-security/Android: "Google Free" systems - privacy respecting & hardened OS)  -- GerdaOS  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://igotphished.abuse.ch/  (privacy-security/Data leak checking (eMail, Accounts, etc))  -- I Got Phished  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tracy03.fun/  (privacy-security/Database Leaks & Paid Databases)  -- tracy03  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ftpihole.com/  (privacy-security/DNS Adblocking)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.proxynation.org/  (privacy-security/DNS Adblocking)  -- ProxyNation  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://haveibeensold.app/  (privacy-security/Email Services)  -- Have I Been Sold?  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.jetable.org/en/index  (privacy-security/Email Services)  -- Jetable  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ptorx.com/  (privacy-security/Email Services)  -- Ptorx  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://lolicore.org/  (privacy-security/Email Sites)  -- lolicore.org  -- [Errno 61] Connection refused
-[NET] https://list.rawsec.ml/operating_systems.html  (privacy-security/Hardened Operating Systems & Resources)  -- Security related Operating Systems @ Rawsec  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://androidtamer.com/  (privacy-security/Penetration Testing Distributions)  -- Android Tamer  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://absolutedouble.co.uk/trace/  (privacy-security/Privacy Extensions)  -- Trace  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dnt.abine.com/  (privacy-security/Privacy Tools)  -- Blur  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.ciphershed.org/  (privacy-security/Privacy Tools)  -- CipherShed  -- [Errno 51] Network is unreachable
-[NET] http://doggyfipznipbaia.onion/  (privacy-security/Privacy Tools)  -- Cryptodog  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ipnote.io/  (privacy-security/Privacy Tools)  -- IPNote  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://remotestre.am/  (privacy-security/Privacy Tools)  -- RemoteStream  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://skytransfer.hns.siasky.net  (privacy-security/Privacy Tools)  -- Skytransfer  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://torbitamzta34aai.onion/  (privacy-security/Privacy Tools)  -- torbitamzta34aai  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://upload.vaa.red/  (privacy-security/Privacy Tools)  -- upload-vaa  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.sphinx-soft.com/Vista/index.html  (privacy-security/Privacy Tools)  -- Win10 Firewall Control  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://unblockit.eu/  (privacy-security/Proxy Sites)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://proxy.fetchgoogleapi.workers.dev/  (privacy-security/Proxy Sites)  -- HashHackers  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrents.io/proxy/  (privacy-security/Proxy Sites)  -- Torrents.io  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://unblocked.cyou/  (privacy-security/Proxy Sites)  -- Unblocked.cyou  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://shhgit.darkport.co.uk/  (privacy-security/Real time monitoring of secrets on github, gitlab and bitbucket)  -- shhgit  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.phonebomb.net/  (privacy-security/TDoS (CLIP - no screening/flood))  -- phonebomb.net  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gmailnator.com/  (privacy-security/Temp eMail Service Providers)  -- Disposable Gmail Address  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.freepn.org/  (privacy-security/VPN)  -- FreePN  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.syntropystack.com/vpn  (privacy-security/VPN)  -- Syntropy  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.perfect-privacy.com/  (privacy-security/VPN Provider (no-logs))  -- Perfect Privacy VPN  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://%5bseedboxes.cc%5d(https://www.seedboxes.cc)/  (seedboxes/Seedbox Hosting Providers)  -- Seedboxes.cc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.annuaire-telechargement.best/  (streaming/1080p Streaming)  -- Annuaire-telechargement-ec  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.annuaire-telechargement.fr/  (streaming/1080p Streaming)  -- Annuaire-telechargement-fr  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.movies4you.ovh/  (streaming/1080p Streaming)  -- ATFUT  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.filmstreaming1.rip/film/aventure/  (streaming/1080p Streaming)  -- FilmStreamingg1  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://hdmovie8.com/  (streaming/1080p Streaming)  -- hdmovie8  -- [Errno 61] Connection refused
-[NET] https://psarips.one/  (streaming/1080p Streaming)  -- PSARips One  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://w22.seriecomplete.com/series/  (streaming/1080p Streaming)  -- Seriecomplete  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://old.chiasenhac.vn/  (streaming/720p Streaming)  -- chiasenhac  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.gomovieshub.se/  (streaming/720p Streaming)  -- GOMovieshub  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://movies24.top/  (streaming/720p Streaming)  -- Movies24  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.timetowatch.video/  (streaming/720p Streaming)  -- TimeToWatch  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tuga.tv/  (streaming/720p Streaming)  -- tuga.tv  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www1.watchfree.movie/  (streaming/720p Streaming)  -- Watchfree.movie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://watchonline.al/  (streaming/720p Streaming)  -- WatchOnline.al  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ww3.wawacity.ec  (streaming/720p Streaming)  -- WawaCity  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://xyztv.xyz/  (streaming/720p Streaming)  -- xyztv.xyz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animezone.info/  (streaming/Android Anime)  -- Animezone  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://thoptvofficial.buzz/  (streaming/Android Live TV)  -- ThopTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://myrss.nu/drama  (streaming/Android Streaming)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://beetvapp.me/  (streaming/Android Streaming)  -- BeeTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.cinehub.to/  (streaming/Android Streaming)  -- Cinehub.to  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://supaflix.1mt.top/  (streaming/Android Streaming)  -- SupaFlix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animekisa.tv/  (streaming/Anime & Cartoon Streaming (720p+))  -- Anime Kisa  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ww1.animesimple.com/  (streaming/Anime & Cartoon Streaming (720p+))  -- Anime Simple  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.animefever.tv/  (streaming/Anime & Cartoon Streaming (720p+))  -- Animefever  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animeseries.io/  (streaming/Anime & Cartoon Streaming (720p+))  -- AnimeSeries  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.animetv.moe/  (streaming/Anime & Cartoon Streaming (720p+))  -- AnimeTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animeultima.eu/  (streaming/Anime & Cartoon Streaming (720p+))  -- animeultima  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animevibe.xyz/  (streaming/Anime & Cartoon Streaming (720p+))  -- AnimeVibe  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://atwitst.moe  (streaming/Anime & Cartoon Streaming (720p+))  -- AtTwist.moe  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dubbedanime.biz/  (streaming/Anime & Cartoon Streaming (720p+))  -- DubbedAnime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ww5.dubbedanime.net/  (streaming/Anime & Cartoon Streaming (720p+))  -- DubbedAnime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www1.gogoanime.sh/  (streaming/Anime & Cartoon Streaming (720p+))  -- GoGoAnime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://watchcartoonsonline.la/  (streaming/Anime & Cartoon Streaming (720p+))  -- WatchCartoonsOnline  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://twist.moe/  (streaming/Anime (Hentai pages are NOT allowed!))  -- Anime Twist  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/  (streaming/Anime Downloading)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animebatchddl.seisei-ruten.workers.dev/0:/  (streaming/Anime Downloading)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animesub.in/  (streaming/Anime Downloading)  -- AnimeSub  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://reskk-my.sharepoint.com/personal/frankcastle_f_odpan_cn/_layouts/15/onedrive.aspx  (streaming/Anime Downloading)  -- OneDrive  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ssanime.ga/  (streaming/Anime Downloading)  -- SSAnime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animesa.ga/  (streaming/Anime Streaming)  -- Animesa  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://aninow.net/  (streaming/Anime Streaming)  -- Aninow  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/  (streaming/Anime Torrent Websites)  -- Play Anime  -- [Errno 61] Connection refused
-[NET] http://meowinjapanese.cf/  (streaming/Anime Torrenting)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://moviesrus.tk  (streaming/Direct Download Streaming)  -- Movies "R" Us  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://thetrove.net/  (streaming/Full TV Shows On)  -- TheTrove  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nineanimator.marcuszhou.com/  (streaming/iOS Anime)  -- NineAnimator  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://720pstream.tv/  (streaming/Live TV / Sports)  -- 720pStream  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://bilasport.net/  (streaming/Live TV / Sports)  -- bilaSport  -- 
-[NET] https://formula1-live.stream/free-races-online-4  (streaming/Live TV / Sports)  -- F1 Live Stream  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://live.footybite.com/  (streaming/Live TV / Sports)  -- footybite  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ipl21.xyz/  (streaming/Live TV / Sports)  -- ipl21  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://live-sport.online/  (streaming/Live TV / Sports)  -- Live-Sport  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://lmshows.se/  (streaming/Live TV / Sports)  -- LM Shows  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mlbstreams.to/  (streaming/Live TV / Sports)  -- MLB  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nflstreams.to/  (streaming/Live TV / Sports)  -- NFL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nhlbite.tv/  (streaming/Live TV / Sports)  -- Nhlbite  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://scrub.watch/  (streaming/Live TV / Sports)  -- Scrub.watch  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tvonline.liveschauen.com/  (streaming/Live TV / Sports)  -- TVOnline.Liveschauen  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ustv247.tv/  (streaming/Live TV / Sports)  -- USTV247  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://www.volokit.com/schedule/  (streaming/Live TV / Sports)  -- Volokit  -- 
-[NET] http://streamwat.ch/  (streaming/Live TV / Sports)  -- WebOas.is TV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://musicpleer.la/  (streaming/Music Streaming)  -- MusicPleer  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://songs-pk.in/  (streaming/Music Streaming)  -- SongsPK  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://stagedork.com/  (streaming/Online paid TV-Streaming)  -- stagedork  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ustvgo.tv/  (streaming/Online paid TV-Streaming)  -- Ustvgo  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www2.cmovieshd.bz  (streaming/Random Movie/TV Streaming Websites)  -- CMoviesHD  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://deadtoonsindia.ne  (streaming/Random Movie/TV Streaming Websites)  -- deadtoonsindia  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www2.emule-island.ru/  (streaming/Random Movie/TV Streaming Websites)  -- eMule Island.ru  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.filmz.cc/  (streaming/Random Movie/TV Streaming Websites)  -- Filmz.cc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.takiartmovies.ga/  (streaming/Random Movie/TV Streaming Websites)  -- TakiART  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://vodlocker.tv/  (streaming/Random Movie/TV Streaming Websites)  -- VodLocker  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://proleech.org/  (streaming/Request Videos)  -- Leech Required  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ssanime.ga/request  (streaming/Request Videos)  -- SSAnime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ww5.emule-island.ru/  (streaming/Specialty Sites)  -- EmuleIsland  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.tfarjo.cc/  (streaming/Specialty Sites)  -- Filmz.cc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www2.k-streaming.tv/  (streaming/Specialty Sites)  -- K-Streaming  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.rulu.co/  (streaming/Specialty Sites)  -- Rulu  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www2.watchasian.co/  (streaming/Specialty Sites)  -- WatchAsian  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://youtubemultidownloader.net/  (streaming/Specialty Sites)  -- Youtube Multi Downloader Online  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://audpop.com/  (streaming/Specialty Streaming)  -- Audpop  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://stagedork.com/  (streaming/Specialty Streaming)  -- StageDork  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://home.footybite.com/  (streaming/Sports Streaming (MMA, MMO, NBA, Football etc.))  -- Footybite  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.highlightstore.me/  (streaming/Sports Streaming (MMA, MMO, NBA, Football etc.))  -- Highlightstore  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://watchraw.com/  (streaming/Sports Streaming (MMA, MMO, NBA, Football etc.))  -- WatchRaw  -- 
-[NET] https://sendit.gg/  (streaming/Sports Streaming (only))  -- Send It  -- [Errno 61] Connection refused
-[NET] https://andchill.tv/  (streaming/Stream Synchronisation)  -- &chill  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://music.jsososo.com/  (streaming/Streaming)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.9090.tv/  (streaming/Streaming)  -- 9090  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://anime-list8.gq/  (streaming/Streaming)  -- anime-list8  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animeblix.com/  (streaming/Streaming)  -- animeblix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animefenix.com/  (streaming/Streaming)  -- AnimeFénix  -- [Errno 61] Connection refused
-[NET] https://www.animesaturn.it/  (streaming/Streaming)  -- AnimeSaturn  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animeyt.club/  (streaming/Streaming)  -- AnimeYT  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.anitube.site/  (streaming/Streaming)  -- Anitube  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://b9good.com/  (streaming/Streaming)  -- b9good  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://bia2anime20.cf/  (streaming/Streaming)  -- bia2anime20  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://bia2anime99.ml/  (streaming/Streaming)  -- bia2anime99  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dtvd.net/  (streaming/Streaming)  -- dtvd  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.eurostreaming.camp/  (streaming/Streaming)  -- EuroStreaming  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.fernsehen-de.com/  (streaming/Streaming)  -- fernsehen-de  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://filmezz.co/  (streaming/Streaming)  -- filmezz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://filmgozar.com/category/anime/  (streaming/Streaming)  -- filmgozar  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://filmpertutti.voto/  (streaming/Streaming)  -- FilmPertutti  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://filmzenstream.online/  (streaming/Streaming)  -- FilmZen  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.filmeserialeonline.org/  (streaming/Streaming)  -- FSOline  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.guardaserie01.uno/  (streaming/Streaming)  -- guardaserie01  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://getvideocatalog.li/  (streaming/Streaming)  -- HDVideoBox  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://hdzo.tv/  (streaming/Streaming)  -- hdzo  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://homecine.me/  (streaming/Streaming)  -- HomeCine  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.ifvod.tv/  (streaming/Streaming)  -- ifvod  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://y.jsososo.com/  (streaming/Streaming)  -- jsososo  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www1.k-streaming.co/  (streaming/Streaming)  -- K-Streaming  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.movies4.com.pk/  (streaming/Streaming)  -- Movies4  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://myzuka.club/  (streaming/Streaming)  -- myzuka  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://old.anime-list8.gq/  (streaming/Streaming)  -- old.anime-list8  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.onlinemovies8.com.pk/  (streaming/Streaming)  -- OnlineMovies8  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.otakustudio.tv/  (streaming/Streaming)  -- otakustudio  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://wwv.papystreaming.is/  (streaming/Streaming)  -- PapyStreaming  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.pelispedia.li/  (streaming/Streaming)  -- Pelispedia.li  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://roma.polpo.tv/  (streaming/Streaming)  -- PolpoTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://seriesflix.to/  (streaming/Streaming)  -- seriesflix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://sokrostream.top/  (streaming/Streaming)  -- SokroStream  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.sorozatbarat.online/  (streaming/Streaming)  -- sorozatbarat  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.streamay.to/  (streaming/Streaming)  -- Streamay  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www2.stream-complet.me/  (streaming/Streaming)  -- StreamComplete  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://streamfr.film/  (streaming/Streaming)  -- StreamFR  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://streamkiste.tv/  (streaming/Streaming)  -- streamkiste  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://fevgatotv-tainies.com/  (streaming/Streaming)  -- Tainies  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ukiku.ga/  (streaming/Streaming)  -- UKIKU  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://stream-vf.club/  (streaming/Streaming)  -- VFStream  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://voiranime.com/  (streaming/Streaming)  -- VoirAnime  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://yabancifilm.vip/  (streaming/Streaming)  -- YabanciFilm  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.yape.nu/  (streaming/Streaming)  -- Yape  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cybermedia.cloud/downloads  (streaming/Streaming Apps)  -- CyberFlix 2.0  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://exousia.app  (streaming/Streaming Apps)  -- Exousia  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://megashowsapk.com/  (streaming/Streaming Apps)  -- Mega Shows  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://lotstv.com/  (streaming/Streaming Apps)  -- RevTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tvpato2.com/  (streaming/Streaming Apps)  -- TVPato2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://bops.fm/  (streaming/Streaming Sites)  -- bops.fm  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://funkwhale.xyz/  (streaming/Streaming Sites)  -- FunkWhale  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.getfvid.com/  (streaming/Streaming Sites)  -- GetFVid  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://keygenmusic.net/  (streaming/Streaming Sites)  -- KeyGenMusic  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.podnapisi.net/  (streaming/Subtitles)  -- Podnapisi  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://subf2m.ir/  (streaming/Subtitles)  -- subf2m  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www1.watch-series.la/  (streaming/TV Streaming)  -- watchseries  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://1lib.eu/  (streaming/Video Stream Sync)  -- https://1lib.eu/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://b-ok.africa/  (streaming/Video Stream Sync)  -- https://b-ok.africa/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://b-ok.xyz/  (streaming/Video Stream Sync)  -- https://b-ok.xyz/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://isofiles.bd581e55.workers.dev/0:/  (streaming/Video Stream Sync)  -- ISO Files  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.metacafe.com  (streaming/Video Stream Sync)  -- metacafe  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.nicogame.info  (streaming/Video Stream Sync)  -- nicogame  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.peteyvid.com/  (streaming/Video Stream Sync)  -- PeteyVid  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.veoh.com/  (streaming/Video Stream Sync)  -- Veoh  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://grimhackers.me/  (tools-utilities/Accounts)  -- GrimHackers  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://jovialpremium.ga/  (tools-utilities/Accounts)  -- Jovial Premium  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://searx.me/  (tools-utilities/Alternative (private) Search Engines)  -- SearX  -- [Errno 61] Connection refused
-[NET] https://dramanice.so/  (tools-utilities/Automation Tools)  -- DramaNice  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dramaz.se/  (tools-utilities/Automation Tools)  -- dramaz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.gangjuw.com/  (tools-utilities/Automation Tools)  -- gangjuw  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://136.50.66.233:8080/  (tools-utilities/Automation Tools)  -- http://136.50.66.233:8080/  -- [Errno 61] Connection refused
-[NET] http://matt2k34.plus.com:8123/  (tools-utilities/Automation Tools)  -- http://matt2k34.plus.com:8123/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s1.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s1.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s11.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s11.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s2.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s2.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s5.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s5.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s6.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s6.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s7.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s7.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s8.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s8.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://s9.bitdownload.ir/  (tools-utilities/Automation Tools)  -- http://s9.bitdownload.ir/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://k-vid.co/  (tools-utilities/Automation Tools)  -- K-Vid  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www9.myasiantv.io/  (tools-utilities/Automation Tools)  -- MyAsianTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://drama.qooxi.to/  (tools-utilities/Automation Tools)  -- qooxi  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://votedrama.net/  (tools-utilities/Automation Tools)  -- VoteDrama  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://filechef.com/  (tools-utilities/Custom "Google" Search Engines)  -- FileChef  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://1loc.dev/  (tools-utilities/Developer Tools)  -- 1loc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ainize.ai/  (tools-utilities/Developer Tools)  -- Ainize  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://github.algolia.com/  (tools-utilities/Developer Tools)  -- algolia  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://bugbountytips.me/  (tools-utilities/Developer Tools)  -- BugBounty  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://codetasty.com/  (tools-utilities/Developer Tools)  -- CodeTasty  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://codewyng.io/  (tools-utilities/Developer Tools)  -- CodeWyng  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html  (tools-utilities/Developer Tools)  -- jsTester  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.ionworx.com/machineid.html  (tools-utilities/Developer Tools)  -- MachineID  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://extension.remotedev.io/  (tools-utilities/Developer Tools)  -- Redux DevTools  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://developers.reverseeagle.org/  (tools-utilities/Developer Tools)  -- ReverseEagle  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dl2.3rver.org/  (tools-utilities/Downloading)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dl3.3rver.org/  (tools-utilities/Downloading)  -- 3  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://3dl.tv/  (tools-utilities/Downloading)  -- 3DL.TV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.480ptvshows.com/  (tools-utilities/Downloading)  -- 480p TV Shows  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://4pda.ru/forum/  (tools-utilities/Downloading)  -- 4pda  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://a101.ir/  (tools-utilities/Downloading)  -- A101  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://animebatchs.net/  (tools-utilities/Downloading)  -- AnimeBatchs  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cb01.directory/  (tools-utilities/Downloading)  -- CB01  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://centerdl.ir/  (tools-utilities/Downloading)  -- CenterDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://chiasenhac.vn/  (tools-utilities/Downloading)  -- chiasenhac  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.cinecalidad.is/  (tools-utilities/Downloading)  -- Cine Calidad  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.compucalitv.com/  (tools-utilities/Downloading)  -- CompucaliTV  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.divxonline.tv/  (tools-utilities/Downloading)  -- divxonline  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://eurostreaming.vision/  (tools-utilities/Downloading)  -- euroStreaming  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.film2media.website/  (tools-utilities/Downloading)  -- film2media  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://hawkmenblues.net/  (tools-utilities/Downloading)  -- Filmoteca Hawkmenblues  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freehd.me/  (tools-utilities/Downloading)  -- freehd  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.ganjdl.ir/  (tools-utilities/Downloading)  -- GanjDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gemovie.ir/  (tools-utilities/Downloading)  -- GeMovie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gtuga.com/  (tools-utilities/Downloading)  -- GIGATUGA  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://hamtamovie.run/  (tools-utilities/Downloading)  -- HamtaMovie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.harmonydl.us/  (tools-utilities/Downloading)  -- HarmonyDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://hulkpop.top/  (tools-utilities/Downloading)  -- HulkPop  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://hymvz.fun/  (tools-utilities/Downloading)  -- HyMuZ  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://irmo.site/  (tools-utilities/Downloading)  -- Irmo  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://lamule.eu/  (tools-utilities/Downloading)  -- Lamule  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://linemovie.ml/  (tools-utilities/Downloading)  -- LineMovie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.mayonez.net/  (tools-utilities/Downloading)  -- Mayonez  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://mobomovies4.ir/  (tools-utilities/Downloading)  -- MoboMovies  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mrmovie5.space/  (tools-utilities/Downloading)  -- mrmovie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.muzlishko.ru/  (tools-utilities/Downloading)  -- muzlishko  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://my2amidl.pw/  (tools-utilities/Downloading)  -- my2amidl  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.nikidaily.info/  (tools-utilities/Downloading)  -- nikidaily  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://par30media.com/  (tools-utilities/Downloading)  -- Par30Media  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://persian-moviez.com/  (tools-utilities/Downloading)  -- Persian-Moviez  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://pesnigoo.ru/  (tools-utilities/Downloading)  -- pesnigoo  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://raygans.top/  (tools-utilities/Downloading)  -- raygans  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.serieswithlove.net/  (tools-utilities/Downloading)  -- serieswithlove  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrentrank.net/  (tools-utilities/Downloading)  -- Torrentrank  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tugakids.biz/  (tools-utilities/Downloading)  -- Tugakids  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://umovie.in/  (tools-utilities/Downloading)  -- umovie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://valamovie.club/  (tools-utilities/Downloading)  -- ValaMovie  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.yogurk.com/  (tools-utilities/Downloading)  -- Yogurk  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://wwvw.zone-annuaire.com/  (tools-utilities/Downloading)  -- zone-annuaire  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://flachdmusic.org/  (tools-utilities/Downloading Sites)  -- Flac Music  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://free-mp3-download.net/  (tools-utilities/Downloading Sites)  -- Free MP3 Download  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.tanikal.com/  (tools-utilities/Downloading Sites)  -- tanikal  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://wrzs.me/  (tools-utilities/Downloading Sites)  -- Warez DL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://vn.getmega.net/  (tools-utilities/File Tools)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.dreamcrafter.dev/  (tools-utilities/File Tools)  -- Dreamcrafter  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://gigablast.com/  (tools-utilities/File Tools)  -- http://gigablast.com/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://rethink.software/  (tools-utilities/File Tools)  -- https://rethink.software/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://worldwidescience.org/  (tools-utilities/File Tools)  -- https://worldwidescience.org/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.teoma.com/  (tools-utilities/File Tools)  -- https://www.teoma.com/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://metashieldclean-up.elevenpaths.com/  (tools-utilities/File Tools)  -- Metashield  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.openwith.org/  (tools-utilities/File Tools)  -- OpenWith  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://dogeweather.com/  (tools-utilities/Fun Sites)  -- DogeWeather  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://either.io/  (tools-utilities/Fun Sites)  -- Either  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://fact.directory/  (tools-utilities/Fun Sites)  -- Fact Directory  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://hypochondriapp.io/  (tools-utilities/Fun Sites)  -- Hypochondriapp  -- 
-[NET] http://playjudgey.com/  (tools-utilities/Fun Sites)  -- Judgey  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.just-fucking-google.it/  (tools-utilities/Fun Sites)  -- Just Fucking Google  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.just-google.it/  (tools-utilities/Fun Sites)  -- Just Google  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://nightmare.mit.edu/  (tools-utilities/Fun Sites)  -- Nightmare Machine  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://pornolize.com/  (tools-utilities/Fun Sites)  -- Pornolize  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://random.new/  (tools-utilities/Fun Sites)  -- random  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.storylocks.com/  (tools-utilities/Fun Sites)  -- Storylocks  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://thefed.app/  (tools-utilities/Fun Sites)  -- The Fed  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://thiswojakdoesnotexist.com/  (tools-utilities/Fun Sites)  -- This Wojak Does Not Exist  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://triptoysfor.me/  (tools-utilities/Fun Sites)  -- Trippy shit Mega List  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://workatdundermifflin.com/  (tools-utilities/Fun Sites)  -- Work at Dunder Mifflin  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.anonseed.com/  (tools-utilities/Helpful Sites / Apps)  -- AnonSeed  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://pre.c-burns.co.uk/pre.php  (tools-utilities/Helpful Sites / Apps)  -- pre.c-burns  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://predb.ovh/  (tools-utilities/Helpful Sites / Apps)  -- PreDB  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://privtracker.tk/  (tools-utilities/Helpful Sites / Apps)  -- PrivTracker  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.skimcast.com/  (tools-utilities/Helpful Sites / Apps)  -- Skimcast  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://stoptargetingads.me/  (tools-utilities/Helpful Sites / Apps)  -- Stop Targeting Ads at Me  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://wiki.piracy.moe/  (tools-utilities/Helpful Sites / Tools)  -- /r/animepiracy Wiki  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://newsradius.news/  (tools-utilities/Helpful Sites / Tools)  -- News Radius  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://safesubstance.com/  (tools-utilities/Helpful Sites / Tools)  -- Safe Substance  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tempus.keziahmoselle.fr/  (tools-utilities/Helpful Sites / Tools)  -- Tempus  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://demos.algorithmia.com/colorize-photos  (tools-utilities/Image Tools)  -- Algorithmia  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.convyoutube.com/en  (tools-utilities/Image Tools)  -- ConvYouTube  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://www.getghiro.org/  (tools-utilities/Image Tools)  -- Ghiro  -- 
-[NET] https://gifmaker.me/  (tools-utilities/Image Tools)  -- Gif Maker  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://exif.regex.info/exif.cgi  (tools-utilities/Image Tools)  -- Jeffrey's Image Metadata Viewer  -- 
-[NET] https://www.moviemania.io/  (tools-utilities/Image Tools)  -- MovieMania  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://blog.studiominiboss.com/pixelart  (tools-utilities/Image Tools)  -- Pedro's Pixel Art Tutorials  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://structurise.com/screenshot-ocr/  (tools-utilities/Image Tools)  -- StructuRise  -- [Errno 61] Connection refused
-[NET] https://visual-recognition-code-pattern.ng.bluemix.net/  (tools-utilities/Image Tools)  -- Visual Recognition  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://10kbclub.com/  (tools-utilities/Indexes)  -- 10kb Club  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://awesome-indexed.mathew-davies.co.uk/  (tools-utilities/Indexes)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://thecarrots.io/  (tools-utilities/Indexes)  -- Carrots  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.dmoztools.net/  (tools-utilities/Indexes)  -- DMOZ  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://indexmania.org/  (tools-utilities/Indexes)  -- Index Mania  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/  (tools-utilities/Indexes)  -- Official Hidden Wiki  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://simpletools.info/doku.php  (tools-utilities/Indexes)  -- Simple Tools  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.hotelwifitest.com/  (tools-utilities/Internet Tools)  -- Hotel WiFi Test  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://isplogger.com/  (tools-utilities/Internet Tools)  -- ISP Logger  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://publiclist.anchel.nl/  (tools-utilities/Internet Tools)  -- Matrix Public Homeservers  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dlogic.lk/projects/music.php  (tools-utilities/Internet Tools)  -- Music Streaming  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dlogic.lk/projects/netflix.php  (tools-utilities/Internet Tools)  -- Netflix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://deslide.clusterfake.net/  (tools-utilities/Internet Tools)  -- Slideshow-Deslidefier  -- [Errno 61] Connection refused
-[NET] https://speakafter.click/  (tools-utilities/Internet Tools)  -- Speak After Click  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.streamsniper.tv/  (tools-utilities/Internet Tools)  -- StreamSniper  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dlogic.lk/projects/zoom.php  (tools-utilities/Internet Tools)  -- Zoom  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://beta.costtodrive.com/  (tools-utilities/Map Tools)  -- Cost 2 Drive  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.umeetmehere.com/  (tools-utilities/Map Tools)  -- U Meet Me Here!  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.fbdown.net/  (tools-utilities/Online Video Converter/Ripper)  -- Facebook Down  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://red.seedhost.eu/faust/files/  (tools-utilities/Screen Recorders)  -- faust  -- 
-[NET] http://dl.sledgercloud.cf/  (tools-utilities/Screen Recorders)  -- http://dl.sledgercloud.cf/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://gomovies123.watch/  (tools-utilities/Screen Recorders)  -- http://gomovies123.watch/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://84n4n4.ga/0:/  (tools-utilities/Screen Recorders)  -- https://84n4n4.ga/0:/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://akshay.movieshunthd.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://akshay.movieshunthd.workers.dev/0:/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://create.klprojects.tech/  (tools-utilities/Screen Recorders)  -- https://create.klprojects.tech/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://generator.driveindex.ga/  (tools-utilities/Screen Recorders)  -- https://generator.driveindex.ga/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://limitless.teamdrive305.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://limitless.teamdrive305.workers.dev/0:/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mslist.ml/0:/  (tools-utilities/Screen Recorders)  -- https://mslist.ml/0:/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://penglai.ga/  (tools-utilities/Screen Recorders)  -- https://penglai.ga/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://t.hoarding.wtf/0:/  (tools-utilities/Screen Recorders)  -- https://t.hoarding.wtf/0:/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://team.isumit.workers.dev/  (tools-utilities/Screen Recorders)  -- https://team.isumit.workers.dev/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://team.leehaiha.com/  (tools-utilities/Screen Recorders)  -- https://team.leehaiha.com/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://teamdrive.xcpx.workers.dev/  (tools-utilities/Screen Recorders)  -- https://teamdrive.xcpx.workers.dev/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://vipercloud.ga/  (tools-utilities/Screen Recorders)  -- https://vipercloud.ga/  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://index.isumit.workers.dev/  (tools-utilities/Screen Recorders)  -- Public Drive Bot  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dbgo.fun/list.php  (tools-utilities/Search Hosts)  -- Content List  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://dbgo.fun/  (tools-utilities/Search Hosts)  -- DBGO  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://imdbstream.xyz/  (tools-utilities/Search Hosts)  -- IMDbStream  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://streamy-flix.my-trials.ml/  (tools-utilities/Search Hosts)  -- Streamy-Flix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.videocrawler.net/  (tools-utilities/Search Hosts)  -- VideoCrawler  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.btsearch.ml/  (tools-utilities/Search Sites)  -- BTSearch  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://gonemaweb.ruggieri.tech/  (tools-utilities/Search Sites)  -- Gonema  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.hitfilesearch.com/  (tools-utilities/Search Sites)  -- Hitfilesearch  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ibit.am/  (tools-utilities/Search Sites)  -- iBit.am  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.linktury.com/  (tools-utilities/Search Sites)  -- Linktury  -- [Errno 61] Connection refused
-[NET] https://www.meganzsearch.com/  (tools-utilities/Search Sites)  -- Mega.nz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://torrentzwealmisr.onion/  (tools-utilities/Search Sites)  -- Onion  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.skytorrents.lol  (tools-utilities/Search Sites)  -- SkyTorrents  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrent.nz/  (tools-utilities/Search Sites)  -- Torrent.nz  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrent.tm/  (tools-utilities/Search Sites)  -- Torrent.tm  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrenthashes.com/  (tools-utilities/Search Sites)  -- TorrentHashes  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.xdcc.eu/  (tools-utilities/Search Sites)  -- XDCC.EU  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://ujnkg4uirpaiqejr.onion/doku.php  (tools-utilities/Search Tools)  -- doku  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://zerobinqmdqd236y.onion  (tools-utilities/Secure PasteBin alternatives)  -- Tor Mirror  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://almond.stanford.edu/  (tools-utilities/System Tools)  -- Almond  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://cmder.net/  (tools-utilities/System Tools)  -- cmder  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://hibitsoft.ir/Uninstaller.html  (tools-utilities/System Tools)  -- HiBit Uninstaller  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://mama.indstate.edu/users/ice/tree/  (tools-utilities/System Tools)  -- Tree  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.virtualdesktop.org/  (tools-utilities/System Tools)  -- Virtual Desktop  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ethercalc.snopyta.org/  (tools-utilities/Text Tools)  -- Ethercalc  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://firepad.io/  (tools-utilities/Text Tools)  -- Firepad  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://iorl.info/  (tools-utilities/Text Tools)  -- I or l?  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://translate.metalune.xyz/  (tools-utilities/Text Tools)  -- Metalune  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://tone-analyzer-demo.ng.bluemix.net/  (tools-utilities/Text Tools)  -- Tone Analyzer  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://speech-to-text-demo.ng.bluemix.net/  (tools-utilities/Text Tools)  -- Watson  -- [Errno 8] nodename nor servname provided, or not known
-[404] http://www.winfield.demon.nl/  (tools-utilities/Text Tools)  -- Winfield  -- 
-[NET] https://www.cyonix.to  (tools-utilities/Toplists)  -- Cyonix  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ddlrank.com  (tools-utilities/Toplists)  -- DDL Rank  -- [Errno 61] Connection refused
-[NET] https://www.uscene.net/warez.html  (tools-utilities/Toplists)  -- Uscene  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://akinbeat.com/  (tools-utilities/Tracking / Discovery)  -- AkinBeats  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://boilthefrog.playlistmachinery.com/  (tools-utilities/Tracking / Discovery)  -- BoilTheFrog  -- [Errno 61] Connection refused
-[NET] https://listeningtogether.atspotify.com/  (tools-utilities/Tracking / Discovery)  -- Listening Together  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://mal.rl404.com/  (tools-utilities/Tracking / Discovery)  -- Mal Alt View  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.worldspotify.com/  (tools-utilities/Tracking / Discovery)  -- World Spotify  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://lolilabs.xyz/  (tools-utilities/URL Tools)  -- lolilabs  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nxnt.link/  (tools-utilities/URL Tools)  -- polr  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://app.shrtco.de/  (tools-utilities/URL Tools)  -- shrtcode  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ttf.tf/  (tools-utilities/URL Tools)  -- ttf.tf  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://fbdown.net/  (tools-utilities/Video Tools)  -- FBDown  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://freedownloadae.com/  (tools-utilities/Video Tools)  -- FreeAE  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://vogueai.aml.fynd.com/  (tools-utilities/Video Tools)  -- VougueAI  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb  (tools-utilities/Video Tools)  -- zeroTube  -- [Errno 61] Connection refused
-[NET] http://zombtracker.the-zomb.com/  (trackers/Audio Torrenting)  -- ZOMB Torrents  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://zombtracker.the-zomb.com/  (trackers/Audio Torrenting)  -- ZombieTracker  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/  (trackers/I2P Tracker)  -- killyourtv  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://avg.club/  (trackers/Private Trackers)  -- avg.club  -- [Errno 61] Connection refused
-[NET] https://bht.is/  (trackers/Private Trackers)  -- Blackhole torrent (BHT)  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nostalgic.is/  (trackers/Private Trackers)  -- Nostalgic Torrents  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://polishsource.cz/  (trackers/Private Trackers)  -- PolishSource  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://telly.cc/login  (trackers/Private Trackers)  -- Telly.CC  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://uhdbits.org/  (trackers/Private Trackers)  -- UHDBits  -- [Errno 61] Connection refused
-[NET] https://worldofp2p.net  (trackers/Private Trackers)  -- WorldOfP2P  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrentz.pl/  (trackers/Public Trackers)  -- (mirror)  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://games4theworld.org  (trackers/Public Trackers)  -- Games4theworld  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ilcorsaronero.xyz/  (trackers/Public Trackers)  -- ilcorsaronero.info  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://movcr.tv/  (trackers/Public Trackers)  -- Movcr  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.skytorrents.lol/  (trackers/Public Trackers)  -- SkyTorrents  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://yggtorrent.si/  (trackers/Public Trackers)  -- YggTorrent  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php  (trackers/rTorrent)  -- rTorrent Seedbox Guide  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://films.club/  (trackers/Semi-Private Trackers)  -- Films.club  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.muziekfabriek.org/  (trackers/Semi-Private Trackers)  -- muziekfabriek  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://scenepalace.info/signup.php  (trackers/Semi-Private Trackers)  -- ScenePalace.info  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrent-explosiv.eu/  (trackers/Semi-Private Trackers)  -- Torrent Explosiv  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://watchitapp.site/  (trackers/Torrent Apps)  -- WatchIt  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://x5.xatab-repack.com/  (trackers/Torrent Games)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://s1.torrents-igruha.org/  (trackers/Torrent Games)  -- Igruha  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://search.torrents.io/  (trackers/Torrent Search Engine Sites)  -- Search Torrents  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://jthnx5wyvjvzsxtu.onion/t/  (trackers/Torrent Sites)  -- .onion  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://1337x.iamproxy.gq/  (trackers/Torrent Sites)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://rarbg.iamproxy.gq/index80.php  (trackers/Torrent Sites)  -- 2  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://w14.monkrus.ws/  (trackers/Torrent Sites)  -- m0nkrus  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://magnet4you.me  (trackers/Torrent Sites)  -- Magnet4You  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://rutrackerripnext.onion/  (trackers/Torrent Sites)  -- Onion  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://p2pdl.com/  (trackers/Torrent Sites)  -- P2PDL  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/  (trackers/Torrent Sites)  -- Play  -- [Errno 61] Connection refused
-[NET] https://1337x.proxyserver.cf/  (trackers/Torrent Sites)  -- Proxy  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://rarbg.proxyserver.cf/index80.php  (trackers/Torrent Sites)  -- Proxy  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://xbit.pw/  (trackers/Torrent Sites)  -- xbit  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://ww3.yggtorrent.si/  (trackers/Torrent Sites)  -- YggTorrent  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://127.0.0.1:43110/ZeroTorrent.bit/  (trackers/Torrent Sites)  -- ZeroTorrent  -- [Errno 61] Connection refused
-[NET] https://root.yt/  (trackers/Torrent Trackers)  -- Root.yt  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://hit-muzik.ru/  (trackers/Torrenting)  -- hit-muzik  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.immortaltorrent.pl/  (trackers/Torrenting)  -- Immortal Torrent  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://katushka.fun/  (trackers/Torrenting)  -- katushka  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://movcr.st/  (trackers/Torrenting)  -- MovCr  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://www.opamuzika.ru/  (trackers/Torrenting)  -- opamuzika  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://kinogo-enta.ru/  (trackers/Torrenting)  -- torrent-big  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://torrentss.ru/  (trackers/Torrenting)  -- torrentss  -- [Errno 8] nodename nor servname provided, or not known
-[NET] http://vrocke.info/  (trackers/Torrenting)  -- vrocke  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://usenet.app/  (usenet/Indexers)  -- nzbwolf  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.newzleech.com/  (usenet/Usenet Forums)  -- NewzLeech  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://scenenzb.com  (usenet/Usenet Forums)  -- SceneNzb.com  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://www.nzblite.com/  (usenet/Usenet Indexing Software)  -- NzBlite  -- [Errno 8] nodename nor servname provided, or not known
-[NET] https://nzb.cat/  (usenet/Usenet Paid Indexers)  -- NZBCat  -- [Errno 8] nodename nor servname provided, or not known
+[404] https://addons.mozilla.org/en-US/firefox/user/12781645/  (apps-software/Adblocking Extensions)  -- Don't Touch My Tabs!  -- 
+[404] https://greasyfork.org/en/scripts/409156-linkvertise-bypass  (apps-software/Adblocking Extensions)  -- Linkvertise Bypass  -- 
+[404] https://f-droid.org/en/packages/me.ccrama.redditslide/  (apps-software/Android Adblocking)  -- 2  -- 
+[404] https://play.google.com/store/apps/details?id=org.itxtech.daedalus  (apps-software/Android Adblocking)  -- Daedalus  -- 
+[404] https://f-droid.org/en/packages/org.jak_linux.dns66/  (apps-software/Android Adblocking)  -- DNS66  -- 
+[404] https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/  (apps-software/Android Adblocking)  -- Infinity  -- 
+[404] https://play.google.com/store/apps/details?id=me.ccrama.redditslide  (apps-software/Android Adblocking)  -- Slide  -- 
+[404] https://drive.google.com/drive/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT  (apps-software/Android APKs)  -- APKBuffet  -- 
+[NET] https://www.apktops.ir/  (apps-software/Android APKs)  -- APKTops  -- [Errno 101] Network is unreachable
+[NET] https://app.app-valley.vip/  (apps-software/Android APKs)  -- AppValley  -- [Errno -2] Name or service not known
+[404] https://www.djjubeemedia.appboxes.co/Apks/  (apps-software/Android APKs)  -- djjubeemedia  -- 
+[NET] https://latestechnews.com/how-to-use-lucky-patcher/  (apps-software/Android APKs)  -- How to use  -- [Errno 101] Network is unreachable
+[NET] https://sourceofapk.com/  (apps-software/Android APKs)  -- Source of APK  -- [Errno -2] Name or service not known
+[404] https://f-droid.org/en/packages/click.dummer.have_radiosion/  (apps-software/Android Podcasts / Radio)  -- HaveRadiosion  -- 
+[404] https://play.google.com/store/apps/details?id=me.echeung.moemoekyun  (apps-software/Android Podcasts / Radio)  -- LISTEN.moe  -- 
+[404] https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio  (apps-software/Android Podcasts / Radio)  -- Next Radio  -- 
+[404] https://play.google.com/store/apps/details?id=com.stonegate.tsacdop  (apps-software/Android Podcasts / Radio)  -- Tsacdop  -- 
+[404] https://f-droid.org/en/packages/com.stonegate.tsacdop/  (apps-software/Android Podcasts / Radio)  -- Tsacdop  -- 
+[404] https://f-droid.org/en/packages/com.smilla.greentooth/  (apps-software/Android Privacy)  -- Greentooth  -- 
+[404] https://play.google.com/store/apps/details?id=app.greyshirts.firewall  (apps-software/Android Privacy)  -- NoRoot Firewall  -- 
+[404] https://f-droid.org/en/packages/org.retroshare.android.qml_app/  (apps-software/Android Privacy)  -- RetroShare  -- 
+[NET] https://silence.im/  (apps-software/Android Privacy)  -- Silence  -- [Errno 101] Network is unreachable
+[404] https://fedilab.app/wiki/untrackme/  (apps-software/Android Privacy)  -- UntrackMe  -- 
+[404] https://play.google.com/store/apps/details?id=studio.onelab.clipboard  (apps-software/Android Tools)  -- Clipt  -- 
+[404] https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US  (apps-software/Android Tools)  -- FCC Speed Test  -- 
+[404] https://play.google.com/store/apps/details?id=com.flynx  (apps-software/Android Tools)  -- Flynx  -- 
+[404] https://atom0s.com/forums/viewforum.php?f=25  (apps-software/Anti-DRM Protects, Plugins & Source Code)  -- Forum  -- 
+[410] https://floc.glitch.me/  (apps-software/Browser Tools)  -- FLoC Demo  -- 
+[404] https://codeberg.org/orenom/Wikiless  (apps-software/Browser Tools)  -- Source  -- 
+[404] https://rauenzi.github.io/BetterDiscordAddons/  (apps-software/Discord Tools)  -- 2  -- 
+[404] https://greasyfork.org/en/scripts/404170-discord-token-getter  (apps-software/Discord Tools)  -- Discord Token Getter  -- 
+[404] https://discord.sale/  (apps-software/Discord Tools)  -- Discord.sale  -- 
+[404] https://greasyfork.org/en/scripts/395741-get-discord-token  (apps-software/Discord Tools)  -- Get Discord Token  -- 
+[404] https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png  (apps-software/Discord Tools)  -- Hypesquad  -- 
+[404] https://betterdiscord.app/theme/Revert%20Rebrand  (apps-software/Discord Tools)  -- Revert Rebrand  -- 
+[404] https://cr3atable.github.io/Powerconvert  (apps-software/Discord Tools)  -- Theme Converter  -- 
+[404] http://mldonkey.sourceforge.net/Main_Page  (apps-software/File Sharing Apps)  -- MLDonkey  -- 
+[404] https://piracy.now.sh/telegram/  (apps-software/File Sharing Apps)  -- Telegram Download Channels  -- 
+[404] https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351  (apps-software/iOS Adblocking)  -- DNSCloak  -- 
+[404] https://apps.apple.com/us/app/slide-for-reddit/id1260626828  (apps-software/iOS Adblocking)  -- Slide  -- 
+[404] https://apps.apple.com/us/app/nullified/id1554556228  (apps-software/iOS Apps)  -- Anti Revoke  -- 
+[404] https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing  (apps-software/iOS Apps)  -- iPAGarage  -- 
+[404] https://testflight.apple.com/join/MLL0nUqr  (apps-software/iOS Apps)  -- TestFlight  -- 
+[410] https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing  (apps-software/iOS Jailbreaking)  -- Jailbreak 13.5 Tweak Compatibility List  -- 
+[404] https://apps.apple.com/us/app/fcc-speed-test/id794322383  (apps-software/iOS Tools)  -- FCC Speed Test  -- 
+[404] https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829  (apps-software/iOS Tools)  -- Grffe  -- 
+[404] https://apps.apple.com/ca/app/instdown-video/id1452076756  (apps-software/iOS Tools)  -- Instdown  -- 
+[404] https://apps.apple.com/us/app/moloko-themes-icons/id1534741213  (apps-software/iOS Tools)  -- moloko  -- 
+[404] https://apps.apple.com/sa/app/youdown/id1487658334  (apps-software/iOS Tools)  -- YouDown  -- 
+[404] https://giveaway2k20.blogspot.com/  (apps-software/Keygens & Serials)  -- Giveaway2k20  -- 
+[NET] https://www.imojado.org  (apps-software/MacOS)  -- Imojado  -- [Errno 101] Network is unreachable
+[404] https://antcpt.com/eng/home.htm  (apps-software/Multi Browser)  -- AntCpt  -- 
+[404] https://ainoob.com/en/project/noobox  (apps-software/Multi Browser)  -- NooBox  -- 
+[404] https://lbragile.github.io/TabMerger-Extension/  (apps-software/Multi Browser)  -- TabMerger  -- 
+[404] https://en.wikipedia.org/wiki/Hardware_restriction  (apps-software/Reasons against DRM)  -- Hardware restriction  -- 
+[404] https://www.removeddit.com/about/  (apps-software/Reddit History Wiper Tools)  -- Removeddit  -- 
+[404] https://www.redditinvestigator.com/  (apps-software/Reddit Tools)  -- Reddit Investigator  -- 
+[404] https://redditpreview.com/  (apps-software/Reddit Tools)  -- Reddit Preview  -- 
+[404] https://camas.github.io/reddit-search/  (apps-software/Reddit Tools)  -- Reddit-Search  -- 
+[404] https://titlescraper.herokuapp.com/  (apps-software/Reddit Tools)  -- TitleScraper  -- 
+[404] https://trendingwordsofreddit.herokuapp.com/  (apps-software/Reddit Tools)  -- TrendingWordsofReddit  -- 
+[404] https://www.removeddit.com/r/piracy/wiki/tools  (apps-software/Software)  -- /r/piracy/wiki/tools  -- 
+[404] https://radixx11rce2.blogspot.com/  (apps-software/Software)  -- RadiXX11  -- 
+[NET] https://rutracker.ru/  (apps-software/Software)  -- RuTracker  -- [Errno 111] Connection refused
+[404] https://onhax.io/  (apps-software/Software Sites)  -- onHax  -- 
+[NET] https://www.vectoritalia.com/  (apps-software/Software Sites)  -- VectorItalia  -- [Errno 101] Network is unreachable
+[404] https://www.allmytweets.net/connect/  (apps-software/Twitter Tools)  -- All My Tweets  -- 
+[404] http://ctrlq.org/first/  (apps-software/Twitter Tools)  -- First Tweet  -- 
+[NET] https://politwoops.com/countries  (apps-software/Twitter Tools)  -- PolitWoops  -- [Errno 101] Network is unreachable
+[404] https://ameliorated.info/index.html  (apps-software/Windows (Info, tools and other resources))  -- AME  -- 
+[404] https://gist.github.com/CHEF-KOCH/a9a70744d79e335e4b4512cbb9588982  (apps-software/Windows 10 Downloads (Mirrors) & Verification Tools)  -- All Windows LTSC download links incl. N  -- 
+[404] https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1  (apps-software/Windows 10 Downloads (Mirrors) & Verification Tools)  -- Windows 10 1903 Build 18362.30 Final (May Update '19)  -- 
+[404] https://genuineisoverifier.weebly.com/  (apps-software/Windows 10 Downloads (Mirrors) & Verification Tools)  -- Windows and Office Genuine ISO Verifier  -- 
+[404] https://pnlpal.dev/captionz  (apps-software/YouTube Tools)  -- Captionz  -- 
+[404] https://greasyfork.org/en/scripts/24163-youtube-unblocker  (apps-software/YouTube Tools)  -- Redirect Script  -- 
+[404] https://foundation.mozilla.org/en/campaigns/regrets-reporter/  (apps-software/YouTube Tools)  -- RegretsReporter  -- 
+[404] https://addons.mozilla.org/en-US/firefox/addon/ytlc/  (apps-software/YouTube Tools)  -- YouTube Live Comments  -- 
+[404] https://greasyfork.org/en/scripts/14370-youtube-playlist-search  (apps-software/YouTube Tools)  -- YouTube Playlist Search  -- 
+[404] https://www.chegg.com/test-prep/gre  (books-reading/Academic Papers (White papers, GRE, etc.))  -- GRE Prep  -- 
+[404] https://calishot-eng-2.herokuapp.com/index-eng/summary  (books-reading/Calibre Libraries)  -- 2  -- 
+[404] https://calishot-non-eng-4.herokuapp.com/index-non-eng/summary  (books-reading/Calibre Libraries)  -- 2  -- 
+[404] https://calishot-eng-3.herokuapp.com/index-eng/summary  (books-reading/Calibre Libraries)  -- 3  -- 
+[404] https://calishot-eng-4.herokuapp.com/index-eng/summary  (books-reading/Calibre Libraries)  -- 4  -- 
+[404] https://calishot-eng-1.herokuapp.com/  (books-reading/Calibre Libraries)  -- Calishot  -- 
+[404] https://calishot-non-eng-3.herokuapp.com/index-non-eng/summary  (books-reading/Calibre Libraries)  -- Non-English  -- 
+[404] https://mediaboxhd.net/comic  (books-reading/Comic Sites)  -- MediaBoxHD  -- 
+[404] https://readcomiconline.to/  (books-reading/Comicbooks)  -- readcomiconline.to  -- 
+[404] https://hacker-cookbook.herokuapp.com/  (books-reading/Cooking Sites)  -- 1337-Noms-The-Hacker-Cookbook  -- 
+[404] http://www.recipepuppy.com/about/api/  (books-reading/Cooking Sites)  -- Recipe Puppy  -- 
+[NET] https://sci-hub.se/  (books-reading/Documents / Articles)  -- 2  -- [Errno -2] Name or service not known
+[404] https://datacatalog.worldbank.org/  (books-reading/Documents / Articles)  -- Data Catalog  -- 
+[404] https://ethos.bl.uk/SearchResults.do  (books-reading/Documents / Articles)  -- EThOS  -- 
+[404] https://f-droid.org/en/packages/com.github.axet.bookreader/  (books-reading/eBook Readers)  -- BookReader  -- 
+[404] https://apt.izzysoft.de/fdroid/index/apk/org.coolreader  (books-reading/eBook Readers)  -- CoolReader  -- 
+[404] https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers  (books-reading/eBooks)  -- Amosqu's custom Google search  -- 
+[404] https://www.baen.com/catalog/category/view/s/free-library/  (books-reading/eBooks)  -- Baen  -- 
+[404] https://www.gutenberg.org/wiki/Main_Page  (books-reading/eBooks)  -- Gutenberg  -- 
+[404] https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/  (books-reading/eBooks)  -- The idiot proof guide to downloading ebooks off IRC  -- 
+[404] https://apps.apple.com/app/paperback-manga-reader/id1519509781  (books-reading/iOS Manga)  -- App Store  -- 
+[404] https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417  (books-reading/iOS Manga)  -- Manga Bird  -- 
+[404] https://apps.apple.com/us/app/manga-man-manga-reader/id1489839722  (books-reading/iOS Manga)  -- Manga Man  -- 
+[404] https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066  (books-reading/iOS Manga)  -- Manga Reader  -- 
+[404] https://apps.apple.com/us/app/manga-storm/id417341160  (books-reading/iOS Manga)  -- Manga Storm  -- 
+[404] https://apps.apple.com/app/id1181309509  (books-reading/iOS Manga)  -- MangaZone  -- 
+[404] https://www.removeddit.com/r/manga  (books-reading/Manga)  -- /r/manga  -- 
+[NET] https://funmanga.com/  (books-reading/Manga Sites)  -- FunManga  -- [Errno 101] Network is unreachable
+[404] https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser  (books-reading/Newspaper Sites)  -- Newspaper Paywall Bypasser  -- 
+[404] https://go.1001ebooks.com/accueil/  (books-reading/Reading)  -- 1001ebooks  -- 
+[NET] https://e-booksland.com/  (books-reading/Reading)  -- e-BooksLand  -- [Errno 101] Network is unreachable
+[NET] http://index-of.co.uk/  (books-reading/Reading Sites)  -- Repository z0ro  -- [Errno -5] No address associated with hostname
+[404] https://golden-dawn.com/nl/library.aspx  (books-reading/Religion / Esoterica)  -- Golden Dawn  -- 
+[404] http://www.sankaracharya.org/index.php  (books-reading/Religion / Esoterica)  -- Sankaracharya  -- 
+[404] https://allbooksworld.com/request-a-book/  (books-reading/Request Books)  -- AllBooksWorld  -- 
+[404] https://www.removeddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/  (books-reading/Textbooks)  -- Guide for Finding Textbooks  -- 
+[404] https://www.removeddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/  (books-reading/Textbooks)  -- How to "rent" your textbooks for free from Amazon  -- 
+[404] https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/  (books-reading/Textbooks)  -- PDF/Ebook trackers for college textbooks  -- 
+[404] https://www.removeddit.com/r/ZippyShare  (cloud-hosting/DDL Link Sites)  -- /r/ZippyShare  -- 
+[NET] https://avxhome.se/  (cloud-hosting/DDL Link Sites)  -- AVXHome  -- [Errno -5] No address associated with hostname
+[404] https://radixx11rce2.blogspot.com  (cloud-hosting/DDL Link Sites)  -- RADIXX11  -- 
+[404] https://scnlog.me/  (cloud-hosting/DDL Link Sites)  -- scnlog  -- 
+[NET] https://www.imovies.cc/  (cloud-hosting/Dedicated Hosts)  -- iMovies  -- [Errno -2] Name or service not known
+[NET] https://ww1.m4ufree.com  (cloud-hosting/Dedicated Hosts)  -- M4uFree  -- [Errno -2] Name or service not known
+[NET] https://www2.solarmovie.to/  (cloud-hosting/Dedicated Hosts)  -- SolarMovie  -- [Errno -3] Temporary failure in name resolution
+[NET] https://yesmovies.sh/  (cloud-hosting/Dedicated Hosts)  -- YesMovies.sh  -- [Errno -3] Temporary failure in name resolution
+[NET] https://www.dubbedanime.vip/  (cloud-hosting/Image hosting / Processing)  -- DubbedAnime  -- [Errno -2] Name or service not known
+[404] https://www.osintcombine.com/instagram-explorer  (cloud-hosting/Image hosting / Processing)  -- Instagram-Explorer  -- 
+[NET] https://ryuanime.com/  (cloud-hosting/Image hosting / Processing)  -- RyuAnime  -- [Errno 101] Network is unreachable
+[NET] https://watch0123movies.org  (cloud-hosting/Multi Hosts)  -- 0123movies  -- [Errno -2] Name or service not known
+[NET] https://4movierulz.mn/category/hollywood-movie-2020/  (cloud-hosting/Multi Hosts)  -- 4MovieRulz  -- [Errno -2] Name or service not known
+[NET] https://www.downloads-anymovies.com/  (cloud-hosting/Multi Hosts)  -- DownloadAnyMovie  -- [Errno -2] Name or service not known
+[NET] https://www3.himovies.to/  (cloud-hosting/Multi Hosts)  -- HiMovies  -- [Errno -3] Temporary failure in name resolution
+[NET] https://movies7.to/  (cloud-hosting/Multi Hosts)  -- Movies7  -- [Errno -5] No address associated with hostname
+[NET] https://old.pubfilms.club/  (cloud-hosting/Multi Hosts)  -- Pubfilms  -- [Errno -2] Name or service not known
+[NET] https://yesmovies.love/  (cloud-hosting/Multi Hosts)  -- Yesmovies.love  -- [Errno -2] Name or service not known
+[404] https://ethreesymsauto.laulzgoay.workers.dev/  (cloud-hosting/OneDrive)  -- 25 TB OneDrive  -- 
+[404] https://ahputuleech.herokuapp.com/  (cloud-hosting/Premium leech)  -- ahputuleech  -- 
+[404] https://ss-leech.herokuapp.com/  (cloud-hosting/Premium leech)  -- ss-leech.herokuapp  -- 
+[410] https://filehostlist.miraheze.org/wiki/Main_Page  (cloud-hosting/Premium Link Generators)  -- File Hosting Wiki  -- 
+[410] https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches  (cloud-hosting/Premium Link Generators)  -- Free Premium Leeches  -- 
+[404] https://nafanz.github.io/cloudstorage.html  (cloud-hosting/Premium Link Generators)  -- Small cloud storage table  -- 
+[404] https://nafanz.github.io/filesharing.html  (cloud-hosting/Premium Link Generators)  -- Small File sharing table  -- 
+[404] https://ossdev.achirou.workers.dev/  (cloud-hosting/Public Team Drives)  -- Achirou's Cloud  -- 
+[404] https://bot13.skyrim.workers.dev/  (cloud-hosting/Public Team Drives)  -- bot13  -- 
+[404] https://bot14.skyrim.workers.dev/  (cloud-hosting/Public Team Drives)  -- bot14  -- 
+[404] https://go.zgh.workers.dev/  (cloud-hosting/Public Team Drives)  -- go.zgh  -- 
+[404] https://teamdrive.hasibul.workers.dev/  (cloud-hosting/Public Team Drives)  -- hasibul  -- 
+[404] https://teamdrive.kltorrent.workers.dev/  (cloud-hosting/Public Team Drives)  -- kltorrent  -- 
+[404] https://tdrive1.aryan.workers.dev/  (cloud-hosting/Public Team Drives)  -- tdrive1  -- 
+[404] https://tor.uploadbot.workers.dev/  (cloud-hosting/Public Team Drives)  -- tor.uploadbot  -- 
+[404] https://yes-original.com/home/rapidleech-master/index.php  (cloud-hosting/RapidLeech Transload Websites)  -- yes-original.com  -- 
+[404] https://sporestack.com/news/#2019-02-27  (cloud-hosting/VPS Hosting Providers (Bulletproof Hosting))  -- SporeStack  -- 
+[404] https://www.removeddit.com/user/nbatman/m/streaming/  (communities-info/Big Media Libraries)  -- Streaming Multireddit  -- 
+[NET] https://www.radicle.xyz/  (communities-info/Decentralized local GIT)  -- Radicle  -- [Errno 101] Network is unreachable
+[404] https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages  (communities-info/Discord Servers)  -- here  -- 
+[404] https://discord.me/piratesonline  (communities-info/Discord Servers)  -- piratesonline  -- 
+[404] https://live-action-raws.tumblr.com/  (communities-info/Download Sites)  -- 2  -- 
+[404] https://cartoons-raws.tumblr.com/master-list  (communities-info/Download Sites)  -- Cartoons Raw  -- 
+[NET] https://khatrimaza1.in/  (communities-info/Download Sites)  -- Khatrimaza  -- [Errno -2] Name or service not known
+[404] https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve  (communities-info/Download Sites)  -- Media  -- 
+[NET] https://mftwbb.org/  (communities-info/Download Sites)  -- MFTWBB  -- [Errno -2] Name or service not known
+[404] https://reviviendoviejasjoyas.blogspot.com/  (communities-info/Download Sites)  -- Reviviendo Viejas Joyas  -- 
+[NET] https://tinymkv.xyz/  (communities-info/Download Sites)  -- TinyMKV  -- [Errno -2] Name or service not known
+[NET] https://ulmovies.xyz/  (communities-info/Download Sites)  -- ULMovies  -- [Errno -2] Name or service not known
+[NET] https://warez-world.org/  (communities-info/Download Sites)  -- Warez-World  -- [Errno -2] Name or service not known
+[404] https://search.mibbit.com/channels/p2p-network  (communities-info/IRC Networks)  -- p2p-network.net channel list  -- 
+[404] https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf  (communities-info/Liability for Contents)  -- COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)  -- 
+[404] https://www.removeddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/  (communities-info/Open Directories)  -- "All resources I know related to Open Directories"  -- 
+[404] https://www.removeddit.com/r/opendirectories  (communities-info/Open Directories)  -- /r/opendirectories  -- 
+[404] https://www.removeddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/  (communities-info/Open Directories)  -- 36 GB of Flash Games  -- 
+[404] https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/  (communities-info/Open Directories)  -- The Holy Grail of Indexes  -- 
+[NET] https://www.filma24.ai/  (communities-info/Other Languages)  -- filma24  -- [Errno -2] Name or service not known
+[404] https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE  (communities-info/Other Languages)  -- LiGHT Repack Archive  -- 
+[404] https://drive.google.com/drive/folders/15QKzyr1Oxddh7CLjVWkD06Sxm6E2YGHm  (communities-info/Other Languages)  -- Misc Windows  -- 
+[404] https://1fichier.com/?hy7lsbep6bqtu4loy1j6  (communities-info/Other Languages)  -- PCGames-Download Backup  -- 
+[404] https://www.ruv.is/ruv  (communities-info/Other Languages)  -- RÚV  -- 
+[404] https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/  (communities-info/Piracy archives)  -- here  -- 
+[404] https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki  (communities-info/Piracy archives)  -- PiracySubreddit Backup (nightly backups)  -- 
+[404] https://www.removeddit.com/r/privacy/  (communities-info/Pirate News, Blogs & Discussion Forums)  -- /r/privacy  -- 
+[404] https://freedif.org/movim-the-decentralized-social-network  (communities-info/Social Media Alternatives)  -- Movim  -- 
+[NET] https://www.defiel.com/free-survival-ebooks/  (communities-info/Special Interest)  -- Free Survival eBooks  -- [Errno 101] Network is unreachable
+[404] https://gooddebate.org/sin/mirror/library/  (communities-info/Special Interest)  -- GoodDebate  -- 
+[404] https://www.hourwolf.com/sfbooks/  (communities-info/Special Interest)  -- HourWolf  -- 
+[404] https://rentry.co/freemediafuckyeah#nsfw-images-reading  (communities-info/Special Interest)  -- NSFW Reading Sites  -- 
+[404] https://downturk.eu/video-tutorials/  (education-learning/Courses)  -- DownTurk.eu  -- 
+[404] https://www.freecoursesonline.me/?1  (education-learning/Courses)  -- Mirror  -- 
+[404] https://www.removeddit.com/r/documentaries  (education-learning/Documentaries)  -- /r/Documentaries  -- 
+[404] https://www.removeddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/  (education-learning/Documentaries)  -- whatwhat888 big list of documentary sites (streaming and download)  -- 
+[NET] https://freecoursenow.com/  (education-learning/Educational Downloading)  -- Course Now  -- [Errno 101] Network is unreachable
+[404] https://freetutsdownload.com/  (education-learning/Educational Downloading)  -- FreetutsDownload.com  -- 
+[NET] https://piratewarez.com/  (education-learning/Educational Downloading)  -- Pirate Warez  -- [Errno 101] Network is unreachable
+[404] https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q  (education-learning/Educational Sites)  -- Heaven  -- 
+[404] https://free-math-resources.netlify.app/  (education-learning/Educational Sites)  -- Math Resource Guide  -- 
+[NET] http://noexcuselist.com/  (education-learning/Educational Sites)  -- NoExcuseList  -- [Errno 101] Network is unreachable
+[404] https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection  (education-learning/Educational Sites)  -- Uloz Archive  -- 
+[404] https://cs1000.vercel.app/  (education-learning/Educational Streaming)  -- cs1000  -- 
+[410] https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk  (education-learning/Educational Tools)  -- 5th STAAR Resource Curation  -- 
+[404] https://worldmap.harvard.edu/maps/5565  (education-learning/Educational Tools)  -- AP World History Notes Visual  -- 
+[404] https://my.matterport.com/show/?m=NeiMEZa9d93  (education-learning/Educational Tools)  -- Explore Pharaoh Ramesses VI Tomb  -- 
+[404] https://www.freecoursesonline.me/  (education-learning/Educational Torrenting)  -- Free Courses Online  -- 
+[404] https://www.wolframalpha.com/  (education-learning/Reference Sites)  -- Wolfram Alpha  -- 
+[404] https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd  (games/3DS)  -- GDrive  -- 
+[404] https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5  (games/3DS)  -- GDrive  -- 
+[404] https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3  (games/3DS)  -- GDrive  -- 
+[404] https://drive.google.com/drive/u/0/mobile/folders/1sZ7Rev2ownSl-JlUn2VhE87RBwW9ZX9n  (games/Ambient / Relaxation)  -- Headspace  -- 
+[NET] https://insecretgarden.com/  (games/Ambient / Relaxation)  -- My Secret Garden  -- [Errno 111] Connection refused
+[404] https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing  (games/Arcade / Retro)  -- Br0legs Zandronum  -- 
+[404] https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/  (games/Arcade / Retro)  -- Classic Warcraft 3 Installers  -- 
+[404] https://froggi.es/mario/  (games/Arcade / Retro)  -- frogg.ies mario  -- 
+[404] https://piccolo.click/web/  (games/Browser Games)  -- Piccolo  -- 
+[404] https://www.removeddit.com/r/PkgLinks/  (games/Console Games (various))  -- /r/PkgLinks  -- 
+[404] https://www.removeddit.com/r/SwitchNSPs/  (games/Console Games (various))  -- /r/SwitchNSPs  -- 
+[404] https://lyr9c.weebly.com/gba-games.html  (games/Emulation / Roms)  -- LYR9C  -- 
+[404] https://www.romsget.io/  (games/Emulation / Roms)  -- RomsGet  -- 
+[404] https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk  (games/Game Boy)  -- G-Drive  -- 
+[404] https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR  (games/GameCube Games)  -- GDrive  -- 
+[404] https://devanbuggay.com/bspview/  (games/Gaming Tools)  -- bspview  -- 
+[NET] https://inputmapper.com/  (games/Gaming Tools)  -- InputMapper  -- [Errno -2] Name or service not known
+[404] https://www.rptools.net/?page=maptool  (games/Gaming Tools)  -- MapTool  -- 
+[NET] https://god-games.com/  (games/Good Old Download alternatives (mirrors))  -- GOD Games  -- [Errno 101] Network is unreachable
+[404] https://www.removeddit.com/r/3dshacks  (games/Homebrew and Custom Firmware(s))  -- /r/3dshacks  -- 
+[404] https://www.removeddit.com/r/ps3homebrew/  (games/Homebrew and Custom Firmware(s))  -- /r/ps3homebrew  -- 
+[404] https://www.removeddit.com/r/ps4homebrew  (games/Homebrew and Custom Firmware(s))  -- /r/ps4homebrew  -- 
+[404] https://www.removeddit.com/r/Swiacks  (games/Homebrew and Custom Firmware(s))  -- /r/SwitchHacks  -- 
+[404] https://www.removeddit.com/r/SwitchHaxing  (games/Homebrew and Custom Firmware(s))  -- /r/SwitchHaxing  -- 
+[404] https://www.removeddit.com/r/vitahacks/  (games/Homebrew and Custom Firmware(s))  -- /r/vitahacks  -- 
+[404] https://www.removeddit.com/r/WiiHacks/  (games/Homebrew and Custom Firmware(s))  -- /r/WiiHacks  -- 
+[404] https://www.removeddit.com/r/YuzuPiracy  (games/Homebrew and Custom Firmware(s))  -- /r/YuzuPiracy  -- 
+[404] https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J  (games/Nintendo Switch Games)  -- GDrive  -- 
+[404] https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ  (games/Nintendo Switch Games)  -- GDrive (more frequently updated  -- 
+[410] https://mrdj777.wordpress.com/  (games/PC Game Repackers)  -- MrDJ  -- 
+[404] https://bzinhoneverdies.blogspot.com/  (games/PC Games)  -- Bzinho Games  -- 
+[NET] https://forum.darksoftware.net/forums/  (games/PlayStation Games)  -- Darksoftware Forum  -- [Errno 101] Network is unreachable
+[404] https://pastebin.com/79q1mdZm  (games/Rom Archives)  -- 2  -- 
+[404] https://archive.org/details/RedumpNintendoWiiAmericaPart2  (games/Rom Archives)  -- 2  -- 
+[404] https://archive.org/details/RedumpNintendoGameCubeAmerica  (games/Rom Archives)  -- 2  -- 
+[404] https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6  (games/Rom Archives)  -- 2  -- 
+[404] https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14  (games/Rom Archives)  -- 2  -- 
+[404] https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01  (games/Rom Archives)  -- 3  -- 
+[404] https://archive.org/details/RedumpNintendoWiiAmericaPart3  (games/Rom Archives)  -- 3  -- 
+[404] https://archive.org/details/RedumpNintendoGameCubeAmericaPart2  (games/Rom Archives)  -- 3  -- 
+[404] https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2  (games/Rom Archives)  -- 4  -- 
+[404] https://archive.org/details/RedumpNintendoWiiAmericaPart5  (games/Rom Archives)  -- 4  -- 
+[404] https://archive.org/details/RedumpNintendoGameCubeAmericaPart3  (games/Rom Archives)  -- 4  -- 
+[404] https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload  (games/Rom Archives)  -- 5  -- 
+[404] https://1fichier.com/dir/Jini9nFe  (games/Rom Archives)  -- 6  -- 
+[404] https://ps4.td-index.workers.dev/0:/  (games/Rom Archives)  -- PS4.td  -- 
+[404] https://drive.google.com/drive/folders/1hzkgLcDsgzwbw7PP7rySDBTEuPEQov9g  (games/Rom Archives)  -- 各种模拟器rom游戏  -- 
+[404] https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1  (games/ROM BIOS)  -- xprism's BIOS collection  -- 
+[404] https://circa.im/roms/  (games/ROMs)  -- CIRCA ROMs  -- 
+[410] https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true  (games/ROMs)  -- ROM Center  -- 
+[404] https://www.removeddit.com/r/WiiHacking  (games/Wii Hacking)  -- r/WiiHacking  -- 
+[404] https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-  (games/Wii U Games)  -- GDrive  -- 
+[404] https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE  (games/Wii U Games)  -- GDrive  -- 
+[404] https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8  (games/Wii U Games)  -- GDrive  -- 
+[404] https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0  (games/Wii U Games)  -- GDrive  -- 
+[404] https://www.removeddit.com/r/EmbyShares  (media-servers/Emby Servers)  -- /r/EmbyShares  -- 
+[404] https://www.removeddit.com/r/addons4kodi  (media-servers/Kodi)  -- /r/Addons4Kodi  -- 
+[404] https://www.removeddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w  (media-servers/Kodi)  -- Exodus Redux  -- 
+[404] https://forums.plex.tv/t/installation-instructions/168854  (media-servers/Kodi)  -- Official Plex Addon  -- 
+[404] https://www.removeddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr  (media-servers/Kodi)  -- Seren  -- 
+[404] https://www.removeddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/  (media-servers/Kodi)  -- Ultimate Kodi Guide  -- 
+[404] https://www.removeddit.com/r/PlexACD/  (media-servers/Plex Logging and Metrics)  -- /r/PlexACD  -- 
+[404] https://www.removeddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/  (media-servers/Stremio)  -- A complete curated list of all working Stremio Add-ons provided (via Reddit)  -- 
+[404] https://www.removeddit.com/r/StremioAddons/  (media-servers/Stremio)  -- r/StremioAddons  -- 
+[404] https://www.removeddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/  (media-servers/Stremio)  -- Stremio - Phone Remote  -- 
+[404] https://www.removeddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/  (media-servers/Stremio)  -- Stremio - Watch together with friends  -- 
+[404] https://www.removeddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/  (media-servers/Stremio)  -- Stremio Catalog Builder  -- 
+[404] https://alexmercerind.github.io/harmonoid/  (music-audio/Android Audio)  -- harmonoid  -- 
+[404] https://f-droid.org/packages/com.holoplay  (music-audio/Android Audio)  -- https://f-droid.org/packages/com.holoplay  -- 
+[404] https://f-droid.org/packages/deep.ryd.rydplayer/  (music-audio/Android Audio)  -- MusicPiped  -- 
+[404] https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/  (music-audio/Android Audio)  -- Ylight Music  -- 
+[404] https://play.google.com/store/apps/details?id=com.noizio&hl=en_US  (music-audio/Android Relaxation)  -- Noizio  -- 
+[404] https://play.google.com/store/apps/details?id=fm.raining.rainingfm&hl=en  (music-audio/Android Relaxation)  -- Raining.fm  -- 
+[404] https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood  (music-audio/Android Relaxation)  -- Rainy Mood  -- 
+[404] https://pics.tide.moreless.io/site/tide.apk  (music-audio/Android Relaxation)  -- Tide.fm  -- 
+[404] https://yoamoelmosh.blogspot.com/  (music-audio/Audio)  -- Xoamoelmosh Blogspot  -- 
+[404] https://www.faasoft.com/articles/flac-converter-mac-and-windows.html  (music-audio/Audio Tools)  -- Faasoft FLAC Converter  -- 
+[404] https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en  (music-audio/Audio Tools)  -- Music ID Android  -- 
+[404] https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8  (music-audio/Audio Tools)  -- Music ID iOS  -- 
+[404] https://apps.apple.com/ca/app/vozee/id1500539907  (music-audio/Audio Tools)  -- ‎VOZEE  -- 
+[NET] https://tokybook.com/  (music-audio/Audiobooks)  -- Tokybook  -- [Errno -5] No address associated with hostname
+[404] https://ainoob.com/en/project/nooboss  (music-audio/Chrome)  -- NooBoss  -- 
+[404] https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/  (music-audio/Firefox)  -- Colors and Fonts Extractor  -- 
+[404] https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/  (music-audio/Firefox)  -- Profile Switcher  -- 
+[404] https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860  (music-audio/iOS Audio)  -- eSound  -- 
+[404] https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124  (music-audio/iOS Audio)  -- Musi  -- 
+[404] https://apps.apple.com/ca/app/tubizu-music-player-streamer/id1426207462  (music-audio/iOS Audio)  -- Tubizu  -- 
+[404] https://apps.apple.com/be/app/mynoise/id813099896  (music-audio/iOS Relaxation)  -- myNoise  -- 
+[404] https://apps.apple.com/ua/app/rainingfm/id648243241  (music-audio/iOS Relaxation)  -- Raining.fm  -- 
+[404] https://ejurgensen.github.io/forked-daapd/  (music-audio/iTunes)  -- forked-daapd  -- 
+[NET] http://patrickjmt.com/  (music-audio/Math Tutorials)  -- PatrickJMT  -- [Errno -5] No address associated with hostname
+[404] https://hindi-lossless.blogspot.com/  (music-audio/Music)  -- Hindi-lossless.blogspot  -- 
+[404] https://od.kbbldh.workers.dev/  (music-audio/Music Libraries / Players)  -- https://od.kbbldh.workers.dev/  -- 
+[404] https://office-user-auto-create.zaya.workers.dev/  (music-audio/Music Libraries / Players)  -- https://office-user-auto-create.zaya.workers.dev/  -- 
+[404] https://subdavis.com/Tusk/  (music-audio/Music Libraries / Players)  -- Read-Only Functionality  -- 
+[404] https://defacto2.net/welcome  (music-audio/NFO Viewers & KeyGen Music)  -- Defacto2  -- 
+[404] https://www.removeddit.com/r/Piracy/comments/euhd77/scdl_a_256_kbps_soundcloud_downloader_now_with/  (music-audio/SoundCloud)  -- Tutorial  -- 
+[404] https://notabug.org/Aesir/chimera  (music-audio/Tidal (Music) Downloader)  -- Chimera  -- 
+[404] https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c  (music-audio/Userscripts)  -- darkmode.js  -- 
+[404] https://itunes.apple.com/us/app/stratis/id1250824734?mt=8  (privacy-security/Anonymous Cryptocurrency Exchanges (without KYC Verification!))  -- Changelly  -- 
+[404] https://shop.hak5.org/collections/physical-access/products/usb-rubber-ducky-deluxe  (privacy-security/BadUSB)  -- Rubber Ducky  -- 
+[404] https://www.gdata.de/de-usb-keyboard-guard  (privacy-security/BadUSB Protection)  -- USB Keyboard Guard  -- 
+[404] https://docs.nixnet.services/DNS  (privacy-security/Cloud based DNS Alternatives)  -- NixNet  -- 
+[404] https://mysterium.network/vpn/  (privacy-security/Decentralized VPNs)  -- Mysterium Network  -- 
+[404] https://www.emailprivacytester.com/  (privacy-security/Email Services)  -- EmailPrivacyTester  -- 
+[404] https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/  (privacy-security/Email Sites)  -- Article  -- 
+[NET] https://www.moviekids.tv/  (privacy-security/Email Sites)  -- https://www.moviekids.tv/  -- [Errno -2] Name or service not known
+[NET] https://www.showboxmovies.net/  (privacy-security/Email Sites)  -- https://www.showboxmovies.net/  -- [Errno -2] Name or service not known
+[NET] https://www.watch4freemovies.com/  (privacy-security/Email Sites)  -- https://www.watch4freemovies.com/  -- [Errno -2] Name or service not known
+[NET] https://www2.6movies.net/  (privacy-security/Email Sites)  -- https://www2.6movies.net/  -- [Errno -2] Name or service not known
+[NET] https://www2.smilestv.net/  (privacy-security/Email Sites)  -- https://www2.smilestv.net/  -- [Errno 101] Network is unreachable
+[404] http://www.pumpyouup.com/  (privacy-security/Email Sites)  -- pumpyouup  -- 
+[404] https://www.ojrq.net  (privacy-security/PayPal alternatives)  -- Square  -- 
+[404] https://inteltechniques.com/buscador/  (privacy-security/Penetration Testing Distributions)  -- Buscador  -- 
+[404] https://www.mike-gualtieri.com/css-exfil-vulnerability-tester  (privacy-security/Privacy Extensions)  -- CSS Exfil Protection  -- 
+[404] https://shadowsocks.org/en/index.html  (privacy-security/Proxy Apps)  -- Shadowsocks  -- 
+[404] https://b.lulu.workers.dev/  (privacy-security/Proxy Sites)  -- 2  -- 
+[404] https://b.jsproxy.workers.dev/  (privacy-security/Proxy Sites)  -- 3  -- 
+[404] https://noisy-tooth-2ee5.susheng.workers.dev/  (privacy-security/Proxy Sites)  -- 4  -- 
+[404] https://b.hehe.workers.dev/  (privacy-security/Proxy Sites)  -- 5  -- 
+[404] https://b.007.workers.dev/  (privacy-security/Proxy Sites)  -- b.007  -- 
+[404] https://unblocked-pw.github.io/  (privacy-security/Unblock blocked Websites)  -- Unblocked  -- 
+[404] https://www.removeddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/  (seedboxes/Seedbox Hosting Providers)  -- /u/Andy10gbit  -- 
+[404] https://www.online.net/en  (seedboxes/Seedbox Hosting Providers)  -- Online.net  -- 
+[404] https://www.ultraseedbox.com/  (seedboxes/Seedbox Hosting Providers)  -- UltraSeedbox  -- 
+[404] https://www.removeddit.com/r/seedboxes  (seedboxes/Seedboxes)  -- /r/seedboxes  -- 
+[404] https://ultraseedbox.com/  (seedboxes/Seedboxes)  -- Ultra Seedbox  -- 
+[404] https://www.removeddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/  (streaming/1080p Streaming)  -- Setup guide  -- 
+[NET] https://streamingdivx1.com  (streaming/1080p Streaming)  -- StreamingDIVX1  -- [Errno -2] Name or service not known
+[NET] https://www.uwatchfree.tv/  (streaming/1080p Streaming)  -- UWatchfree  -- [Errno -2] Name or service not known
+[NET] https://vostfrserie.biz/  (streaming/1080p Streaming)  -- VOSTFRSerie  -- [Errno -2] Name or service not known
+[NET] https://ymovies.tv/  (streaming/1080p Streaming)  -- Ymovies  -- [Errno 111] Connection refused
+[404] https://tigolerelease.blogspot.com/  (streaming/4k/HDR TV/Movie)  -- Tigole Release  -- 
+[NET] https://www6.fmovies.to/  (streaming/720p Streaming)  -- Mirror  -- [Errno -2] Name or service not known
+[404] https://ok.ru/videos/  (streaming/720p Streaming)  -- OK.ru  -- 
+[404] https://michael24884.github.io/TaiYaKiAnime/  (streaming/Android Anime)  -- 2  -- 
+[404] https://archive.org/details/anime-hd.-3.0  (streaming/Android Anime)  -- Anime HD 3.0  -- 
+[404] https://www.funkymuse.dev/p/berg.html  (streaming/Android Streaming)  -- Berg  -- 
+[404] https://cucotv.github.io/  (streaming/Android Streaming)  -- CucoTV  -- 
+[NET] https://novatv.app/  (streaming/Android Streaming)  -- NovaTV  -- [Errno -3] Temporary failure in name resolution
+[404] https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/  (streaming/Android Streaming)  -- Titanium TV  -- 
+[404] https://play.google.com/store/apps/details?id=com.github.exact7.xtra&hl=en_US&gl=US  (streaming/Android Streaming)  -- Xtra  -- 
+[404] https://zinitevi.github.io/movieapps/  (streaming/Android Streaming)  -- ZiniTevi  -- 
+[NET] http://fullepisodes.biz/  (streaming/Anime & Cartoon Streaming (720p+))  -- Full Episodes  -- [Errno -2] Name or service not known
+[NET] https://www11.kickassanime.io/  (streaming/Anime & Cartoon Streaming (720p+))  -- KickAssAnime  -- [Errno -2] Name or service not known
+[NET] https://www4.ryuanime.com/  (streaming/Anime & Cartoon Streaming (720p+))  -- RyuAnime  -- [Errno 101] Network is unreachable
+[404] https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1  (streaming/Anime & Cartoon Streaming (720p+))  -- The /r/AnimePiracy Index  -- 
+[404] https://www.removeddit.com/r/animepiracy  (streaming/Anime (Hentai pages are NOT allowed!))  -- /r/animepiracy  -- 
+[404] https://www.removeddit.com/r/animepiracy/wiki/index  (streaming/Anime (Hentai pages are NOT allowed!))  -- /r/animepiracy wiki  -- 
+[404] https://www.removeddit.com/r/sjain_guides/  (streaming/Anime (Hentai pages are NOT allowed!))  -- /r/sjain_guides  -- 
+[404] https://www.removeddit.com/r/KissCartoon/wiki/alternatives  (streaming/Anime (Hentai pages are NOT allowed!))  -- Alternatives to Kiss websites  -- 
+[NET] https://www3.gogoanime.in/  (streaming/Anime (Hentai pages are NOT allowed!))  -- GoGo Anime  -- [Errno -2] Name or service not known
+[404] https://monimoapp.netlify.com/  (streaming/Anime (Hentai pages are NOT allowed!))  -- Monimo  -- 
+[404] https://animebatchddl.lelouch-lamperouge.workers.dev/0:/  (streaming/Anime Downloading)  -- 4  -- 
+[404] https://atdrive.animetimeserver.workers.dev/0:/  (streaming/Anime Downloading)  -- Anime Time Drive  -- 
+[410] https://animebatchddl.wordpress.com/  (streaming/Anime Downloading)  -- AnimeBatchDDL  -- 
+[404] https://animebatchddl.code-geass.workers.dev/0:/  (streaming/Anime Downloading)  -- Drive  -- 
+[404] https://ffa.shiraha.workers.dev/  (streaming/Anime Downloading)  -- FFA DDL BATCH  -- 
+[404] https://drive.google.com/drive/folders/19URIgzsbkOfNCXG13Wklmoq3KugKzk9j  (streaming/Anime Downloading)  -- GDrive  -- 
+[404] https://nibl.co.uk/bots.php  (streaming/Anime Downloading)  -- nibl  -- 
+[NET] https://animetribes.ru/  (streaming/Anime Streaming)  -- AnimeTribes  -- [Errno -2] Name or service not known
+[404] https://www.anirena.com/  (streaming/Anime Torrent Websites)  -- Shana Project  -- 
+[NET] https://kisscartoon.info  (streaming/Cartoons)  -- KissCartoon.info  -- [Errno -5] No address associated with hostname
+[NET] https://dr.warezforums.com/  (streaming/Direct Download Streaming)  -- DL WarezForums  -- [Errno -5] No address associated with hostname
+[404] https://hoarding.noobvishal.workers.dev/  (streaming/Direct Download Streaming)  -- Torrent Hording  -- 
+[404] https://www.removeddit.com/r/1080pMoviesOnline  (streaming/Full Movies On)  -- /r/1080pMoviesOnline  -- 
+[404] https://www.removeddit.com/r/BestOfStreamingVideo  (streaming/Full Movies On)  -- /r/BestOfStreamingVideo  -- 
+[404] https://www.removeddit.com/r/fullcartoonsonyoutube/  (streaming/Full Movies On)  -- /r/fullcartoonsonyoutube  -- 
+[404] https://www.removeddit.com/r/FullLengthFilms/  (streaming/Full Movies On)  -- /r/FullLengthFilms  -- 
+[404] https://www.removeddit.com/r/fullmovierequest/  (streaming/Full Movies On)  -- /r/fullmovierequest  -- 
+[404] https://www.removeddit.com/r/FullMoviesDailyMotion  (streaming/Full Movies On)  -- /r/FullMoviesDailyMotion  -- 
+[404] https://www.removeddit.com/r/Fullmoviesonvimeo/  (streaming/Full Movies On)  -- /r/Fullmoviesonvimeo  -- 
+[404] https://www.removeddit.com/r/fullmoviesonyoutube/  (streaming/Full Movies On)  -- /r/fullmoviesonyoutube  -- 
+[404] https://www.removeddit.com/r/fulltvshowsonvimeo/  (streaming/Full Movies On)  -- /r/fulltvshowsonvimeo  -- 
+[404] https://www.removeddit.com/r/fulltvshowsonyoutube/  (streaming/Full Movies On)  -- /r/fulltvshowsonyoutube  -- 
+[404] https://www.removeddit.com/user/Wiggly_Poop/m/fullmoviesandtv/  (streaming/Full Movies On)  -- fullmoviesandtv multireddit  -- 
+[404] https://www.removeddit.com/r/freefolk  (streaming/Full TV Shows On)  -- /r/freefolk  -- 
+[404] https://www.removeddit.com/r/ProShotMusicals  (streaming/Full TV Shows On)  -- /r/ProshotMusicals  -- 
+[404] https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv  (streaming/Full TV Shows On)  -- How To Get Everything On Netflix  -- 
+[404] https://apps.apple.com/us/app/animeglare/id1472011019  (streaming/iOS Anime)  -- AnimeGlare  -- 
+[404] https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151  (streaming/iOS Anime)  -- AnimeHub  -- 
+[404] https://apps.apple.com/us/app/katsu-by-orion/id1503693664  (streaming/iOS Anime)  -- KATSU  -- 
+[404] https://apps.apple.com/ie/app/sports-tv-live-streaming/id1371395176  (streaming/iOS Live TV)  -- AllSports  -- 
+[404] https://apps.apple.com/us/app/dramatics-best-drama/id1493796973  (streaming/iOS Streaming)  -- Dramatics  -- 
+[404] https://apps.apple.com/ca/app/hdo-box-a-better-tracking/id1529135165  (streaming/iOS Streaming)  -- HDO Box  -- 
+[404] https://apps.apple.com/us/app/movzy-movies-music-for-you/id1537372348  (streaming/iOS Streaming)  -- Movzy  -- 
+[404] https://www.removeddit.com/r/IPTV  (streaming/IPTV + DVR)  -- /r/IPTV  -- 
+[404] https://www.removeddit.com/r/IPTVresellers  (streaming/IPTV + DVR)  -- /r/iptvresellers  -- 
+[404] https://www.removeddit.com/r/IPTVreviews  (streaming/IPTV + DVR)  -- /r/IPTVReviews  -- 
+[404] https://www.removeddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/  (streaming/IPTV + DVR)  -- Academy Awards 2019 Screeners Megathread  -- 
+[404] https://rocketstreams.tv/stbemu  (streaming/IPTV + DVR)  -- STBEmulator  -- 
+[404] https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client  (streaming/Live TV / Sports)  -- Kodi app  -- 
+[NET] https://sporthd.live/  (streaming/Live TV / Sports)  -- SportHD  -- [Errno -2] Name or service not known
+[NET] http://topstreams.info/  (streaming/Live TV / Sports)  -- Topstreams  -- [Errno -2] Name or service not known
+[NET] https://daxiv.com/  (streaming/Random Movie/TV Streaming Websites)  -- Daxiv Video  -- [Errno 101] Network is unreachable
+[NET] https://fmovies.to/  (streaming/Random Movie/TV Streaming Websites)  -- FMOVIES  -- [Errno -5] No address associated with hostname
+[NET] https://indoxxi.cx/  (streaming/Random Movie/TV Streaming Websites)  -- INDOXXI  -- [Errno -2] Name or service not known
+[NET] https://sokrostream.vip/  (streaming/Random Movie/TV Streaming Websites)  -- Sokrostream.vip  -- [Errno -2] Name or service not known
+[NET] https://katmoviehd.se/movie-request-page/  (streaming/Request Videos)  -- KatmovieHD  -- [Errno -2] Name or service not known
+[404] https://megaddl.co/tv-request/  (streaming/Request Videos)  -- MegaDDL  -- 
+[404] http://psychodownloads.com/forumdisplay.php?19-Request-Zone  (streaming/Request Videos)  -- Psycho Download  -- 
+[404] http://rarefilmm.com/requests/  (streaming/Request Videos)  -- RareFilmm  -- 
+[404] https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform  (streaming/Request Videos)  -- TheWebFlix  -- 
+[404] https://rentry.co/freemediafuckyeah#nsfw-streaming  (streaming/Specialty Streaming)  -- NSFW Streaming Sites  -- 
+[404] https://www.mma-core.com/videos/home  (streaming/Sports Streaming)  -- MMACore  -- 
+[404] https://www.removeddit.com/r/CFBStreams/  (streaming/Sports Streaming (only))  -- /r/CFBStreams  -- 
+[404] https://www.removeddit.com/r/MLBStreams/  (streaming/Sports Streaming (only))  -- /r/MLBStreams  -- 
+[404] https://www.removeddit.com/r/mmafights/  (streaming/Sports Streaming (only))  -- /r/mmafights  -- 
+[404] https://www.removeddit.com/r/motorsportsstreams  (streaming/Sports Streaming (only))  -- /r/motorsportsstreams  -- 
+[404] https://www.removeddit.com/r/ncaaBBallStreams/  (streaming/Sports Streaming (only))  -- /r/ncaaBBallStreams  -- 
+[404] https://www.removeddit.com/r/nflstreams/  (streaming/Sports Streaming (only))  -- /r/nflstreams  -- 
+[404] https://www.removeddit.com/r/NHLStreams/  (streaming/Sports Streaming (only))  -- /r/NHLStreams  -- 
+[404] https://www.removeddit.com/r/rugbystreams/  (streaming/Sports Streaming (only))  -- /r/rugbystreams  -- 
+[404] https://www.removeddit.com/r/WWEstreams/  (streaming/Sports Streaming (only))  -- /r/WWEstreams  -- 
+[404] https://www.removeddit.com/r/Movie_Club  (streaming/Stream Synchronisation)  -- /r/Movie_Club  -- 
+[NET] https://4movierulz.mn/  (streaming/Streaming)  -- 4MovieRulz  -- [Errno -2] Name or service not known
+[404] https://animebdk.blogspot.com/  (streaming/Streaming)  -- animebdk  -- 
+[NET] https://cinevood.cyou/  (streaming/Streaming)  -- CineVood  -- [Errno -2] Name or service not known
+[404] https://fmmiithuketa.blog.fc2.com/  (streaming/Streaming)  -- fmmiithuketa  -- 
+[404] http://fomny.com/Home/index.php  (streaming/Streaming)  -- fomny  -- 
+[NET] https://otakutales.site/  (streaming/Streaming)  -- otakutales  -- [Errno -2] Name or service not known
+[404] https://world4ufree.cyou/  (streaming/Streaming)  -- World4uFree  -- 
+[404] https://krakentv.app/download/  (streaming/Streaming Apps)  -- KrakenTV  -- 
+[404] https://www.removeddit.com/r/TVZionApp/  (streaming/Streaming Apps)  -- Reddit  -- 
+[404] https://driveandlisten.herokuapp.com/  (streaming/Streaming Sites)  -- Drive & Listen  -- 
+[404] https://clouddebrid.herokuapp.com/  (streaming/Transloading or (stream) sharing Services (WebTorrent Clients))  -- Clouddebrid  -- 
+[404] https://webtor.io/  (streaming/Transloading or (stream) sharing Services (WebTorrent Clients))  -- Webtor  -- 
+[404] https://1fichier.com/?cxqd57d6vfpot5x6v9ft  (streaming/Video Stream Sync)  -- 2  -- 
+[404] https://www.youtube.com/user/phattphucks/featured  (streaming/Video Stream Sync)  -- PhattPhucks  -- 
+[404] http://megaddl.net/  (tools-utilities/Business Name Generator)  -- MegaDDL  -- 
+[404] http://psychodownloads.com/forum.php  (tools-utilities/Business Name Generator)  -- psychodownloads  -- 
+[404] https://www.pazera-software.com/products/hash/  (tools-utilities/Checksum verification)  -- PS Hash  -- 
+[404] https://f-droid.org/packages/com.droidvim  (tools-utilities/Developer Tools)  -- 2  -- 
+[404] https://algorithm-visualizer.org/  (tools-utilities/Developer Tools)  -- Algorithm Visualizer  -- 
+[404] https://ide.goorm.io/  (tools-utilities/Developer Tools)  -- goormIDE  -- 
+[404] https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/  (tools-utilities/Developer Tools)  -- Markdown Editor for Firefox  -- 
+[404] https://www.willpeavy.com/tools/minifier/  (tools-utilities/Developer Tools)  -- Minifier  -- 
+[404] https://playcode.io/  (tools-utilities/Developer Tools)  -- PlayCode  -- 
+[404] https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b  (tools-utilities/Developer Tools)  -- Tutorial  -- 
+[404] https://jpop80ss.blogspot.com/  (tools-utilities/Downloading)  -- jpop80ss  -- 
+[NET] https://katmoviehd.se/  (tools-utilities/Downloading)  -- KatMovieHD  -- [Errno -2] Name or service not known
+[404] https://nickloadpt.blogspot.com/  (tools-utilities/Downloading)  -- NickloadPT  -- 
+[NET] https://salamdl.me/  (tools-utilities/Downloading)  -- SalamDL  -- [Errno -2] Name or service not known
+[NET] https://sukidesuost.info/  (tools-utilities/Downloading)  -- Sukidesuost  -- [Errno -3] Temporary failure in name resolution
+[NET] https://themoviestalk.icu/  (tools-utilities/Downloading)  -- TheMoviesTalk  -- [Errno -3] Temporary failure in name resolution
+[404] https://tpaportugal.blogspot.com/  (tools-utilities/Downloading)  -- TPAPortugal  -- 
+[NET] https://www.uncuthd.win/  (tools-utilities/Downloading)  -- UnCutHD  -- [Errno -2] Name or service not known
+[404] https://drive.google.com/drive/folders/1OuJJg_zr4pG3EW2SYFyV4CaBxlyypZAQ  (tools-utilities/Downloading)  -- 剧集  -- 
+[404] https://notabug.org/sayem314/d-fi  (tools-utilities/Downloading Apps)  -- d-fi  -- 
+[404] https://notabug.org/dlspt/dl-spt  (tools-utilities/Downloading Apps)  -- DL-Spt  -- 
+[404] https://drive.google.com/drive/folders/1J6VVfN-iD6DLEMIC1kLETcc5f8ENoJs0  (tools-utilities/Downloading Sites)  -- Kyan's Music  -- 
+[404] https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7  (tools-utilities/Downloading Sites)  -- Music Library  -- 
+[404] https://tvg-blog.tumblr.com/  (tools-utilities/Downloading Sites)  -- TvG  -- 
+[404] https://www.removeddit.com/r/datacurator/  (tools-utilities/File Renaming and Tagging)  -- /r/datacurator  -- 
+[404] https://www.luminescence-software.org/en/metatogger.html  (tools-utilities/File Renaming and Tagging)  -- Metatogger  -- 
+[404] https://anadius.github.io/gd-efc/  (tools-utilities/File Tools)  -- gd-efc  -- 
+[404] https://savetogoogledrive.herokuapp.com/  (tools-utilities/File Tools)  -- Save to Drive  -- 
+[404] https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9  (tools-utilities/Font Sites)  -- Audiobook Drive  -- 
+[404] https://getfont.herokuapp.com/  (tools-utilities/Font Sites)  -- Get Font  -- 
+[404] http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes  (tools-utilities/Free Stuff)  -- Android  -- 
+[404] https://archive.org/details/4chan-threads-2009-2012  (tools-utilities/Fun Sites)  -- 4GBs of 4chan Threads  -- 
+[404] https://loveeevee.github.io/Dots-Converter/dots-draw.html  (tools-utilities/Fun Sites)  -- Dots-Converter  -- 
+[404] https://www.memeatlas.com/  (tools-utilities/Fun Sites)  -- MemeAtlas  -- 
+[404] https://window-swap.com/window  (tools-utilities/Fun Sites)  -- WindowSwap  -- 
+[404] https://archive.org/details/jpcm_yuzu4k  (tools-utilities/Fun Sites)  -- Yuzu4K Japanese Commercials  -- 
+[404] https://raihan2k18.blogspot.com/  (tools-utilities/Giveaway Websites (scam free))  -- Giveaway Blog  -- 
+[404] https://google-webfonts-helper.herokuapp.com/fonts  (tools-utilities/Google (Web)Fonts)  -- Google WebFont Helper  -- 
+[404] https://f-droid.org/packages/com.github.axet.maps/  (tools-utilities/Google Maps)  -- Maps  -- 
+[404] https://f-droid.org/packages/com.github.yeriomin.yalpstore/  (tools-utilities/Google Play Store)  -- Yalp Store  -- 
+[404] https://d3ward.github.io/toolz/src/adblock  (tools-utilities/Helpful Sites / Apps)  -- Ad Blocker Test  -- 
+[404] https://mindmapp.cedoor.dev/app  (tools-utilities/Helpful Sites / Tools)  -- MindMapp  -- 
+[404] https://sleepyti.me/  (tools-utilities/Helpful Sites / Tools)  -- Sleepyti.me  -- 
+[404] https://www.bing.com/visualsearch/Microsoft/WhatDog  (tools-utilities/Helpful Sites / Tools)  -- WhatDog  -- 
+[404] https://ophir.alwaysdata.net/dezoomify/dezoomify.html  (tools-utilities/Image downloader (tools & websites))  -- Dezoomify  -- 
+[404] https://apkpure.com/en/droidiris-image-search/org.droidiris  (tools-utilities/Image downloader (tools & websites))  -- DroidIris+  -- 
+[410] https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk  (tools-utilities/Image Tools)  -- 2  -- 
+[404] https://pilssken.neocities.org/art-tools/  (tools-utilities/Image Tools)  -- 3  -- 
+[404] https://ai-art.tokyo/en/  (tools-utilities/Image Tools)  -- AI Gahaku  -- 
+[404] https://codeberg.org/cauf/icon_finder  (tools-utilities/Image Tools)  -- icon_finder  -- 
+[404] https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12  (tools-utilities/Image Tools)  -- Image Tricks Lite  -- 
+[404] https://affinelayer.com/pixsrv/  (tools-utilities/Image Tools)  -- Image-to-Image  -- 
+[404] https://official-awesome-piracy.vercel.app/  (tools-utilities/Indexes)  -- 2  -- 
+[404] https://alternate-awesome-piracy.vercel.app/  (tools-utilities/Indexes)  -- 4  -- 
+[404] https://cata-list.github.io/  (tools-utilities/Indexes)  -- cata-list  -- 
+[404] https://eldritchdata.neocities.org/Lists/ChanList.html  (tools-utilities/Indexes)  -- ChanList  -- 
+[404] https://discord.me/CHEF-KOCH  (tools-utilities/Indexes)  -- Discord  -- 
+[404] https://pilssken.neocities.org/warez/  (tools-utilities/Indexes)  -- neocities  -- 
+[404] https://soda.privatevoid.net/num/lists/web  (tools-utilities/Indexes)  -- num's link list  -- 
+[NET] https://therandombutton.com/  (tools-utilities/Indexes)  -- Randomizer  -- [Errno 101] Network is unreachable
+[404] https://applicationize.me/now  (tools-utilities/Internet Tools)  -- Applicationize  -- 
+[404] https://sindresorhus.com/caprine/  (tools-utilities/Internet Tools)  -- Caprine  -- 
+[404] https://asteroidcollision.herokuapp.com/  (tools-utilities/Map Tools)  -- AsteroidCollision  -- 
+[404] https://bitbucket.org/pedro311/freshtomato-arm  (tools-utilities/Router Firmware)  -- source code ARM  -- 
+[404] https://bitbucket.org/pedro311/freshtomato-mips  (tools-utilities/Router Firmware)  -- source code MIPS  -- 
+[404] https://drive.hashhackers.com/  (tools-utilities/Screen Recorders)  -- Driveindex  -- 
+[404] https://drive.himanshurahi.workers.dev/  (tools-utilities/Screen Recorders)  -- HimanshuRahi  -- 
+[404] https://drive3.bartixxx.workers.dev/  (tools-utilities/Screen Recorders)  -- https://drive3.bartixxx.workers.dev/  -- 
+[404] https://driveflask.herokuapp.com/  (tools-utilities/Screen Recorders)  -- https://driveflask.herokuapp.com/  -- 
+[404] https://gd.404edu.workers.dev/  (tools-utilities/Screen Recorders)  -- https://gd.404edu.workers.dev/  -- 
+[404] https://gd.zxd.workers.dev/  (tools-utilities/Screen Recorders)  -- https://gd.zxd.workers.dev/  -- 
+[404] https://gentle-frost-7788.edwindrive.workers.dev/  (tools-utilities/Screen Recorders)  -- https://gentle-frost-7788.edwindrive.workers.dev/  -- 
+[404] https://index.zanime.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://index.zanime.workers.dev/0:/  -- 
+[404] https://movietrigger.movietrigger.workers.dev/  (tools-utilities/Screen Recorders)  -- https://movietrigger.movietrigger.workers.dev/  -- 
+[404] https://mygd.jikkubot.workers.dev/  (tools-utilities/Screen Recorders)  -- https://mygd.jikkubot.workers.dev/  -- 
+[404] https://td1.destiny6520.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://td1.destiny6520.workers.dev/0:/  -- 
+[404] https://tr.mooser.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://tr.mooser.workers.dev/0:/  -- 
+[NET] https://www2.8putlocker.com/  (tools-utilities/Screen Recorders)  -- https://www2.8putlocker.com/  -- [Errno 101] Network is unreachable
+[NET] https://www4.123movies.net/  (tools-utilities/Screen Recorders)  -- https://www4.123movies.net/  -- [Errno -3] Temporary failure in name resolution
+[404] https://ultratgindex.herokuapp.com/  (tools-utilities/Screen Recorders)  -- UltraTGIndex  -- 
+[NET] https://infinitydecentralized.com/  (tools-utilities/Search Engines)  -- Infinity  -- [Errno 101] Network is unreachable
+[404] https://coursebuilder.withgoogle.com/  (tools-utilities/Search Tools)  -- Advanced  -- 
+[404] https://graph.tips/beta/  (tools-utilities/Search Tools)  -- Graph.tips  -- 
+[404] https://intelx.io/tools  (tools-utilities/Search Tools)  -- Intelligence X  -- 
+[404] https://benbusby.com/projects/whoogle-search/  (tools-utilities/Search Tools)  -- Whoogle  -- 
+[404] https://www.upload.ee/files/10182930/thk.003mk6.7z.html  (tools-utilities/System Tools)  -- thk.003mk6  -- 
+[404] https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html  (tools-utilities/Text Tools)  -- PDF Text Extraction  -- 
+[404] https://notify.moe/  (tools-utilities/Tracking / Discovery)  -- Anime Notifier  -- 
+[404] https://huere.net/trakt/duplicate_removal/  (tools-utilities/Tracking / Discovery)  -- Duplicate Remover  -- 
+[404] https://del.dog/  (tools-utilities/URL Tools)  -- dogbin  -- 
+[404] https://www.fuselink.co/  (tools-utilities/URL Tools)  -- Fuselink  -- 
+[404] https://mpv-net.github.io/mpv.net-web-site/  (tools-utilities/Video Tools)  -- 2  -- 
+[NET] https://www.shareae.com/  (tools-utilities/Video Tools)  -- ShareAE  -- [Errno 111] Connection refused
+[404] https://play.google.com/store/apps/details?id=com.frostwire.android  (trackers/Android Torrenting)  -- Frostwire  -- 
+[404] https://play.google.com/store/apps/details?id=com.easelifeapps.torrz&hl=en_US&gl=US  (trackers/Android Torrenting)  -- Torrz  -- 
+[404] https://play.google.com/store/apps/details?id=com.teeonsoft.ztorrent  (trackers/Android Torrenting)  -- zetaTorrent  -- 
+[404] https://tikol4life.ngrok.io/auth.php  (trackers/Private Trackers)  -- Tikol4Life  -- 
+[NET] https://1337.root.yt/  (trackers/Public Trackers)  -- 1337x  -- [Errno -2] Name or service not known
+[NET] https://monova.org  (trackers/Public Trackers)  -- monova  -- [Errno 101] Network is unreachable
+[NET] https://yts.mx  (trackers/Public Trackers)  -- YTS  -- [Errno -2] Name or service not known
+[NET] https://eniahd.com/  (trackers/Semi-Private Trackers)  -- EniaHD  -- [Errno 101] Network is unreachable
+[404] https://www.removeddit.com/r/moddedandroidapps  (trackers/Torrent Apps (Android/iOS))  -- /r/moddedandroidapps  -- 
+[404] https://play.google.com/store/apps/details?id=com.mobilityflow.torrent  (trackers/Torrent Apps (Android/iOS))  -- aTorrent  -- 
+[404] https://play.google.com/store/apps/details?id=org.transdroid.lite  (trackers/Torrent Apps (Android/iOS))  -- Transdrone  -- 
+[404] https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader  (trackers/Torrent Apps (Android/iOS))  -- Vuze  -- 
+[404] https://bonneteer.herokuapp.com/  (trackers/Torrent Search Engine Sites)  -- bonneteer.herokuapp  -- 
+[404] https://thepiratebay1.herokuapp.com/  (trackers/Torrent Search Engine Sites)  -- The Pirate Bay Search  -- 
+[404] https://8kun.top/t/index.html  (trackers/Torrent Sites)  -- 8kun /t/  -- 
+[404] https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links  (trackers/Torrent Sites)  -- Add Links  -- 
+[404] https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters  (trackers/Torrent Sites)  -- Advanced Filters  -- 
+[404] https://yify.netlify.app/  (trackers/Torrent Sites)  -- Mirror  -- 
+[NET] https://ettvproxies.com/  (trackers/Torrent Sites)  -- Proxies  -- [Errno 101] Network is unreachable
+[NET] https://torrentgalaxy.to/  (trackers/Torrent Sites)  -- TorrentGalaxy  -- [Errno -5] No address associated with hostname
+[NET] https://tvunderground.org.ru/  (trackers/Torrent Sites)  -- TV Underground  -- [Errno 101] Network is unreachable
+[NET] https://yts.mx/  (trackers/Torrent Sites)  -- YTS  -- [Errno -2] Name or service not known
+[404] https://www.removeddit.com/r/trackers  (trackers/Torrent Trackers)  -- /r/trackers  -- 
+[404] https://www.removeddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/  (trackers/Torrent Trackers)  -- A Simple Guide To A Better Ratio  -- 
+[404] https://www.removeddit.com/r/torrents  (trackers/Torrenting)  -- /r/torrents  -- 
+[NET] https://www.arabp2p.com/  (trackers/Torrenting)  -- ArabP2P  -- [Errno 101] Network is unreachable
+[NET] https://www.dydytt.net  (trackers/Torrenting)  -- dydytt  -- [Errno 111] Connection refused
+[NET] https://dytt8.net/  (trackers/Torrenting)  -- dytt8  -- [Errno 111] Connection refused
+[404] https://ygdy8.com/index.html  (trackers/Torrenting)  -- ygdy8  -- 
+[404] https://www.removeddit.com/r/invites  (trackers/Tracker Invites)  -- /r/Invites  -- 
+[404] https://www.removeddit.com/r/opensignups  (trackers/Tracker Invites)  -- /r/OpenSignups  -- 
+[404] https://www.removeddit.com/r/trackers/wiki/getting_into_private_trackers  (trackers/Tracker Invites)  -- getting_into_private_trackers  -- 
+[404] https://www.removeddit.com/r/trackers/comments/7ildxx/open_signups_thread/  (trackers/Tracker Invites)  -- Open sign-ups thread  -- 
+[404] https://dognzb.cr/register  (usenet/Usenet Paid Indexers)  -- registration page  -- 
