@@ -1,560 +1,100 @@
-# generated 2026-05-24T08:40:01.095064+00:00
+# generated 2026-05-31T08:56:27.882082+00:00
 # strict=False
-# alive=8082  dead=556  unknown=617
+# alive=7974  dead=96  unknown=629
 
-[404] https://addons.mozilla.org/en-US/firefox/user/12781645/  (apps-software/Adblocking Extensions)  -- Don't Touch My Tabs!  -- 
-[404] https://greasyfork.org/en/scripts/409156-linkvertise-bypass  (apps-software/Adblocking Extensions)  -- Linkvertise Bypass  -- 
-[404] https://f-droid.org/en/packages/me.ccrama.redditslide/  (apps-software/Android Adblocking)  -- 2  -- 
-[404] https://play.google.com/store/apps/details?id=org.itxtech.daedalus  (apps-software/Android Adblocking)  -- Daedalus  -- 
-[404] https://f-droid.org/en/packages/org.jak_linux.dns66/  (apps-software/Android Adblocking)  -- DNS66  -- 
-[404] https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/  (apps-software/Android Adblocking)  -- Infinity  -- 
-[404] https://play.google.com/store/apps/details?id=me.ccrama.redditslide  (apps-software/Android Adblocking)  -- Slide  -- 
-[404] https://drive.google.com/drive/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT  (apps-software/Android APKs)  -- APKBuffet  -- 
-[NET] https://www.apktops.ir/  (apps-software/Android APKs)  -- APKTops  -- [Errno 101] Network is unreachable
-[NET] https://app.app-valley.vip/  (apps-software/Android APKs)  -- AppValley  -- [Errno -2] Name or service not known
-[404] https://www.djjubeemedia.appboxes.co/Apks/  (apps-software/Android APKs)  -- djjubeemedia  -- 
-[NET] https://latestechnews.com/how-to-use-lucky-patcher/  (apps-software/Android APKs)  -- How to use  -- [Errno 101] Network is unreachable
-[NET] https://sourceofapk.com/  (apps-software/Android APKs)  -- Source of APK  -- [Errno -2] Name or service not known
-[404] https://f-droid.org/en/packages/click.dummer.have_radiosion/  (apps-software/Android Podcasts / Radio)  -- HaveRadiosion  -- 
-[404] https://play.google.com/store/apps/details?id=me.echeung.moemoekyun  (apps-software/Android Podcasts / Radio)  -- LISTEN.moe  -- 
-[404] https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio  (apps-software/Android Podcasts / Radio)  -- Next Radio  -- 
-[404] https://play.google.com/store/apps/details?id=com.stonegate.tsacdop  (apps-software/Android Podcasts / Radio)  -- Tsacdop  -- 
-[404] https://f-droid.org/en/packages/com.stonegate.tsacdop/  (apps-software/Android Podcasts / Radio)  -- Tsacdop  -- 
-[404] https://f-droid.org/en/packages/com.smilla.greentooth/  (apps-software/Android Privacy)  -- Greentooth  -- 
-[404] https://play.google.com/store/apps/details?id=app.greyshirts.firewall  (apps-software/Android Privacy)  -- NoRoot Firewall  -- 
-[404] https://f-droid.org/en/packages/org.retroshare.android.qml_app/  (apps-software/Android Privacy)  -- RetroShare  -- 
-[NET] https://silence.im/  (apps-software/Android Privacy)  -- Silence  -- [Errno 101] Network is unreachable
-[404] https://fedilab.app/wiki/untrackme/  (apps-software/Android Privacy)  -- UntrackMe  -- 
-[404] https://play.google.com/store/apps/details?id=studio.onelab.clipboard  (apps-software/Android Tools)  -- Clipt  -- 
-[404] https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US  (apps-software/Android Tools)  -- FCC Speed Test  -- 
-[404] https://play.google.com/store/apps/details?id=com.flynx  (apps-software/Android Tools)  -- Flynx  -- 
-[404] https://atom0s.com/forums/viewforum.php?f=25  (apps-software/Anti-DRM Protects, Plugins & Source Code)  -- Forum  -- 
-[410] https://floc.glitch.me/  (apps-software/Browser Tools)  -- FLoC Demo  -- 
-[404] https://codeberg.org/orenom/Wikiless  (apps-software/Browser Tools)  -- Source  -- 
-[404] https://rauenzi.github.io/BetterDiscordAddons/  (apps-software/Discord Tools)  -- 2  -- 
-[404] https://greasyfork.org/en/scripts/404170-discord-token-getter  (apps-software/Discord Tools)  -- Discord Token Getter  -- 
-[404] https://discord.sale/  (apps-software/Discord Tools)  -- Discord.sale  -- 
-[404] https://greasyfork.org/en/scripts/395741-get-discord-token  (apps-software/Discord Tools)  -- Get Discord Token  -- 
-[404] https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png  (apps-software/Discord Tools)  -- Hypesquad  -- 
-[404] https://betterdiscord.app/theme/Revert%20Rebrand  (apps-software/Discord Tools)  -- Revert Rebrand  -- 
-[404] https://cr3atable.github.io/Powerconvert  (apps-software/Discord Tools)  -- Theme Converter  -- 
-[404] http://mldonkey.sourceforge.net/Main_Page  (apps-software/File Sharing Apps)  -- MLDonkey  -- 
-[404] https://piracy.now.sh/telegram/  (apps-software/File Sharing Apps)  -- Telegram Download Channels  -- 
-[404] https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351  (apps-software/iOS Adblocking)  -- DNSCloak  -- 
-[404] https://apps.apple.com/us/app/slide-for-reddit/id1260626828  (apps-software/iOS Adblocking)  -- Slide  -- 
-[404] https://apps.apple.com/us/app/nullified/id1554556228  (apps-software/iOS Apps)  -- Anti Revoke  -- 
-[404] https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing  (apps-software/iOS Apps)  -- iPAGarage  -- 
-[404] https://testflight.apple.com/join/MLL0nUqr  (apps-software/iOS Apps)  -- TestFlight  -- 
-[410] https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing  (apps-software/iOS Jailbreaking)  -- Jailbreak 13.5 Tweak Compatibility List  -- 
-[404] https://apps.apple.com/us/app/fcc-speed-test/id794322383  (apps-software/iOS Tools)  -- FCC Speed Test  -- 
-[404] https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829  (apps-software/iOS Tools)  -- Grffe  -- 
-[404] https://apps.apple.com/ca/app/instdown-video/id1452076756  (apps-software/iOS Tools)  -- Instdown  -- 
-[404] https://apps.apple.com/us/app/moloko-themes-icons/id1534741213  (apps-software/iOS Tools)  -- moloko  -- 
-[404] https://apps.apple.com/sa/app/youdown/id1487658334  (apps-software/iOS Tools)  -- YouDown  -- 
-[404] https://giveaway2k20.blogspot.com/  (apps-software/Keygens & Serials)  -- Giveaway2k20  -- 
-[NET] https://www.imojado.org  (apps-software/MacOS)  -- Imojado  -- [Errno 101] Network is unreachable
-[404] https://antcpt.com/eng/home.htm  (apps-software/Multi Browser)  -- AntCpt  -- 
-[404] https://ainoob.com/en/project/noobox  (apps-software/Multi Browser)  -- NooBox  -- 
-[404] https://lbragile.github.io/TabMerger-Extension/  (apps-software/Multi Browser)  -- TabMerger  -- 
-[404] https://en.wikipedia.org/wiki/Hardware_restriction  (apps-software/Reasons against DRM)  -- Hardware restriction  -- 
-[404] https://www.removeddit.com/about/  (apps-software/Reddit History Wiper Tools)  -- Removeddit  -- 
-[404] https://www.redditinvestigator.com/  (apps-software/Reddit Tools)  -- Reddit Investigator  -- 
-[404] https://redditpreview.com/  (apps-software/Reddit Tools)  -- Reddit Preview  -- 
-[404] https://camas.github.io/reddit-search/  (apps-software/Reddit Tools)  -- Reddit-Search  -- 
-[404] https://titlescraper.herokuapp.com/  (apps-software/Reddit Tools)  -- TitleScraper  -- 
-[404] https://trendingwordsofreddit.herokuapp.com/  (apps-software/Reddit Tools)  -- TrendingWordsofReddit  -- 
-[404] https://www.removeddit.com/r/piracy/wiki/tools  (apps-software/Software)  -- /r/piracy/wiki/tools  -- 
-[404] https://radixx11rce2.blogspot.com/  (apps-software/Software)  -- RadiXX11  -- 
-[NET] https://rutracker.ru/  (apps-software/Software)  -- RuTracker  -- [Errno 111] Connection refused
-[404] https://onhax.io/  (apps-software/Software Sites)  -- onHax  -- 
-[NET] https://www.vectoritalia.com/  (apps-software/Software Sites)  -- VectorItalia  -- [Errno 101] Network is unreachable
-[404] https://www.allmytweets.net/connect/  (apps-software/Twitter Tools)  -- All My Tweets  -- 
-[404] http://ctrlq.org/first/  (apps-software/Twitter Tools)  -- First Tweet  -- 
-[NET] https://politwoops.com/countries  (apps-software/Twitter Tools)  -- PolitWoops  -- [Errno 101] Network is unreachable
-[404] https://ameliorated.info/index.html  (apps-software/Windows (Info, tools and other resources))  -- AME  -- 
-[404] https://gist.github.com/CHEF-KOCH/a9a70744d79e335e4b4512cbb9588982  (apps-software/Windows 10 Downloads (Mirrors) & Verification Tools)  -- All Windows LTSC download links incl. N  -- 
-[404] https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1  (apps-software/Windows 10 Downloads (Mirrors) & Verification Tools)  -- Windows 10 1903 Build 18362.30 Final (May Update '19)  -- 
-[404] https://genuineisoverifier.weebly.com/  (apps-software/Windows 10 Downloads (Mirrors) & Verification Tools)  -- Windows and Office Genuine ISO Verifier  -- 
-[404] https://pnlpal.dev/captionz  (apps-software/YouTube Tools)  -- Captionz  -- 
-[404] https://greasyfork.org/en/scripts/24163-youtube-unblocker  (apps-software/YouTube Tools)  -- Redirect Script  -- 
-[404] https://foundation.mozilla.org/en/campaigns/regrets-reporter/  (apps-software/YouTube Tools)  -- RegretsReporter  -- 
-[404] https://addons.mozilla.org/en-US/firefox/addon/ytlc/  (apps-software/YouTube Tools)  -- YouTube Live Comments  -- 
-[404] https://greasyfork.org/en/scripts/14370-youtube-playlist-search  (apps-software/YouTube Tools)  -- YouTube Playlist Search  -- 
-[404] https://www.chegg.com/test-prep/gre  (books-reading/Academic Papers (White papers, GRE, etc.))  -- GRE Prep  -- 
-[404] https://calishot-eng-2.herokuapp.com/index-eng/summary  (books-reading/Calibre Libraries)  -- 2  -- 
-[404] https://calishot-non-eng-4.herokuapp.com/index-non-eng/summary  (books-reading/Calibre Libraries)  -- 2  -- 
-[404] https://calishot-eng-3.herokuapp.com/index-eng/summary  (books-reading/Calibre Libraries)  -- 3  -- 
-[404] https://calishot-eng-4.herokuapp.com/index-eng/summary  (books-reading/Calibre Libraries)  -- 4  -- 
-[404] https://calishot-eng-1.herokuapp.com/  (books-reading/Calibre Libraries)  -- Calishot  -- 
-[404] https://calishot-non-eng-3.herokuapp.com/index-non-eng/summary  (books-reading/Calibre Libraries)  -- Non-English  -- 
-[404] https://mediaboxhd.net/comic  (books-reading/Comic Sites)  -- MediaBoxHD  -- 
-[404] https://readcomiconline.to/  (books-reading/Comicbooks)  -- readcomiconline.to  -- 
-[404] https://hacker-cookbook.herokuapp.com/  (books-reading/Cooking Sites)  -- 1337-Noms-The-Hacker-Cookbook  -- 
-[404] http://www.recipepuppy.com/about/api/  (books-reading/Cooking Sites)  -- Recipe Puppy  -- 
-[NET] https://sci-hub.se/  (books-reading/Documents / Articles)  -- 2  -- [Errno -2] Name or service not known
-[404] https://datacatalog.worldbank.org/  (books-reading/Documents / Articles)  -- Data Catalog  -- 
-[404] https://ethos.bl.uk/SearchResults.do  (books-reading/Documents / Articles)  -- EThOS  -- 
-[404] https://f-droid.org/en/packages/com.github.axet.bookreader/  (books-reading/eBook Readers)  -- BookReader  -- 
-[404] https://apt.izzysoft.de/fdroid/index/apk/org.coolreader  (books-reading/eBook Readers)  -- CoolReader  -- 
-[404] https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers  (books-reading/eBooks)  -- Amosqu's custom Google search  -- 
-[404] https://www.baen.com/catalog/category/view/s/free-library/  (books-reading/eBooks)  -- Baen  -- 
-[404] https://www.gutenberg.org/wiki/Main_Page  (books-reading/eBooks)  -- Gutenberg  -- 
-[404] https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/  (books-reading/eBooks)  -- The idiot proof guide to downloading ebooks off IRC  -- 
-[404] https://apps.apple.com/app/paperback-manga-reader/id1519509781  (books-reading/iOS Manga)  -- App Store  -- 
-[404] https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417  (books-reading/iOS Manga)  -- Manga Bird  -- 
-[404] https://apps.apple.com/us/app/manga-man-manga-reader/id1489839722  (books-reading/iOS Manga)  -- Manga Man  -- 
-[404] https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066  (books-reading/iOS Manga)  -- Manga Reader  -- 
-[404] https://apps.apple.com/us/app/manga-storm/id417341160  (books-reading/iOS Manga)  -- Manga Storm  -- 
-[404] https://apps.apple.com/app/id1181309509  (books-reading/iOS Manga)  -- MangaZone  -- 
-[404] https://www.removeddit.com/r/manga  (books-reading/Manga)  -- /r/manga  -- 
-[NET] https://funmanga.com/  (books-reading/Manga Sites)  -- FunManga  -- [Errno 101] Network is unreachable
-[404] https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser  (books-reading/Newspaper Sites)  -- Newspaper Paywall Bypasser  -- 
-[404] https://go.1001ebooks.com/accueil/  (books-reading/Reading)  -- 1001ebooks  -- 
-[NET] https://e-booksland.com/  (books-reading/Reading)  -- e-BooksLand  -- [Errno 101] Network is unreachable
-[NET] http://index-of.co.uk/  (books-reading/Reading Sites)  -- Repository z0ro  -- [Errno -5] No address associated with hostname
-[404] https://golden-dawn.com/nl/library.aspx  (books-reading/Religion / Esoterica)  -- Golden Dawn  -- 
-[404] http://www.sankaracharya.org/index.php  (books-reading/Religion / Esoterica)  -- Sankaracharya  -- 
-[404] https://allbooksworld.com/request-a-book/  (books-reading/Request Books)  -- AllBooksWorld  -- 
-[404] https://www.removeddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/  (books-reading/Textbooks)  -- Guide for Finding Textbooks  -- 
-[404] https://www.removeddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/  (books-reading/Textbooks)  -- How to "rent" your textbooks for free from Amazon  -- 
-[404] https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/  (books-reading/Textbooks)  -- PDF/Ebook trackers for college textbooks  -- 
-[404] https://www.removeddit.com/r/ZippyShare  (cloud-hosting/DDL Link Sites)  -- /r/ZippyShare  -- 
-[NET] https://avxhome.se/  (cloud-hosting/DDL Link Sites)  -- AVXHome  -- [Errno -5] No address associated with hostname
-[404] https://radixx11rce2.blogspot.com  (cloud-hosting/DDL Link Sites)  -- RADIXX11  -- 
-[404] https://scnlog.me/  (cloud-hosting/DDL Link Sites)  -- scnlog  -- 
-[NET] https://www.imovies.cc/  (cloud-hosting/Dedicated Hosts)  -- iMovies  -- [Errno -2] Name or service not known
-[NET] https://ww1.m4ufree.com  (cloud-hosting/Dedicated Hosts)  -- M4uFree  -- [Errno -2] Name or service not known
-[NET] https://www2.solarmovie.to/  (cloud-hosting/Dedicated Hosts)  -- SolarMovie  -- [Errno -3] Temporary failure in name resolution
-[NET] https://yesmovies.sh/  (cloud-hosting/Dedicated Hosts)  -- YesMovies.sh  -- [Errno -3] Temporary failure in name resolution
-[NET] https://www.dubbedanime.vip/  (cloud-hosting/Image hosting / Processing)  -- DubbedAnime  -- [Errno -2] Name or service not known
-[404] https://www.osintcombine.com/instagram-explorer  (cloud-hosting/Image hosting / Processing)  -- Instagram-Explorer  -- 
-[NET] https://ryuanime.com/  (cloud-hosting/Image hosting / Processing)  -- RyuAnime  -- [Errno 101] Network is unreachable
-[NET] https://watch0123movies.org  (cloud-hosting/Multi Hosts)  -- 0123movies  -- [Errno -2] Name or service not known
-[NET] https://4movierulz.mn/category/hollywood-movie-2020/  (cloud-hosting/Multi Hosts)  -- 4MovieRulz  -- [Errno -2] Name or service not known
-[NET] https://www.downloads-anymovies.com/  (cloud-hosting/Multi Hosts)  -- DownloadAnyMovie  -- [Errno -2] Name or service not known
-[NET] https://www3.himovies.to/  (cloud-hosting/Multi Hosts)  -- HiMovies  -- [Errno -3] Temporary failure in name resolution
-[NET] https://movies7.to/  (cloud-hosting/Multi Hosts)  -- Movies7  -- [Errno -5] No address associated with hostname
-[NET] https://old.pubfilms.club/  (cloud-hosting/Multi Hosts)  -- Pubfilms  -- [Errno -2] Name or service not known
-[NET] https://yesmovies.love/  (cloud-hosting/Multi Hosts)  -- Yesmovies.love  -- [Errno -2] Name or service not known
-[404] https://ethreesymsauto.laulzgoay.workers.dev/  (cloud-hosting/OneDrive)  -- 25 TB OneDrive  -- 
-[404] https://ahputuleech.herokuapp.com/  (cloud-hosting/Premium leech)  -- ahputuleech  -- 
-[404] https://ss-leech.herokuapp.com/  (cloud-hosting/Premium leech)  -- ss-leech.herokuapp  -- 
-[410] https://filehostlist.miraheze.org/wiki/Main_Page  (cloud-hosting/Premium Link Generators)  -- File Hosting Wiki  -- 
-[410] https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches  (cloud-hosting/Premium Link Generators)  -- Free Premium Leeches  -- 
-[404] https://nafanz.github.io/cloudstorage.html  (cloud-hosting/Premium Link Generators)  -- Small cloud storage table  -- 
-[404] https://nafanz.github.io/filesharing.html  (cloud-hosting/Premium Link Generators)  -- Small File sharing table  -- 
-[404] https://ossdev.achirou.workers.dev/  (cloud-hosting/Public Team Drives)  -- Achirou's Cloud  -- 
-[404] https://bot13.skyrim.workers.dev/  (cloud-hosting/Public Team Drives)  -- bot13  -- 
-[404] https://bot14.skyrim.workers.dev/  (cloud-hosting/Public Team Drives)  -- bot14  -- 
-[404] https://go.zgh.workers.dev/  (cloud-hosting/Public Team Drives)  -- go.zgh  -- 
-[404] https://teamdrive.hasibul.workers.dev/  (cloud-hosting/Public Team Drives)  -- hasibul  -- 
-[404] https://teamdrive.kltorrent.workers.dev/  (cloud-hosting/Public Team Drives)  -- kltorrent  -- 
-[404] https://tdrive1.aryan.workers.dev/  (cloud-hosting/Public Team Drives)  -- tdrive1  -- 
-[404] https://tor.uploadbot.workers.dev/  (cloud-hosting/Public Team Drives)  -- tor.uploadbot  -- 
-[404] https://yes-original.com/home/rapidleech-master/index.php  (cloud-hosting/RapidLeech Transload Websites)  -- yes-original.com  -- 
-[404] https://sporestack.com/news/#2019-02-27  (cloud-hosting/VPS Hosting Providers (Bulletproof Hosting))  -- SporeStack  -- 
-[404] https://www.removeddit.com/user/nbatman/m/streaming/  (communities-info/Big Media Libraries)  -- Streaming Multireddit  -- 
-[NET] https://www.radicle.xyz/  (communities-info/Decentralized local GIT)  -- Radicle  -- [Errno 101] Network is unreachable
-[404] https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages  (communities-info/Discord Servers)  -- here  -- 
-[404] https://discord.me/piratesonline  (communities-info/Discord Servers)  -- piratesonline  -- 
-[404] https://live-action-raws.tumblr.com/  (communities-info/Download Sites)  -- 2  -- 
-[404] https://cartoons-raws.tumblr.com/master-list  (communities-info/Download Sites)  -- Cartoons Raw  -- 
-[NET] https://khatrimaza1.in/  (communities-info/Download Sites)  -- Khatrimaza  -- [Errno -2] Name or service not known
-[404] https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve  (communities-info/Download Sites)  -- Media  -- 
-[NET] https://mftwbb.org/  (communities-info/Download Sites)  -- MFTWBB  -- [Errno -2] Name or service not known
-[404] https://reviviendoviejasjoyas.blogspot.com/  (communities-info/Download Sites)  -- Reviviendo Viejas Joyas  -- 
-[NET] https://tinymkv.xyz/  (communities-info/Download Sites)  -- TinyMKV  -- [Errno -2] Name or service not known
-[NET] https://ulmovies.xyz/  (communities-info/Download Sites)  -- ULMovies  -- [Errno -2] Name or service not known
-[NET] https://warez-world.org/  (communities-info/Download Sites)  -- Warez-World  -- [Errno -2] Name or service not known
-[404] https://search.mibbit.com/channels/p2p-network  (communities-info/IRC Networks)  -- p2p-network.net channel list  -- 
-[404] https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf  (communities-info/Liability for Contents)  -- COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)  -- 
-[404] https://www.removeddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/  (communities-info/Open Directories)  -- "All resources I know related to Open Directories"  -- 
-[404] https://www.removeddit.com/r/opendirectories  (communities-info/Open Directories)  -- /r/opendirectories  -- 
-[404] https://www.removeddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/  (communities-info/Open Directories)  -- 36 GB of Flash Games  -- 
-[404] https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/  (communities-info/Open Directories)  -- The Holy Grail of Indexes  -- 
-[NET] https://www.filma24.ai/  (communities-info/Other Languages)  -- filma24  -- [Errno -2] Name or service not known
-[404] https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE  (communities-info/Other Languages)  -- LiGHT Repack Archive  -- 
-[404] https://drive.google.com/drive/folders/15QKzyr1Oxddh7CLjVWkD06Sxm6E2YGHm  (communities-info/Other Languages)  -- Misc Windows  -- 
-[404] https://1fichier.com/?hy7lsbep6bqtu4loy1j6  (communities-info/Other Languages)  -- PCGames-Download Backup  -- 
-[404] https://www.ruv.is/ruv  (communities-info/Other Languages)  -- RÚV  -- 
-[404] https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/  (communities-info/Piracy archives)  -- here  -- 
-[404] https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki  (communities-info/Piracy archives)  -- PiracySubreddit Backup (nightly backups)  -- 
-[404] https://www.removeddit.com/r/privacy/  (communities-info/Pirate News, Blogs & Discussion Forums)  -- /r/privacy  -- 
-[404] https://freedif.org/movim-the-decentralized-social-network  (communities-info/Social Media Alternatives)  -- Movim  -- 
-[NET] https://www.defiel.com/free-survival-ebooks/  (communities-info/Special Interest)  -- Free Survival eBooks  -- [Errno 101] Network is unreachable
-[404] https://gooddebate.org/sin/mirror/library/  (communities-info/Special Interest)  -- GoodDebate  -- 
-[404] https://www.hourwolf.com/sfbooks/  (communities-info/Special Interest)  -- HourWolf  -- 
-[404] https://rentry.co/freemediafuckyeah#nsfw-images-reading  (communities-info/Special Interest)  -- NSFW Reading Sites  -- 
-[404] https://downturk.eu/video-tutorials/  (education-learning/Courses)  -- DownTurk.eu  -- 
-[404] https://www.freecoursesonline.me/?1  (education-learning/Courses)  -- Mirror  -- 
-[404] https://www.removeddit.com/r/documentaries  (education-learning/Documentaries)  -- /r/Documentaries  -- 
-[404] https://www.removeddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/  (education-learning/Documentaries)  -- whatwhat888 big list of documentary sites (streaming and download)  -- 
-[NET] https://freecoursenow.com/  (education-learning/Educational Downloading)  -- Course Now  -- [Errno 101] Network is unreachable
-[404] https://freetutsdownload.com/  (education-learning/Educational Downloading)  -- FreetutsDownload.com  -- 
-[NET] https://piratewarez.com/  (education-learning/Educational Downloading)  -- Pirate Warez  -- [Errno 101] Network is unreachable
-[404] https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q  (education-learning/Educational Sites)  -- Heaven  -- 
-[404] https://free-math-resources.netlify.app/  (education-learning/Educational Sites)  -- Math Resource Guide  -- 
-[NET] http://noexcuselist.com/  (education-learning/Educational Sites)  -- NoExcuseList  -- [Errno 101] Network is unreachable
-[404] https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection  (education-learning/Educational Sites)  -- Uloz Archive  -- 
-[404] https://cs1000.vercel.app/  (education-learning/Educational Streaming)  -- cs1000  -- 
-[410] https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk  (education-learning/Educational Tools)  -- 5th STAAR Resource Curation  -- 
-[404] https://worldmap.harvard.edu/maps/5565  (education-learning/Educational Tools)  -- AP World History Notes Visual  -- 
-[404] https://my.matterport.com/show/?m=NeiMEZa9d93  (education-learning/Educational Tools)  -- Explore Pharaoh Ramesses VI Tomb  -- 
-[404] https://www.freecoursesonline.me/  (education-learning/Educational Torrenting)  -- Free Courses Online  -- 
-[404] https://www.wolframalpha.com/  (education-learning/Reference Sites)  -- Wolfram Alpha  -- 
-[404] https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd  (games/3DS)  -- GDrive  -- 
-[404] https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5  (games/3DS)  -- GDrive  -- 
-[404] https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3  (games/3DS)  -- GDrive  -- 
-[404] https://drive.google.com/drive/u/0/mobile/folders/1sZ7Rev2ownSl-JlUn2VhE87RBwW9ZX9n  (games/Ambient / Relaxation)  -- Headspace  -- 
-[NET] https://insecretgarden.com/  (games/Ambient / Relaxation)  -- My Secret Garden  -- [Errno 111] Connection refused
-[404] https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing  (games/Arcade / Retro)  -- Br0legs Zandronum  -- 
-[404] https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/  (games/Arcade / Retro)  -- Classic Warcraft 3 Installers  -- 
-[404] https://froggi.es/mario/  (games/Arcade / Retro)  -- frogg.ies mario  -- 
-[404] https://piccolo.click/web/  (games/Browser Games)  -- Piccolo  -- 
-[404] https://www.removeddit.com/r/PkgLinks/  (games/Console Games (various))  -- /r/PkgLinks  -- 
-[404] https://www.removeddit.com/r/SwitchNSPs/  (games/Console Games (various))  -- /r/SwitchNSPs  -- 
-[404] https://lyr9c.weebly.com/gba-games.html  (games/Emulation / Roms)  -- LYR9C  -- 
-[404] https://www.romsget.io/  (games/Emulation / Roms)  -- RomsGet  -- 
-[404] https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk  (games/Game Boy)  -- G-Drive  -- 
-[404] https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR  (games/GameCube Games)  -- GDrive  -- 
-[404] https://devanbuggay.com/bspview/  (games/Gaming Tools)  -- bspview  -- 
-[NET] https://inputmapper.com/  (games/Gaming Tools)  -- InputMapper  -- [Errno -2] Name or service not known
-[404] https://www.rptools.net/?page=maptool  (games/Gaming Tools)  -- MapTool  -- 
-[NET] https://god-games.com/  (games/Good Old Download alternatives (mirrors))  -- GOD Games  -- [Errno 101] Network is unreachable
-[404] https://www.removeddit.com/r/3dshacks  (games/Homebrew and Custom Firmware(s))  -- /r/3dshacks  -- 
-[404] https://www.removeddit.com/r/ps3homebrew/  (games/Homebrew and Custom Firmware(s))  -- /r/ps3homebrew  -- 
-[404] https://www.removeddit.com/r/ps4homebrew  (games/Homebrew and Custom Firmware(s))  -- /r/ps4homebrew  -- 
-[404] https://www.removeddit.com/r/Swiacks  (games/Homebrew and Custom Firmware(s))  -- /r/SwitchHacks  -- 
-[404] https://www.removeddit.com/r/SwitchHaxing  (games/Homebrew and Custom Firmware(s))  -- /r/SwitchHaxing  -- 
-[404] https://www.removeddit.com/r/vitahacks/  (games/Homebrew and Custom Firmware(s))  -- /r/vitahacks  -- 
-[404] https://www.removeddit.com/r/WiiHacks/  (games/Homebrew and Custom Firmware(s))  -- /r/WiiHacks  -- 
-[404] https://www.removeddit.com/r/YuzuPiracy  (games/Homebrew and Custom Firmware(s))  -- /r/YuzuPiracy  -- 
-[404] https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J  (games/Nintendo Switch Games)  -- GDrive  -- 
-[404] https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ  (games/Nintendo Switch Games)  -- GDrive (more frequently updated  -- 
-[410] https://mrdj777.wordpress.com/  (games/PC Game Repackers)  -- MrDJ  -- 
-[404] https://bzinhoneverdies.blogspot.com/  (games/PC Games)  -- Bzinho Games  -- 
-[NET] https://forum.darksoftware.net/forums/  (games/PlayStation Games)  -- Darksoftware Forum  -- [Errno 101] Network is unreachable
-[404] https://pastebin.com/79q1mdZm  (games/Rom Archives)  -- 2  -- 
-[404] https://archive.org/details/RedumpNintendoWiiAmericaPart2  (games/Rom Archives)  -- 2  -- 
-[404] https://archive.org/details/RedumpNintendoGameCubeAmerica  (games/Rom Archives)  -- 2  -- 
-[404] https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6  (games/Rom Archives)  -- 2  -- 
-[404] https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14  (games/Rom Archives)  -- 2  -- 
-[404] https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01  (games/Rom Archives)  -- 3  -- 
-[404] https://archive.org/details/RedumpNintendoWiiAmericaPart3  (games/Rom Archives)  -- 3  -- 
-[404] https://archive.org/details/RedumpNintendoGameCubeAmericaPart2  (games/Rom Archives)  -- 3  -- 
-[404] https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2  (games/Rom Archives)  -- 4  -- 
-[404] https://archive.org/details/RedumpNintendoWiiAmericaPart5  (games/Rom Archives)  -- 4  -- 
-[404] https://archive.org/details/RedumpNintendoGameCubeAmericaPart3  (games/Rom Archives)  -- 4  -- 
-[404] https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload  (games/Rom Archives)  -- 5  -- 
-[404] https://1fichier.com/dir/Jini9nFe  (games/Rom Archives)  -- 6  -- 
-[404] https://ps4.td-index.workers.dev/0:/  (games/Rom Archives)  -- PS4.td  -- 
-[404] https://drive.google.com/drive/folders/1hzkgLcDsgzwbw7PP7rySDBTEuPEQov9g  (games/Rom Archives)  -- 各种模拟器rom游戏  -- 
-[404] https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1  (games/ROM BIOS)  -- xprism's BIOS collection  -- 
-[404] https://circa.im/roms/  (games/ROMs)  -- CIRCA ROMs  -- 
-[410] https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true  (games/ROMs)  -- ROM Center  -- 
-[404] https://www.removeddit.com/r/WiiHacking  (games/Wii Hacking)  -- r/WiiHacking  -- 
-[404] https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-  (games/Wii U Games)  -- GDrive  -- 
-[404] https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE  (games/Wii U Games)  -- GDrive  -- 
-[404] https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8  (games/Wii U Games)  -- GDrive  -- 
-[404] https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0  (games/Wii U Games)  -- GDrive  -- 
-[404] https://www.removeddit.com/r/EmbyShares  (media-servers/Emby Servers)  -- /r/EmbyShares  -- 
-[404] https://www.removeddit.com/r/addons4kodi  (media-servers/Kodi)  -- /r/Addons4Kodi  -- 
-[404] https://www.removeddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w  (media-servers/Kodi)  -- Exodus Redux  -- 
-[404] https://forums.plex.tv/t/installation-instructions/168854  (media-servers/Kodi)  -- Official Plex Addon  -- 
-[404] https://www.removeddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr  (media-servers/Kodi)  -- Seren  -- 
-[404] https://www.removeddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/  (media-servers/Kodi)  -- Ultimate Kodi Guide  -- 
-[404] https://www.removeddit.com/r/PlexACD/  (media-servers/Plex Logging and Metrics)  -- /r/PlexACD  -- 
-[404] https://www.removeddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/  (media-servers/Stremio)  -- A complete curated list of all working Stremio Add-ons provided (via Reddit)  -- 
-[404] https://www.removeddit.com/r/StremioAddons/  (media-servers/Stremio)  -- r/StremioAddons  -- 
-[404] https://www.removeddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/  (media-servers/Stremio)  -- Stremio - Phone Remote  -- 
-[404] https://www.removeddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/  (media-servers/Stremio)  -- Stremio - Watch together with friends  -- 
-[404] https://www.removeddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/  (media-servers/Stremio)  -- Stremio Catalog Builder  -- 
-[404] https://alexmercerind.github.io/harmonoid/  (music-audio/Android Audio)  -- harmonoid  -- 
-[404] https://f-droid.org/packages/com.holoplay  (music-audio/Android Audio)  -- https://f-droid.org/packages/com.holoplay  -- 
-[404] https://f-droid.org/packages/deep.ryd.rydplayer/  (music-audio/Android Audio)  -- MusicPiped  -- 
-[404] https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/  (music-audio/Android Audio)  -- Ylight Music  -- 
-[404] https://play.google.com/store/apps/details?id=com.noizio&hl=en_US  (music-audio/Android Relaxation)  -- Noizio  -- 
-[404] https://play.google.com/store/apps/details?id=fm.raining.rainingfm&hl=en  (music-audio/Android Relaxation)  -- Raining.fm  -- 
-[404] https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood  (music-audio/Android Relaxation)  -- Rainy Mood  -- 
-[404] https://pics.tide.moreless.io/site/tide.apk  (music-audio/Android Relaxation)  -- Tide.fm  -- 
-[404] https://yoamoelmosh.blogspot.com/  (music-audio/Audio)  -- Xoamoelmosh Blogspot  -- 
-[404] https://www.faasoft.com/articles/flac-converter-mac-and-windows.html  (music-audio/Audio Tools)  -- Faasoft FLAC Converter  -- 
-[404] https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en  (music-audio/Audio Tools)  -- Music ID Android  -- 
-[404] https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8  (music-audio/Audio Tools)  -- Music ID iOS  -- 
-[404] https://apps.apple.com/ca/app/vozee/id1500539907  (music-audio/Audio Tools)  -- ‎VOZEE  -- 
-[NET] https://tokybook.com/  (music-audio/Audiobooks)  -- Tokybook  -- [Errno -5] No address associated with hostname
-[404] https://ainoob.com/en/project/nooboss  (music-audio/Chrome)  -- NooBoss  -- 
-[404] https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/  (music-audio/Firefox)  -- Colors and Fonts Extractor  -- 
-[404] https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/  (music-audio/Firefox)  -- Profile Switcher  -- 
-[404] https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860  (music-audio/iOS Audio)  -- eSound  -- 
-[404] https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124  (music-audio/iOS Audio)  -- Musi  -- 
-[404] https://apps.apple.com/ca/app/tubizu-music-player-streamer/id1426207462  (music-audio/iOS Audio)  -- Tubizu  -- 
-[404] https://apps.apple.com/be/app/mynoise/id813099896  (music-audio/iOS Relaxation)  -- myNoise  -- 
-[404] https://apps.apple.com/ua/app/rainingfm/id648243241  (music-audio/iOS Relaxation)  -- Raining.fm  -- 
-[404] https://ejurgensen.github.io/forked-daapd/  (music-audio/iTunes)  -- forked-daapd  -- 
-[NET] http://patrickjmt.com/  (music-audio/Math Tutorials)  -- PatrickJMT  -- [Errno -5] No address associated with hostname
-[404] https://hindi-lossless.blogspot.com/  (music-audio/Music)  -- Hindi-lossless.blogspot  -- 
-[404] https://od.kbbldh.workers.dev/  (music-audio/Music Libraries / Players)  -- https://od.kbbldh.workers.dev/  -- 
-[404] https://office-user-auto-create.zaya.workers.dev/  (music-audio/Music Libraries / Players)  -- https://office-user-auto-create.zaya.workers.dev/  -- 
-[404] https://subdavis.com/Tusk/  (music-audio/Music Libraries / Players)  -- Read-Only Functionality  -- 
-[404] https://defacto2.net/welcome  (music-audio/NFO Viewers & KeyGen Music)  -- Defacto2  -- 
-[404] https://www.removeddit.com/r/Piracy/comments/euhd77/scdl_a_256_kbps_soundcloud_downloader_now_with/  (music-audio/SoundCloud)  -- Tutorial  -- 
-[404] https://notabug.org/Aesir/chimera  (music-audio/Tidal (Music) Downloader)  -- Chimera  -- 
-[404] https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c  (music-audio/Userscripts)  -- darkmode.js  -- 
-[404] https://itunes.apple.com/us/app/stratis/id1250824734?mt=8  (privacy-security/Anonymous Cryptocurrency Exchanges (without KYC Verification!))  -- Changelly  -- 
-[404] https://shop.hak5.org/collections/physical-access/products/usb-rubber-ducky-deluxe  (privacy-security/BadUSB)  -- Rubber Ducky  -- 
-[404] https://www.gdata.de/de-usb-keyboard-guard  (privacy-security/BadUSB Protection)  -- USB Keyboard Guard  -- 
-[404] https://docs.nixnet.services/DNS  (privacy-security/Cloud based DNS Alternatives)  -- NixNet  -- 
-[404] https://mysterium.network/vpn/  (privacy-security/Decentralized VPNs)  -- Mysterium Network  -- 
-[404] https://www.emailprivacytester.com/  (privacy-security/Email Services)  -- EmailPrivacyTester  -- 
-[404] https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/  (privacy-security/Email Sites)  -- Article  -- 
-[NET] https://www.moviekids.tv/  (privacy-security/Email Sites)  -- https://www.moviekids.tv/  -- [Errno -2] Name or service not known
-[NET] https://www.showboxmovies.net/  (privacy-security/Email Sites)  -- https://www.showboxmovies.net/  -- [Errno -2] Name or service not known
-[NET] https://www.watch4freemovies.com/  (privacy-security/Email Sites)  -- https://www.watch4freemovies.com/  -- [Errno -2] Name or service not known
-[NET] https://www2.6movies.net/  (privacy-security/Email Sites)  -- https://www2.6movies.net/  -- [Errno -2] Name or service not known
-[NET] https://www2.smilestv.net/  (privacy-security/Email Sites)  -- https://www2.smilestv.net/  -- [Errno 101] Network is unreachable
-[404] http://www.pumpyouup.com/  (privacy-security/Email Sites)  -- pumpyouup  -- 
-[404] https://www.ojrq.net  (privacy-security/PayPal alternatives)  -- Square  -- 
-[404] https://inteltechniques.com/buscador/  (privacy-security/Penetration Testing Distributions)  -- Buscador  -- 
-[404] https://www.mike-gualtieri.com/css-exfil-vulnerability-tester  (privacy-security/Privacy Extensions)  -- CSS Exfil Protection  -- 
-[404] https://shadowsocks.org/en/index.html  (privacy-security/Proxy Apps)  -- Shadowsocks  -- 
-[404] https://b.lulu.workers.dev/  (privacy-security/Proxy Sites)  -- 2  -- 
-[404] https://b.jsproxy.workers.dev/  (privacy-security/Proxy Sites)  -- 3  -- 
-[404] https://noisy-tooth-2ee5.susheng.workers.dev/  (privacy-security/Proxy Sites)  -- 4  -- 
-[404] https://b.hehe.workers.dev/  (privacy-security/Proxy Sites)  -- 5  -- 
-[404] https://b.007.workers.dev/  (privacy-security/Proxy Sites)  -- b.007  -- 
-[404] https://unblocked-pw.github.io/  (privacy-security/Unblock blocked Websites)  -- Unblocked  -- 
-[404] https://www.removeddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/  (seedboxes/Seedbox Hosting Providers)  -- /u/Andy10gbit  -- 
-[404] https://www.online.net/en  (seedboxes/Seedbox Hosting Providers)  -- Online.net  -- 
-[404] https://www.ultraseedbox.com/  (seedboxes/Seedbox Hosting Providers)  -- UltraSeedbox  -- 
-[404] https://www.removeddit.com/r/seedboxes  (seedboxes/Seedboxes)  -- /r/seedboxes  -- 
-[404] https://ultraseedbox.com/  (seedboxes/Seedboxes)  -- Ultra Seedbox  -- 
-[404] https://www.removeddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/  (streaming/1080p Streaming)  -- Setup guide  -- 
-[NET] https://streamingdivx1.com  (streaming/1080p Streaming)  -- StreamingDIVX1  -- [Errno -2] Name or service not known
-[NET] https://www.uwatchfree.tv/  (streaming/1080p Streaming)  -- UWatchfree  -- [Errno -2] Name or service not known
-[NET] https://vostfrserie.biz/  (streaming/1080p Streaming)  -- VOSTFRSerie  -- [Errno -2] Name or service not known
-[NET] https://ymovies.tv/  (streaming/1080p Streaming)  -- Ymovies  -- [Errno 111] Connection refused
-[404] https://tigolerelease.blogspot.com/  (streaming/4k/HDR TV/Movie)  -- Tigole Release  -- 
-[NET] https://www6.fmovies.to/  (streaming/720p Streaming)  -- Mirror  -- [Errno -2] Name or service not known
-[404] https://ok.ru/videos/  (streaming/720p Streaming)  -- OK.ru  -- 
-[404] https://michael24884.github.io/TaiYaKiAnime/  (streaming/Android Anime)  -- 2  -- 
-[404] https://archive.org/details/anime-hd.-3.0  (streaming/Android Anime)  -- Anime HD 3.0  -- 
-[404] https://www.funkymuse.dev/p/berg.html  (streaming/Android Streaming)  -- Berg  -- 
-[404] https://cucotv.github.io/  (streaming/Android Streaming)  -- CucoTV  -- 
-[NET] https://novatv.app/  (streaming/Android Streaming)  -- NovaTV  -- [Errno -3] Temporary failure in name resolution
-[404] https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/  (streaming/Android Streaming)  -- Titanium TV  -- 
-[404] https://play.google.com/store/apps/details?id=com.github.exact7.xtra&hl=en_US&gl=US  (streaming/Android Streaming)  -- Xtra  -- 
-[404] https://zinitevi.github.io/movieapps/  (streaming/Android Streaming)  -- ZiniTevi  -- 
-[NET] http://fullepisodes.biz/  (streaming/Anime & Cartoon Streaming (720p+))  -- Full Episodes  -- [Errno -2] Name or service not known
-[NET] https://www11.kickassanime.io/  (streaming/Anime & Cartoon Streaming (720p+))  -- KickAssAnime  -- [Errno -2] Name or service not known
-[NET] https://www4.ryuanime.com/  (streaming/Anime & Cartoon Streaming (720p+))  -- RyuAnime  -- [Errno 101] Network is unreachable
-[404] https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1  (streaming/Anime & Cartoon Streaming (720p+))  -- The /r/AnimePiracy Index  -- 
-[404] https://www.removeddit.com/r/animepiracy  (streaming/Anime (Hentai pages are NOT allowed!))  -- /r/animepiracy  -- 
-[404] https://www.removeddit.com/r/animepiracy/wiki/index  (streaming/Anime (Hentai pages are NOT allowed!))  -- /r/animepiracy wiki  -- 
-[404] https://www.removeddit.com/r/sjain_guides/  (streaming/Anime (Hentai pages are NOT allowed!))  -- /r/sjain_guides  -- 
-[404] https://www.removeddit.com/r/KissCartoon/wiki/alternatives  (streaming/Anime (Hentai pages are NOT allowed!))  -- Alternatives to Kiss websites  -- 
-[NET] https://www3.gogoanime.in/  (streaming/Anime (Hentai pages are NOT allowed!))  -- GoGo Anime  -- [Errno -2] Name or service not known
-[404] https://monimoapp.netlify.com/  (streaming/Anime (Hentai pages are NOT allowed!))  -- Monimo  -- 
-[404] https://animebatchddl.lelouch-lamperouge.workers.dev/0:/  (streaming/Anime Downloading)  -- 4  -- 
-[404] https://atdrive.animetimeserver.workers.dev/0:/  (streaming/Anime Downloading)  -- Anime Time Drive  -- 
-[410] https://animebatchddl.wordpress.com/  (streaming/Anime Downloading)  -- AnimeBatchDDL  -- 
-[404] https://animebatchddl.code-geass.workers.dev/0:/  (streaming/Anime Downloading)  -- Drive  -- 
-[404] https://ffa.shiraha.workers.dev/  (streaming/Anime Downloading)  -- FFA DDL BATCH  -- 
-[404] https://drive.google.com/drive/folders/19URIgzsbkOfNCXG13Wklmoq3KugKzk9j  (streaming/Anime Downloading)  -- GDrive  -- 
-[404] https://nibl.co.uk/bots.php  (streaming/Anime Downloading)  -- nibl  -- 
-[NET] https://animetribes.ru/  (streaming/Anime Streaming)  -- AnimeTribes  -- [Errno -2] Name or service not known
-[404] https://www.anirena.com/  (streaming/Anime Torrent Websites)  -- Shana Project  -- 
-[NET] https://kisscartoon.info  (streaming/Cartoons)  -- KissCartoon.info  -- [Errno -5] No address associated with hostname
-[NET] https://dr.warezforums.com/  (streaming/Direct Download Streaming)  -- DL WarezForums  -- [Errno -5] No address associated with hostname
-[404] https://hoarding.noobvishal.workers.dev/  (streaming/Direct Download Streaming)  -- Torrent Hording  -- 
-[404] https://www.removeddit.com/r/1080pMoviesOnline  (streaming/Full Movies On)  -- /r/1080pMoviesOnline  -- 
-[404] https://www.removeddit.com/r/BestOfStreamingVideo  (streaming/Full Movies On)  -- /r/BestOfStreamingVideo  -- 
-[404] https://www.removeddit.com/r/fullcartoonsonyoutube/  (streaming/Full Movies On)  -- /r/fullcartoonsonyoutube  -- 
-[404] https://www.removeddit.com/r/FullLengthFilms/  (streaming/Full Movies On)  -- /r/FullLengthFilms  -- 
-[404] https://www.removeddit.com/r/fullmovierequest/  (streaming/Full Movies On)  -- /r/fullmovierequest  -- 
-[404] https://www.removeddit.com/r/FullMoviesDailyMotion  (streaming/Full Movies On)  -- /r/FullMoviesDailyMotion  -- 
-[404] https://www.removeddit.com/r/Fullmoviesonvimeo/  (streaming/Full Movies On)  -- /r/Fullmoviesonvimeo  -- 
-[404] https://www.removeddit.com/r/fullmoviesonyoutube/  (streaming/Full Movies On)  -- /r/fullmoviesonyoutube  -- 
-[404] https://www.removeddit.com/r/fulltvshowsonvimeo/  (streaming/Full Movies On)  -- /r/fulltvshowsonvimeo  -- 
-[404] https://www.removeddit.com/r/fulltvshowsonyoutube/  (streaming/Full Movies On)  -- /r/fulltvshowsonyoutube  -- 
-[404] https://www.removeddit.com/user/Wiggly_Poop/m/fullmoviesandtv/  (streaming/Full Movies On)  -- fullmoviesandtv multireddit  -- 
-[404] https://www.removeddit.com/r/freefolk  (streaming/Full TV Shows On)  -- /r/freefolk  -- 
-[404] https://www.removeddit.com/r/ProShotMusicals  (streaming/Full TV Shows On)  -- /r/ProshotMusicals  -- 
-[404] https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv  (streaming/Full TV Shows On)  -- How To Get Everything On Netflix  -- 
-[404] https://apps.apple.com/us/app/animeglare/id1472011019  (streaming/iOS Anime)  -- AnimeGlare  -- 
-[404] https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151  (streaming/iOS Anime)  -- AnimeHub  -- 
-[404] https://apps.apple.com/us/app/katsu-by-orion/id1503693664  (streaming/iOS Anime)  -- KATSU  -- 
-[404] https://apps.apple.com/ie/app/sports-tv-live-streaming/id1371395176  (streaming/iOS Live TV)  -- AllSports  -- 
-[404] https://apps.apple.com/us/app/dramatics-best-drama/id1493796973  (streaming/iOS Streaming)  -- Dramatics  -- 
-[404] https://apps.apple.com/ca/app/hdo-box-a-better-tracking/id1529135165  (streaming/iOS Streaming)  -- HDO Box  -- 
-[404] https://apps.apple.com/us/app/movzy-movies-music-for-you/id1537372348  (streaming/iOS Streaming)  -- Movzy  -- 
-[404] https://www.removeddit.com/r/IPTV  (streaming/IPTV + DVR)  -- /r/IPTV  -- 
-[404] https://www.removeddit.com/r/IPTVresellers  (streaming/IPTV + DVR)  -- /r/iptvresellers  -- 
-[404] https://www.removeddit.com/r/IPTVreviews  (streaming/IPTV + DVR)  -- /r/IPTVReviews  -- 
-[404] https://www.removeddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/  (streaming/IPTV + DVR)  -- Academy Awards 2019 Screeners Megathread  -- 
-[404] https://rocketstreams.tv/stbemu  (streaming/IPTV + DVR)  -- STBEmulator  -- 
-[404] https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client  (streaming/Live TV / Sports)  -- Kodi app  -- 
-[NET] https://sporthd.live/  (streaming/Live TV / Sports)  -- SportHD  -- [Errno -2] Name or service not known
-[NET] http://topstreams.info/  (streaming/Live TV / Sports)  -- Topstreams  -- [Errno -2] Name or service not known
-[NET] https://daxiv.com/  (streaming/Random Movie/TV Streaming Websites)  -- Daxiv Video  -- [Errno 101] Network is unreachable
-[NET] https://fmovies.to/  (streaming/Random Movie/TV Streaming Websites)  -- FMOVIES  -- [Errno -5] No address associated with hostname
-[NET] https://indoxxi.cx/  (streaming/Random Movie/TV Streaming Websites)  -- INDOXXI  -- [Errno -2] Name or service not known
-[NET] https://sokrostream.vip/  (streaming/Random Movie/TV Streaming Websites)  -- Sokrostream.vip  -- [Errno -2] Name or service not known
-[NET] https://katmoviehd.se/movie-request-page/  (streaming/Request Videos)  -- KatmovieHD  -- [Errno -2] Name or service not known
-[404] https://megaddl.co/tv-request/  (streaming/Request Videos)  -- MegaDDL  -- 
-[404] http://psychodownloads.com/forumdisplay.php?19-Request-Zone  (streaming/Request Videos)  -- Psycho Download  -- 
-[404] http://rarefilmm.com/requests/  (streaming/Request Videos)  -- RareFilmm  -- 
-[404] https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform  (streaming/Request Videos)  -- TheWebFlix  -- 
-[404] https://rentry.co/freemediafuckyeah#nsfw-streaming  (streaming/Specialty Streaming)  -- NSFW Streaming Sites  -- 
-[404] https://www.mma-core.com/videos/home  (streaming/Sports Streaming)  -- MMACore  -- 
-[404] https://www.removeddit.com/r/CFBStreams/  (streaming/Sports Streaming (only))  -- /r/CFBStreams  -- 
-[404] https://www.removeddit.com/r/MLBStreams/  (streaming/Sports Streaming (only))  -- /r/MLBStreams  -- 
-[404] https://www.removeddit.com/r/mmafights/  (streaming/Sports Streaming (only))  -- /r/mmafights  -- 
-[404] https://www.removeddit.com/r/motorsportsstreams  (streaming/Sports Streaming (only))  -- /r/motorsportsstreams  -- 
-[404] https://www.removeddit.com/r/ncaaBBallStreams/  (streaming/Sports Streaming (only))  -- /r/ncaaBBallStreams  -- 
-[404] https://www.removeddit.com/r/nflstreams/  (streaming/Sports Streaming (only))  -- /r/nflstreams  -- 
-[404] https://www.removeddit.com/r/NHLStreams/  (streaming/Sports Streaming (only))  -- /r/NHLStreams  -- 
-[404] https://www.removeddit.com/r/rugbystreams/  (streaming/Sports Streaming (only))  -- /r/rugbystreams  -- 
-[404] https://www.removeddit.com/r/WWEstreams/  (streaming/Sports Streaming (only))  -- /r/WWEstreams  -- 
-[404] https://www.removeddit.com/r/Movie_Club  (streaming/Stream Synchronisation)  -- /r/Movie_Club  -- 
-[NET] https://4movierulz.mn/  (streaming/Streaming)  -- 4MovieRulz  -- [Errno -2] Name or service not known
-[404] https://animebdk.blogspot.com/  (streaming/Streaming)  -- animebdk  -- 
-[NET] https://cinevood.cyou/  (streaming/Streaming)  -- CineVood  -- [Errno -2] Name or service not known
-[404] https://fmmiithuketa.blog.fc2.com/  (streaming/Streaming)  -- fmmiithuketa  -- 
-[404] http://fomny.com/Home/index.php  (streaming/Streaming)  -- fomny  -- 
-[NET] https://otakutales.site/  (streaming/Streaming)  -- otakutales  -- [Errno -2] Name or service not known
-[404] https://world4ufree.cyou/  (streaming/Streaming)  -- World4uFree  -- 
-[404] https://krakentv.app/download/  (streaming/Streaming Apps)  -- KrakenTV  -- 
-[404] https://www.removeddit.com/r/TVZionApp/  (streaming/Streaming Apps)  -- Reddit  -- 
-[404] https://driveandlisten.herokuapp.com/  (streaming/Streaming Sites)  -- Drive & Listen  -- 
-[404] https://clouddebrid.herokuapp.com/  (streaming/Transloading or (stream) sharing Services (WebTorrent Clients))  -- Clouddebrid  -- 
-[404] https://webtor.io/  (streaming/Transloading or (stream) sharing Services (WebTorrent Clients))  -- Webtor  -- 
-[404] https://1fichier.com/?cxqd57d6vfpot5x6v9ft  (streaming/Video Stream Sync)  -- 2  -- 
-[404] https://www.youtube.com/user/phattphucks/featured  (streaming/Video Stream Sync)  -- PhattPhucks  -- 
-[404] http://megaddl.net/  (tools-utilities/Business Name Generator)  -- MegaDDL  -- 
-[404] http://psychodownloads.com/forum.php  (tools-utilities/Business Name Generator)  -- psychodownloads  -- 
-[404] https://www.pazera-software.com/products/hash/  (tools-utilities/Checksum verification)  -- PS Hash  -- 
-[404] https://f-droid.org/packages/com.droidvim  (tools-utilities/Developer Tools)  -- 2  -- 
-[404] https://algorithm-visualizer.org/  (tools-utilities/Developer Tools)  -- Algorithm Visualizer  -- 
-[404] https://ide.goorm.io/  (tools-utilities/Developer Tools)  -- goormIDE  -- 
-[404] https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/  (tools-utilities/Developer Tools)  -- Markdown Editor for Firefox  -- 
-[404] https://www.willpeavy.com/tools/minifier/  (tools-utilities/Developer Tools)  -- Minifier  -- 
-[404] https://playcode.io/  (tools-utilities/Developer Tools)  -- PlayCode  -- 
-[404] https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b  (tools-utilities/Developer Tools)  -- Tutorial  -- 
-[404] https://jpop80ss.blogspot.com/  (tools-utilities/Downloading)  -- jpop80ss  -- 
-[NET] https://katmoviehd.se/  (tools-utilities/Downloading)  -- KatMovieHD  -- [Errno -2] Name or service not known
-[404] https://nickloadpt.blogspot.com/  (tools-utilities/Downloading)  -- NickloadPT  -- 
-[NET] https://salamdl.me/  (tools-utilities/Downloading)  -- SalamDL  -- [Errno -2] Name or service not known
-[NET] https://sukidesuost.info/  (tools-utilities/Downloading)  -- Sukidesuost  -- [Errno -3] Temporary failure in name resolution
-[NET] https://themoviestalk.icu/  (tools-utilities/Downloading)  -- TheMoviesTalk  -- [Errno -3] Temporary failure in name resolution
-[404] https://tpaportugal.blogspot.com/  (tools-utilities/Downloading)  -- TPAPortugal  -- 
-[NET] https://www.uncuthd.win/  (tools-utilities/Downloading)  -- UnCutHD  -- [Errno -2] Name or service not known
-[404] https://drive.google.com/drive/folders/1OuJJg_zr4pG3EW2SYFyV4CaBxlyypZAQ  (tools-utilities/Downloading)  -- 剧集  -- 
-[404] https://notabug.org/sayem314/d-fi  (tools-utilities/Downloading Apps)  -- d-fi  -- 
-[404] https://notabug.org/dlspt/dl-spt  (tools-utilities/Downloading Apps)  -- DL-Spt  -- 
-[404] https://drive.google.com/drive/folders/1J6VVfN-iD6DLEMIC1kLETcc5f8ENoJs0  (tools-utilities/Downloading Sites)  -- Kyan's Music  -- 
-[404] https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7  (tools-utilities/Downloading Sites)  -- Music Library  -- 
-[404] https://tvg-blog.tumblr.com/  (tools-utilities/Downloading Sites)  -- TvG  -- 
-[404] https://www.removeddit.com/r/datacurator/  (tools-utilities/File Renaming and Tagging)  -- /r/datacurator  -- 
-[404] https://www.luminescence-software.org/en/metatogger.html  (tools-utilities/File Renaming and Tagging)  -- Metatogger  -- 
-[404] https://anadius.github.io/gd-efc/  (tools-utilities/File Tools)  -- gd-efc  -- 
-[404] https://savetogoogledrive.herokuapp.com/  (tools-utilities/File Tools)  -- Save to Drive  -- 
-[404] https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9  (tools-utilities/Font Sites)  -- Audiobook Drive  -- 
-[404] https://getfont.herokuapp.com/  (tools-utilities/Font Sites)  -- Get Font  -- 
-[404] http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes  (tools-utilities/Free Stuff)  -- Android  -- 
-[404] https://archive.org/details/4chan-threads-2009-2012  (tools-utilities/Fun Sites)  -- 4GBs of 4chan Threads  -- 
-[404] https://loveeevee.github.io/Dots-Converter/dots-draw.html  (tools-utilities/Fun Sites)  -- Dots-Converter  -- 
-[404] https://www.memeatlas.com/  (tools-utilities/Fun Sites)  -- MemeAtlas  -- 
-[404] https://window-swap.com/window  (tools-utilities/Fun Sites)  -- WindowSwap  -- 
-[404] https://archive.org/details/jpcm_yuzu4k  (tools-utilities/Fun Sites)  -- Yuzu4K Japanese Commercials  -- 
-[404] https://raihan2k18.blogspot.com/  (tools-utilities/Giveaway Websites (scam free))  -- Giveaway Blog  -- 
-[404] https://google-webfonts-helper.herokuapp.com/fonts  (tools-utilities/Google (Web)Fonts)  -- Google WebFont Helper  -- 
-[404] https://f-droid.org/packages/com.github.axet.maps/  (tools-utilities/Google Maps)  -- Maps  -- 
-[404] https://f-droid.org/packages/com.github.yeriomin.yalpstore/  (tools-utilities/Google Play Store)  -- Yalp Store  -- 
-[404] https://d3ward.github.io/toolz/src/adblock  (tools-utilities/Helpful Sites / Apps)  -- Ad Blocker Test  -- 
-[404] https://mindmapp.cedoor.dev/app  (tools-utilities/Helpful Sites / Tools)  -- MindMapp  -- 
-[404] https://sleepyti.me/  (tools-utilities/Helpful Sites / Tools)  -- Sleepyti.me  -- 
-[404] https://www.bing.com/visualsearch/Microsoft/WhatDog  (tools-utilities/Helpful Sites / Tools)  -- WhatDog  -- 
-[404] https://ophir.alwaysdata.net/dezoomify/dezoomify.html  (tools-utilities/Image downloader (tools & websites))  -- Dezoomify  -- 
-[404] https://apkpure.com/en/droidiris-image-search/org.droidiris  (tools-utilities/Image downloader (tools & websites))  -- DroidIris+  -- 
-[410] https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk  (tools-utilities/Image Tools)  -- 2  -- 
-[404] https://pilssken.neocities.org/art-tools/  (tools-utilities/Image Tools)  -- 3  -- 
-[404] https://ai-art.tokyo/en/  (tools-utilities/Image Tools)  -- AI Gahaku  -- 
-[404] https://codeberg.org/cauf/icon_finder  (tools-utilities/Image Tools)  -- icon_finder  -- 
-[404] https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12  (tools-utilities/Image Tools)  -- Image Tricks Lite  -- 
-[404] https://affinelayer.com/pixsrv/  (tools-utilities/Image Tools)  -- Image-to-Image  -- 
-[404] https://official-awesome-piracy.vercel.app/  (tools-utilities/Indexes)  -- 2  -- 
-[404] https://alternate-awesome-piracy.vercel.app/  (tools-utilities/Indexes)  -- 4  -- 
-[404] https://cata-list.github.io/  (tools-utilities/Indexes)  -- cata-list  -- 
-[404] https://eldritchdata.neocities.org/Lists/ChanList.html  (tools-utilities/Indexes)  -- ChanList  -- 
-[404] https://discord.me/CHEF-KOCH  (tools-utilities/Indexes)  -- Discord  -- 
-[404] https://pilssken.neocities.org/warez/  (tools-utilities/Indexes)  -- neocities  -- 
-[404] https://soda.privatevoid.net/num/lists/web  (tools-utilities/Indexes)  -- num's link list  -- 
-[NET] https://therandombutton.com/  (tools-utilities/Indexes)  -- Randomizer  -- [Errno 101] Network is unreachable
-[404] https://applicationize.me/now  (tools-utilities/Internet Tools)  -- Applicationize  -- 
-[404] https://sindresorhus.com/caprine/  (tools-utilities/Internet Tools)  -- Caprine  -- 
-[404] https://asteroidcollision.herokuapp.com/  (tools-utilities/Map Tools)  -- AsteroidCollision  -- 
-[404] https://bitbucket.org/pedro311/freshtomato-arm  (tools-utilities/Router Firmware)  -- source code ARM  -- 
-[404] https://bitbucket.org/pedro311/freshtomato-mips  (tools-utilities/Router Firmware)  -- source code MIPS  -- 
-[404] https://drive.hashhackers.com/  (tools-utilities/Screen Recorders)  -- Driveindex  -- 
-[404] https://drive.himanshurahi.workers.dev/  (tools-utilities/Screen Recorders)  -- HimanshuRahi  -- 
-[404] https://drive3.bartixxx.workers.dev/  (tools-utilities/Screen Recorders)  -- https://drive3.bartixxx.workers.dev/  -- 
-[404] https://driveflask.herokuapp.com/  (tools-utilities/Screen Recorders)  -- https://driveflask.herokuapp.com/  -- 
-[404] https://gd.404edu.workers.dev/  (tools-utilities/Screen Recorders)  -- https://gd.404edu.workers.dev/  -- 
-[404] https://gd.zxd.workers.dev/  (tools-utilities/Screen Recorders)  -- https://gd.zxd.workers.dev/  -- 
-[404] https://gentle-frost-7788.edwindrive.workers.dev/  (tools-utilities/Screen Recorders)  -- https://gentle-frost-7788.edwindrive.workers.dev/  -- 
-[404] https://index.zanime.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://index.zanime.workers.dev/0:/  -- 
-[404] https://movietrigger.movietrigger.workers.dev/  (tools-utilities/Screen Recorders)  -- https://movietrigger.movietrigger.workers.dev/  -- 
-[404] https://mygd.jikkubot.workers.dev/  (tools-utilities/Screen Recorders)  -- https://mygd.jikkubot.workers.dev/  -- 
-[404] https://td1.destiny6520.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://td1.destiny6520.workers.dev/0:/  -- 
-[404] https://tr.mooser.workers.dev/0:/  (tools-utilities/Screen Recorders)  -- https://tr.mooser.workers.dev/0:/  -- 
-[NET] https://www2.8putlocker.com/  (tools-utilities/Screen Recorders)  -- https://www2.8putlocker.com/  -- [Errno 101] Network is unreachable
-[NET] https://www4.123movies.net/  (tools-utilities/Screen Recorders)  -- https://www4.123movies.net/  -- [Errno -3] Temporary failure in name resolution
-[404] https://ultratgindex.herokuapp.com/  (tools-utilities/Screen Recorders)  -- UltraTGIndex  -- 
-[NET] https://infinitydecentralized.com/  (tools-utilities/Search Engines)  -- Infinity  -- [Errno 101] Network is unreachable
-[404] https://coursebuilder.withgoogle.com/  (tools-utilities/Search Tools)  -- Advanced  -- 
-[404] https://graph.tips/beta/  (tools-utilities/Search Tools)  -- Graph.tips  -- 
-[404] https://intelx.io/tools  (tools-utilities/Search Tools)  -- Intelligence X  -- 
-[404] https://benbusby.com/projects/whoogle-search/  (tools-utilities/Search Tools)  -- Whoogle  -- 
-[404] https://www.upload.ee/files/10182930/thk.003mk6.7z.html  (tools-utilities/System Tools)  -- thk.003mk6  -- 
-[404] https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html  (tools-utilities/Text Tools)  -- PDF Text Extraction  -- 
-[404] https://notify.moe/  (tools-utilities/Tracking / Discovery)  -- Anime Notifier  -- 
-[404] https://huere.net/trakt/duplicate_removal/  (tools-utilities/Tracking / Discovery)  -- Duplicate Remover  -- 
-[404] https://del.dog/  (tools-utilities/URL Tools)  -- dogbin  -- 
-[404] https://www.fuselink.co/  (tools-utilities/URL Tools)  -- Fuselink  -- 
-[404] https://mpv-net.github.io/mpv.net-web-site/  (tools-utilities/Video Tools)  -- 2  -- 
-[NET] https://www.shareae.com/  (tools-utilities/Video Tools)  -- ShareAE  -- [Errno 111] Connection refused
-[404] https://play.google.com/store/apps/details?id=com.frostwire.android  (trackers/Android Torrenting)  -- Frostwire  -- 
-[404] https://play.google.com/store/apps/details?id=com.easelifeapps.torrz&hl=en_US&gl=US  (trackers/Android Torrenting)  -- Torrz  -- 
-[404] https://play.google.com/store/apps/details?id=com.teeonsoft.ztorrent  (trackers/Android Torrenting)  -- zetaTorrent  -- 
-[404] https://tikol4life.ngrok.io/auth.php  (trackers/Private Trackers)  -- Tikol4Life  -- 
-[NET] https://1337.root.yt/  (trackers/Public Trackers)  -- 1337x  -- [Errno -2] Name or service not known
-[NET] https://monova.org  (trackers/Public Trackers)  -- monova  -- [Errno 101] Network is unreachable
-[NET] https://yts.mx  (trackers/Public Trackers)  -- YTS  -- [Errno -2] Name or service not known
-[NET] https://eniahd.com/  (trackers/Semi-Private Trackers)  -- EniaHD  -- [Errno 101] Network is unreachable
-[404] https://www.removeddit.com/r/moddedandroidapps  (trackers/Torrent Apps (Android/iOS))  -- /r/moddedandroidapps  -- 
-[404] https://play.google.com/store/apps/details?id=com.mobilityflow.torrent  (trackers/Torrent Apps (Android/iOS))  -- aTorrent  -- 
-[404] https://play.google.com/store/apps/details?id=org.transdroid.lite  (trackers/Torrent Apps (Android/iOS))  -- Transdrone  -- 
-[404] https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader  (trackers/Torrent Apps (Android/iOS))  -- Vuze  -- 
-[404] https://bonneteer.herokuapp.com/  (trackers/Torrent Search Engine Sites)  -- bonneteer.herokuapp  -- 
-[404] https://thepiratebay1.herokuapp.com/  (trackers/Torrent Search Engine Sites)  -- The Pirate Bay Search  -- 
-[404] https://8kun.top/t/index.html  (trackers/Torrent Sites)  -- 8kun /t/  -- 
-[404] https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links  (trackers/Torrent Sites)  -- Add Links  -- 
-[404] https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters  (trackers/Torrent Sites)  -- Advanced Filters  -- 
-[404] https://yify.netlify.app/  (trackers/Torrent Sites)  -- Mirror  -- 
-[NET] https://ettvproxies.com/  (trackers/Torrent Sites)  -- Proxies  -- [Errno 101] Network is unreachable
-[NET] https://torrentgalaxy.to/  (trackers/Torrent Sites)  -- TorrentGalaxy  -- [Errno -5] No address associated with hostname
-[NET] https://tvunderground.org.ru/  (trackers/Torrent Sites)  -- TV Underground  -- [Errno 101] Network is unreachable
-[NET] https://yts.mx/  (trackers/Torrent Sites)  -- YTS  -- [Errno -2] Name or service not known
-[404] https://www.removeddit.com/r/trackers  (trackers/Torrent Trackers)  -- /r/trackers  -- 
-[404] https://www.removeddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/  (trackers/Torrent Trackers)  -- A Simple Guide To A Better Ratio  -- 
-[404] https://www.removeddit.com/r/torrents  (trackers/Torrenting)  -- /r/torrents  -- 
-[NET] https://www.arabp2p.com/  (trackers/Torrenting)  -- ArabP2P  -- [Errno 101] Network is unreachable
-[NET] https://www.dydytt.net  (trackers/Torrenting)  -- dydytt  -- [Errno 111] Connection refused
-[NET] https://dytt8.net/  (trackers/Torrenting)  -- dytt8  -- [Errno 111] Connection refused
-[404] https://ygdy8.com/index.html  (trackers/Torrenting)  -- ygdy8  -- 
-[404] https://www.removeddit.com/r/invites  (trackers/Tracker Invites)  -- /r/Invites  -- 
-[404] https://www.removeddit.com/r/opensignups  (trackers/Tracker Invites)  -- /r/OpenSignups  -- 
-[404] https://www.removeddit.com/r/trackers/wiki/getting_into_private_trackers  (trackers/Tracker Invites)  -- getting_into_private_trackers  -- 
-[404] https://www.removeddit.com/r/trackers/comments/7ildxx/open_signups_thread/  (trackers/Tracker Invites)  -- Open sign-ups thread  -- 
-[404] https://dognzb.cr/register  (usenet/Usenet Paid Indexers)  -- registration page  -- 
+[404] https://iptvapks.com/filelinked-codes/  (apps-software/Android APKs)  -- 2  -- 
+[404] https://www.mcshield.net/  (apps-software/Antivirus)  -- MCShield  -- 
+[NET] https://geti2p.net/en/  (apps-software/Browser Tools)  -- I2P  -- [Errno 101] Network is unreachable
+[404] https://invidiou.site/  (apps-software/Browser Tools)  -- Invidious  -- 
+[NET] https://www.whatismyreferer.com/  (apps-software/Browser Tools)  -- What is my Referer  -- [Errno -2] Name or service not known
+[404] https://malwat.ch/software  (apps-software/Freeware Sites)  -- Enderman's Website  -- 
+[404] https://www.dishdragon.ai/  (books-reading/Cooking Sites)  -- Dish Dragon AI  -- 
+[NET] https://www.bitspyder.net/  (books-reading/eBooks)  -- BitSpyder  -- [Errno -5] No address associated with hostname
+[404] https://novelonlinefree.com/homepage  (books-reading/Light Novel Sites)  -- Novel Online Free  -- 
+[NET] https://manganelo.link/  (books-reading/Manga)  -- manganelo  -- [Errno -2] Name or service not known
+[404] https://kanjiku.net/  (books-reading/Manga Sites)  -- Kanjiku  -- 
+[404] https://mangainn.net/  (books-reading/Manga Sites)  -- MangaInn  -- 
+[404] https://mangaseeonline.us/  (books-reading/Manga Sites)  -- MangaSee  -- 
+[404] https://www.mangasy.com/  (books-reading/Manga Sites)  -- Mangasy  -- 
+[404] http://mangawww.club/  (books-reading/Manga Sites)  -- MangaWWW  -- 
+[404] https://lelibros.online/  (books-reading/Reading)  -- lelibros  -- 
+[404] https://submanga.io/  (books-reading/Reading)  -- SubManga  -- 
+[404] https://telecharge-magazines.com/  (books-reading/Reading)  -- Telecharger  -- 
+[404] http://www.freebookspot.es/default.aspx  (books-reading/Reading Sites)  -- FreeBookSpot  -- 
+[404] https://zimtools.xyz/  (cloud-hosting/Content Aggregators)  -- zimtools  -- 
+[404] https://sharespark.me/  (cloud-hosting/DDL Link Sites)  -- sharespark  -- 
+[404] https://forum.snahp.it/  (cloud-hosting/DDL Link Sites)  -- Snahp Forum  -- 
+[NET] https://tekspert.se/  (cloud-hosting/DDL Link Sites)  -- Tekspert  -- [Errno 101] Network is unreachable
+[404] https://warez-bb.org/  (cloud-hosting/DDL Link Sites)  -- Warez-BB  -- 
+[404] https://simplestream.in/  (cloud-hosting/Dedicated Hosts)  -- Simple Stream  -- 
+[404] http://sockshare.ac/  (cloud-hosting/Dedicated Hosts)  -- SockShare  -- 
+[404] https://www.theflix.to/  (cloud-hosting/Dedicated Hosts)  -- TheFlix  -- 
+[404] https://uniquestream.vip/  (cloud-hosting/Dedicated Hosts)  -- UniqueStream  -- 
+[404] https://movies4discord.xyz/  (cloud-hosting/Dedicated Hosts)  -- Website  -- 
+[404] https://www3.animepace.si/  (cloud-hosting/Image hosting / Processing)  -- AnimePace  -- 
+[404] https://www1.animeshow.tv/  (cloud-hosting/Image hosting / Processing)  -- AnimeShow  -- 
+[404] http://dl.novellibrary.com/  (cloud-hosting/Image hosting / Processing)  -- Drive  -- 
+[404] http://libgen.lc/  (cloud-hosting/Image hosting / Processing)  -- http://libgen.lc/  -- 
+[404] https://live-nba.stream/  (cloud-hosting/Image hosting / Processing)  -- https://live-nba.stream/  -- 
+[NET] https://www.aware-online.com/en/osint-tools/instagram-search-tool/  (cloud-hosting/Image hosting / Processing)  -- Instagram Search Tool  -- [Errno 101] Network is unreachable
+[NET] https://www.aware-online.com/en/osint-tools/instagram-tools/  (cloud-hosting/Image hosting / Processing)  -- Instagram Tools  -- [Errno 101] Network is unreachable
+[404] https://kissanime.nz/  (cloud-hosting/Image hosting / Processing)  -- KissAnime.ac  -- 
+[404] http://novellibrary.com/  (cloud-hosting/Image hosting / Processing)  -- NovelLibrary  -- 
+[404] https://www.searchmy.bio/  (cloud-hosting/Image hosting / Processing)  -- SearchMy.bio  -- 
+[404] http://searchmy.bio/  (cloud-hosting/Image hosting / Processing)  -- SearchMyBio  -- 
+[404] https://www.sharingebook.com/  (cloud-hosting/Image hosting / Processing)  -- Sharing eBook  -- 
+[404] https://www.123movie.show/  (cloud-hosting/Multi Hosts)  -- 123Movies.show  -- 
+[404] https://best-movies.watch/  (cloud-hosting/Multi Hosts)  -- Best-Movies  -- 
+[404] https://flixhq.net/  (cloud-hosting/Multi Hosts)  -- FlixHQ  -- 
+[404] https://vidnext.net/  (cloud-hosting/Multi Hosts)  -- Vidnext  -- 
+[404] https://yesmovies.sx/  (cloud-hosting/Multi Hosts)  -- YesMovies.sx  -- 
+[404] https://www.removeddit.com/r/MovieStreamingSites/  (communities-info/Big Media Libraries)  -- /r/MovieStreamingSites  -- 
+[404] https://two-movies.net/  (communities-info/Big Media Libraries)  -- 2TwoMovies  -- 
+[404] http://www.2013zone.com/  (communities-info/Download Sites)  -- 2013Zone  -- 
+[404] https://badshahuploads.xyz/  (communities-info/Download Sites)  -- BadshahUploads  -- 
+[404] https://warezlover.org/  (communities-info/Download Sites)  -- Warez Lover  -- 
+[404] https://www.warezlover.org/  (communities-info/Download Sites)  -- WarzesLover  -- 
+[404] http://www.gameloo.info/  (communities-info/Other Languages)  -- GameLoo  -- 
+[404] http://tamilyogi.cool/  (communities-info/Other Languages)  -- TamilYogi  -- 
+[404] http://libgen.lc/stat.php  (communities-info/Piracy archives)  -- LibGen & Sci-Hub torrent archive  -- 
+[404] https://downduck.eu/video-tutorials/  (education-learning/Courses)  -- DownDuck  -- 
+[404] https://freetutsdownload.net/  (education-learning/Educational Downloading)  -- FreeTutsDownload.net  -- 
+[404] http://scientificmagazines.top/  (education-learning/Educational Sites)  -- Magazines Scientific  -- 
+[NET] https://pickpdfs.com/  (education-learning/Educational Sites)  -- PickPDF  -- [Errno -2] Name or service not known
+[NET] https://tutsnode.net/  (education-learning/Educational Streaming)  -- TutsNode  -- [Errno -2] Name or service not known
+[NET] https://stublio.com/  (education-learning/Educational Tools)  -- Stublio  -- [Errno -3] Temporary failure in name resolution
+[404] https://www.avaxhome.co/  (education-learning/Programming Sites)  -- AvaxHome  -- 
+[404] http://www.xeplayer.com/  (games/Android Emulators)  -- XePlayer  -- 
+[NET] http://doomseeker.drdteam.org/  (games/Arcade / Retro)  -- Doomseeker  -- [Errno 101] Network is unreachable
+[404] http://monopolie.sourceforge.net/index.shtml  (games/Arcade / Retro)  -- Monopolie  -- 
+[NET] https://www.gamulator.com/roms  (games/Emulation / Roms)  -- GamulatoR  -- [Errno -2] Name or service not known
+[404] https://ybin.me/p/bfc90baa4dd321a4#VO7PWg3gmBRui2NifgKrp0XFN3GOUmpkWesSsH02bDk=  (games/Rom Archives)  -- 2  -- 
+[404] https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30  (games/Rom Archives)  -- DS Collection  -- 
+[404] https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30  (games/Rom Archives)  -- DSi Collection  -- 
+[404] https://archive.org/details/gamecubenaiso  (games/Rom Archives)  -- GameCube Collection  -- 
+[NET] http://freshremix.ru/  (music-audio/Audio)  -- FreshRemix  -- [Errno 101] Network is unreachable
+[NET] https://www.audiocheck.net/  (music-audio/Audio Tools)  -- Audiocheck  -- [Errno 101] Network is unreachable
+[NET] https://fmovie.info/fmovies.is  (streaming/720p Streaming)  -- Fmovies  -- [Errno -2] Name or service not known
+[NET] https://fmovie.info/fmovies.se  (streaming/720p Streaming)  -- Mirror  -- [Errno -2] Name or service not known
+[NET] https://ulmovies.com/  (streaming/720p Streaming)  -- ULMovies  -- [Errno 111] Connection refused
+[NET] https://4anime.to/  (streaming/Anime & Cartoon Streaming (720p+))  -- 4Anime  -- [Errno -2] Name or service not known
+[404] https://tv.nrk.no/  (streaming/Streaming)  -- NRK TV  -- 
+[NET] https://subshifter.bitsnbites.eu/  (streaming/Subtitles)  -- Subshifter  -- [Errno 101] Network is unreachable
+[NET] https://asiaflix.app/  (tools-utilities/Automation Tools)  -- Asiaflix  -- [Errno -2] Name or service not known
+[NET] http://warez.ge/  (tools-utilities/Downloading)  -- Warez.Ge  -- [Errno -2] Name or service not known
+[NET] https://birdfont.org/  (tools-utilities/Font Sites)  -- Bird Font  -- [Errno 101] Network is unreachable
+[404] http://www.meeshdesigns.com/Western%20Fonts/  (tools-utilities/Font Sites)  -- MeeshDesigns  -- 
+[404] http://justfound.co/gravity/  (tools-utilities/Fun Sites)  -- Gravity  -- 
+[NET] https://purrli.com/  (tools-utilities/Fun Sites)  -- Purrli  -- [Errno 101] Network is unreachable
+[NET] https://accueil.framacalc.org/en/  (tools-utilities/Google Docs + Sheets + Slides)  -- Framacalc  -- [Errno -5] No address associated with hostname
+[NET] http://www.stripegenerator.com/  (tools-utilities/Image Tools)  -- stripegenerator  -- [Errno 101] Network is unreachable
+[NET] https://www.sheetsearch.com/  (tools-utilities/Screen Recorders)  -- sheetsearch  -- [Errno -3] Temporary failure in name resolution
+[NET] https://www.aware-online.com/en/osint-tools/  (tools-utilities/Search Tools)  -- Aware-Online  -- [Errno 101] Network is unreachable
+[NET] https://smartwindows.app/  (tools-utilities/System Tools)  -- SmartWindows  -- [Errno -5] No address associated with hostname
+[NET] https://chrisandriessen.nl/taskbarx/  (tools-utilities/System Tools)  -- TaskbarX  -- [Errno 101] Network is unreachable
+[NET] http://dongerlist.com/  (tools-utilities/Text Tools)  -- Donger List  -- [Errno -5] No address associated with hostname
+[NET] https://dereferer.me/  (tools-utilities/URL Tools)  -- Dereferer  -- [Errno 101] Network is unreachable
+[NET] https://www.xiepp.com/  (trackers/Public Trackers)  -- Xiepp  -- [Errno -2] Name or service not known
+[NET] http://www.vlcstreamer.com/  (trackers/Torrent Clients)  -- VLC Torrent Streamer  -- [Errno -5] No address associated with hostname
+[NET] http://ww16.1tamilmv.xyz/  (trackers/Torrenting)  -- 1TamilMV  -- [Errno -2] Name or service not known
+[NET] https://www.fulloyun.net/  (trackers/Torrenting)  -- FullOyun  -- [Errno -2] Name or service not known
