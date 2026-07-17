@@ -37590,6 +37590,16 @@
     {
       "category": "music-audio",
       "subcategory": "Audio Tools",
+      "title": "Pano Tuner",
+      "url": "https://panotuner.com/",
+      "description": "Mic-Based Instrument Tuner",
+      "id": "mus-0575",
+      "last_checked": "2026-07-17",
+      "last_status": "alive"
+    },
+    {
+      "category": "music-audio",
+      "subcategory": "Audio Tools",
       "title": "PLUGINS4FREE",
       "url": "https://plugins4free.com/",
       "description": "mirror of OpenAudio",
