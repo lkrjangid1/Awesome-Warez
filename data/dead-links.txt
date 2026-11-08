@@ -1,105 +1,71 @@
-# generated 2026-10-25T11:04:58.302712+00:00
+# generated 2026-11-08T13:03:51.523711+00:00
 # strict=False
-# alive=7803  dead=101  unknown=538
+# alive=7758  dead=67  unknown=516
 
-[NET] https://apk.support/apk-downloader  (apps-software/Android APKs)  -- APK Downloader  -- [Errno -5] No address associated with hostname
-[NET] https://apkcombo.com/  (apps-software/Android APKs)  -- APKCombo  -- [Errno -2] Name or service not known
-[NET] https://cydia.kiiimo.org/  (apps-software/iOS Apps)  -- Kiiimo  -- [Errno -3] Temporary failure in name resolution
-[404] https://www.downthemall.org/  (apps-software/Multi Browser)  -- DownThemAll  -- 
-[NET] https://www.nachtfalke.biz/index.php  (apps-software/Navigation Software)  -- Nachtfalke  -- [Errno -2] Name or service not known
-[NET] https://repacks.club/  (apps-software/Portables & Repacks)  -- RePack Club  -- [Errno -2] Name or service not known
-[NET] https://onemilliontweetmap.com/  (apps-software/Twitter Tools)  -- OneMillionTweetMap  -- [Errno -2] Name or service not known
-[NET] https://www.savetweetvid.com/  (apps-software/Twitter Tools)  -- SaveTweetVid  -- [Errno -3] Temporary failure in name resolution
-[NET] https://tweetbeaver.com/  (apps-software/Twitter Tools)  -- TweetBeaver  -- [Errno -2] Name or service not known
-[404] https://tb.rg-adguard.net/products.html  (apps-software/Windows 10 Downloads (Mirrors) & Verification Tools)  -- here  -- 
-[404] https://tb.rg-adguard.net/public.php  (apps-software/Windows Hotfixes & Patches)  -- Windows ISO + Hotfix mirrors  -- 
-[NET] https://repo.zenk-security.com/  (books-reading/Documents / Articles)  -- repo.zenk  -- [Errno 111] Connection refused
-[NET] https://indonesiaebook.com/  (books-reading/Reading)  -- Indonesia Ebook  -- [Errno -2] Name or service not known
-[NET] https://rawmangazip.com/  (books-reading/Reading)  -- RawMangaZip  -- [Errno -2] Name or service not known
-[NET] https://16chan.xyz/library/  (books-reading/Reading Sites)  -- 16Chan Library  -- [Errno -2] Name or service not known
-[NET] http://driveproxy.net/  (cloud-hosting/Convert Google Drive File Links to Direct Download Links)  -- driveproxy  -- [Errno 111] Connection refused
-[NET] https://softoroom.net/  (cloud-hosting/DDL Link Sites)  -- softoroom  -- [Errno 111] Connection refused
-[NET] https://moviesonline4k.tv/  (cloud-hosting/Dedicated Hosts)  -- MoviesOnline4K  -- [Errno -2] Name or service not known
-[NET] https://www.animerush.tv/  (cloud-hosting/Image hosting / Processing)  -- AnimeRush  -- [Errno -2] Name or service not known
-[NET] http://www.freepdfbook.com/  (cloud-hosting/Image hosting / Processing)  -- freepdfbook  -- [Errno -2] Name or service not known
-[NET] https://gogo-stream.com/  (cloud-hosting/Image hosting / Processing)  -- Gogo-Stream  -- [Errno -2] Name or service not known
-[NET] https://live-nhl.stream/  (cloud-hosting/Image hosting / Processing)  -- https://live-nhl.stream/  -- [Errno -2] Name or service not known
-[NET] https://www.123moviesme.org/  (cloud-hosting/Multi Hosts)  -- 123MoviesMe  -- [Errno -2] Name or service not known
-[NET] https://index.hashhackers.com/  (communities-info/Download Directories)  -- CloudBhadoo  -- [Errno -5] No address associated with hostname
-[NET] http://dlwarez.xyz/  (communities-info/Download Sites)  -- DLWarez  -- [Errno -2] Name or service not known
-[404] https://www.pftp.de/  (communities-info/FTP Indexer)  -- pftp  -- 
-[NET] https://www.5ggyan.com/  (education-learning/Educational Downloading)  -- 5G GYAN  -- [Errno -2] Name or service not known
-[NET] https://udemycourses.me/  (education-learning/Educational Downloading)  -- Udemycourses  -- [Errno -2] Name or service not known
-[NET] http://www.digitalbookindex.org  (education-learning/Educational Sites)  -- Digitalbookindex  -- [Errno 111] Connection refused
-[NET] https://nocourses.com/  (education-learning/Educational Streaming)  -- Nocourses  -- [Errno -2] Name or service not known
-[NET] https://lizardpoint.com/  (education-learning/Educational Tools)  -- LizardPoint  -- [Errno 111] Connection refused
-[NET] https://udemydownload.com/  (education-learning/Educational Torrenting)  -- UdemyDownload  -- [Errno -2] Name or service not known
-[NET] https://xatab-repack.org/  (games/PC Game Repackers)  -- Xatab  -- [Errno -2] Name or service not known
-[404] https://archive.org/details/RedumpNintendoWiiAmericaPart1  (games/Rom Archives)  -- Nintendo Wii Collection  -- 
-[NET] http://freshremix.ru/  (music-audio/Audio)  -- FreshRemix  -- [Errno 101] Network is unreachable
-[NET] https://emetsbank.xyz/ops/  (music-audio/Audio)  -- Orpheus  -- [Errno -2] Name or service not known
-[NET] http://midi.mathewvp.com/  (music-audio/Audio Tools)  -- mathewvp  -- [Errno -2] Name or service not known
-[NET] https://audiobooks.cloud/  (music-audio/Audiobooks)  -- AudioBooks.Cloud  -- [Errno -2] Name or service not known
-[NET] https://tornado.cash/  (privacy-security/Anonymous Cryptocurrency Exchanges (without KYC Verification!))  -- Tornado  -- [Errno -2] Name or service not known
-[NET] https://tinyzonetv.to/  (privacy-security/Email Sites)  -- https://tinyzonetv.to/  -- [Errno -2] Name or service not known
-[NET] https://www1.seeingblind.net/  (privacy-security/Email Sites)  -- https://www1.seeingblind.net/  -- [Errno -2] Name or service not known
-[NET] https://www3.f2movies.to/  (privacy-security/Email Sites)  -- https://www3.f2movies.to/  -- [Errno -2] Name or service not known
-[NET] https://me-4u.com/index.php  (privacy-security/Email Sites)  -- Me-4U  -- [Errno -2] Name or service not known
-[NET] https://go.wepay.com/  (privacy-security/PayPal alternatives)  -- WePay  -- [Errno -3] Temporary failure in name resolution
-[404] https://vault.ooo/  (privacy-security/Privacy Tools)  -- Vualt.ooo  -- 
-[404] https://ddos-guard.net/en  (privacy-security/Reverse Proxies)  -- ddos-guard.net  -- 
-[NET] https://freevirtualnumber.skycallbd.com  (privacy-security/Virtual Phone Numbers (hide your real phone number for e.g. sms verification like Telegram/Signal/Google))  -- Freevirtualnumber.skycallbd  -- [Errno -2] Name or service not known
-[NET] https://smsfinders.com/  (privacy-security/Virtual Phone Numbers (hide your real phone number for e.g. sms verification like Telegram/Signal/Google))  -- SMSFinder  -- [Errno -2] Name or service not known
-[NET] https://bonsaihd.site/  (streaming/1080p Streaming)  -- BonsaidHD  -- [Errno -2] Name or service not known
-[NET] https://www.etopop.fr/  (streaming/1080p Streaming)  -- ETOPOP  -- [Errno -2] Name or service not known
-[NET] https://www1.filmstreaming1vf.co/  (streaming/1080p Streaming)  -- FilmStreaming1FV  -- [Errno -2] Name or service not known
-[404] https://www.hindimoviesonline.club/  (streaming/1080p Streaming)  -- hindimoviesonline  -- 
-[NET] https://60-fps.org/  (streaming/60 FPS Movies)  -- 60 FPS Movies  -- [Errno -5] No address associated with hostname
-[NET] https://seriesfree.to/  (streaming/720p Streaming)  -- SeriesFree  -- [Errno -2] Name or service not known
-[NET] https://yesmovies.fun/  (streaming/720p Streaming)  -- YesMovies.fun  -- [Errno -2] Name or service not known
-[NET] https://adrama.online/  (streaming/Android Streaming)  -- aDrama  -- [Errno -2] Name or service not known
-[NET] https://animehd47.com/  (streaming/Anime & Cartoon Streaming (720p+))  -- animehd47  -- [Errno 111] Connection refused
-[NET] https://www.animerush.tv/genres/  (streaming/Anime & Cartoon Streaming (720p+))  -- AnimeRush  -- [Errno -2] Name or service not known
-[NET] https://mirror.animetosho.org/  (streaming/Anime (Hentai pages are NOT allowed!))  -- AnimeTosho Mirror  -- [Errno -2] Name or service not known
-[NET] https://zeronet.io/  (streaming/Anime Torrent Websites)  -- ZeroNet  -- [Errno 101] Network is unreachable
-[404] https://apps.apple.com/ca/app/black-box-movie-listing/id958957112  (streaming/iOS Streaming)  -- Blackbox  -- 
-[NET] https://filmyzilla1.com/genre/animation/  (streaming/Random Movie/TV Streaming Websites)  -- filmyzilla1  -- [Errno -2] Name or service not known
-[404] http://worldscinema.org/movie-request/  (streaming/Request Videos)  -- WorldsCinema  -- 
-[NET] https://f1fullraces.com/  (streaming/Sports Streaming)  -- F1 Full Races  -- [Errno -2] Name or service not known
-[NET] https://www.doomovie-hd.com/  (streaming/Streaming)  -- doomovie-hd  -- [Errno -2] Name or service not known
-[NET] https://neonime.site/  (streaming/Streaming)  -- Neonime  -- [Errno -2] Name or service not known
-[404] https://tv.nrk.no/  (streaming/Streaming)  -- NRK TV  -- 
-[NET] https://viho.live/  (streaming/Streaming)  -- viho.live  -- [Errno -2] Name or service not known
-[NET] https://voir.wikiseries.co/  (streaming/Streaming)  -- WikiSeries  -- [Errno -3] Temporary failure in name resolution
-[NET] https://cirrusretro.com/  (streaming/Streaming Sites)  -- Cirrus Retro  -- [Errno 101] Network is unreachable
-[NET] https://killmyself.xyz/  (streaming/TV Streaming)  -- killmyself.xyz  -- [Errno -2] Name or service not known
-[NET] https://noxx.is  (streaming/TV Streaming)  -- Noxx  -- [Errno -2] Name or service not known
-[NET] http://68.109.128.155:8080/  (tools-utilities/Automation Tools)  -- http://68.109.128.155:8080/  -- [Errno 111] Connection refused
-[NET] https://www.bobaelink.net/  (tools-utilities/Downloading)  -- bobaelink  -- [Errno -2] Name or service not known
-[NET] http://dl.roozdl.com/  (tools-utilities/Downloading)  -- Drive  -- [Errno 111] Connection refused
-[NET] https://roozdl.com/  (tools-utilities/Downloading)  -- RooDL  -- [Errno 111] Connection refused
-[NET] https://tik-film.com/  (tools-utilities/Downloading)  -- Tik-Film  -- [Errno 111] Connection refused
-[410] https://www.tirexo.com/  (tools-utilities/Downloading)  -- Tirexo  -- 
-[NET] https://tododescargas.net/  (tools-utilities/Downloading)  -- Tododescargas  -- [Errno -2] Name or service not known
-[NET] https://www.wawacity.video/  (tools-utilities/Downloading)  -- WawaCity  -- [Errno -2] Name or service not known
-[NET] https://mudome.org/  (tools-utilities/Downloading Sites)  -- Mudome  -- [Errno -2] Name or service not known
-[404] https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/  (tools-utilities/File Tools)  -- https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/  -- 
-[NET] https://biznar.com/biznar/desktop/en/search.html  (tools-utilities/File Tools)  -- https://biznar.com/biznar/desktop/en/search.html  -- [Errno -2] Name or service not known
-[404] https://www.saveriomorelli.com/commonvoice/  (tools-utilities/Fun Sites)  -- Common Voice  -- 
-[404] http://giybf.com/  (tools-utilities/Fun Sites)  -- GIYBF  -- 
-[NET] https://neverthink.tv/  (tools-utilities/Fun Sites)  -- NeverThink  -- [Errno -3] Temporary failure in name resolution
-[NET] https://stumblingon.com/  (tools-utilities/Fun Sites)  -- StumblingOn  -- [Errno -2] Name or service not known
-[NET] http://theofficestaremachine.com/  (tools-utilities/Fun Sites)  -- The Office Stare Machine  -- [Errno -3] Temporary failure in name resolution
-[NET] http://sandlab.cs.uchicago.edu/fawkes/  (tools-utilities/Image Tools)  -- Fawkes  -- [Errno 111] Connection refused
-[NET] https://openclipart.org/  (tools-utilities/Image Tools)  -- OpenClipart  -- [Errno 101] Network is unreachable
-[404] https://keitharm.me/projects/picturecipher/index.php  (tools-utilities/Image Tools)  -- PictureCipher  -- 
-[NET] https://zoalink.com/  (tools-utilities/Indexes)  -- ZoaLink  -- [Errno -2] Name or service not known
-[404] https://beakerbrowser.com/  (tools-utilities/Internet Tools)  -- Beaker  -- 
-[404] https://palatialsoftware.com/plumb/  (tools-utilities/System Tools)  -- Plumb  -- 
-[NET] https://win95.ajf.me/  (tools-utilities/System Tools)  -- Win95  -- [Errno -2] Name or service not known
-[NET] https://fou-du-cinema.net/  (trackers/Private Trackers)  -- Fou Du cinema  -- [Errno -2] Name or service not known
-[NET] https://hdcity.li/  (trackers/Private Trackers)  -- HDCity  -- [Errno -2] Name or service not known
-[NET] https://www.mkvcage.nl/  (trackers/Public Trackers)  -- MKVCage  -- [Errno -2] Name or service not known
-[NET] https://wiki.archlinux.org/index.php/RTorrent  (trackers/rTorrent)  -- r ArchWiki Page  -- [Errno 101] Network is unreachable
-[NET] https://isohunts.to/  (trackers/Torrent Sites)  -- IsoHunts  -- [Errno -2] Name or service not known
-[404] https://house-of-usenet.com  (usenet/Usenet Forums)  -- House-Of-Usenet  -- 
+[NET] https://thebypasser.com/versions/version2.html  (apps-software/Adblocking Extensions)  -- Ad-Link Bypasser V2  -- [Errno 111] Connection refused
+[NET] http://rslookup.com/  (apps-software/Browser Tools)  -- RS Lookup  -- [Errno 111] Connection refused
+[NET] https://www.xeddit.com/  (apps-software/Browser Tools)  -- xeddit  -- [Errno 111] Connection refused
+[NET] https://discord.club/embedg/  (apps-software/Discord Tools)  -- discord.club  -- [Errno 111] Connection refused
+[NET] https://drpcm.t1c.dev/  (apps-software/Discord Tools)  -- DiscordRPCMaker  -- [Errno -2] Name or service not known
+[404] http://www.soulseekqt.net/news/  (apps-software/File Sharing Apps)  -- Soulseek  -- 
+[NET] https://crackzsoft.com/  (apps-software/MacOS)  -- CrackSoft  -- [Errno 111] Connection refused
+[NET] https://www.china-rns.com/forum  (apps-software/Navigation Software)  -- China Rns  -- [Errno 111] Connection refused
+[NET] https://blackpearl.biz/  (apps-software/Software)  -- Blackpearl  -- [Errno 111] Connection refused
+[NET] https://www.piratecity.cc  (apps-software/Software)  -- PirateCity  -- [Errno 111] Connection refused
+[NET] https://crackedfine.com/  (apps-software/Software Sites)  -- CrackedFine  -- [Errno -2] Name or service not known
+[NET] https://izofile.com/  (apps-software/Software Sites)  -- Izofile  -- [Errno -2] Name or service not known
+[NET] https://piratepc.me/  (apps-software/Software Sites)  -- PiratePC  -- [Errno 111] Connection refused
+[NET] http://softhouse.cc/  (apps-software/Software Sites)  -- SoftHouse  -- [Errno 111] Connection refused
+[NET] https://accountanalysis.app/  (apps-software/Twitter Tools)  -- accountanalysis  -- [Errno -2] Name or service not known
+[NET] https://tvclip.biz/  (apps-software/YouTube Tools)  -- TVClip  -- [Errno 111] Connection refused
+[NET] https://comiconlinefree.net/  (books-reading/Comic Sites)  -- Comic Online Free  -- [Errno 111] Connection refused
+[NET] https://zahard.top/  (books-reading/Comic Sites)  -- Zahard  -- [Errno 111] Connection refused
+[NET] https://booksc.xyz/  (books-reading/eBooks)  -- BookSC  -- [Errno 111] Connection refused
+[NET] https://edoc.pub/  (books-reading/eBooks)  -- edoc  -- [Errno -5] No address associated with hostname
+[NET] https://scrdownloader.com/  (books-reading/eBooks)  -- Scrdownloader  -- [Errno 111] Connection refused
+[NET] https://kisslightnovels.info/  (books-reading/Light Novel Sites)  -- Kiss Light Novels  -- [Errno 111] Connection refused
+[NET] https://www.mangastream.cc/  (books-reading/Manga)  -- mangatsream  -- [Errno 111] Connection refused
+[NET] https://www.nineanime.com/  (books-reading/Manga)  -- NineAnime  -- [Errno -2] Name or service not known
+[NET] https://www.cmreader.info/  (books-reading/Manga Sites)  -- CMReader  -- [Errno 111] Connection refused
+[NET] https://manga.fascans.com/  (books-reading/Manga Sites)  -- Manga.Fanscans  -- [Errno 111] Connection refused
+[NET] https://www.nineanime.com/category/  (books-reading/Manga Sites)  -- NineAnime  -- [Errno -2] Name or service not known
+[NET] https://leomanga.me/  (books-reading/Reading)  -- leomanga  -- [Errno 111] Connection refused
+[NET] https://pirated.me/drive/  (cloud-hosting/Convert Google Drive File Links to Direct Download Links)  -- pirated.me  -- [Errno 111] Connection refused
+[NET] https://w1.alluc.uno/  (cloud-hosting/DDL Search Engines & Crawlers)  -- Alluc  -- [Errno -2] Name or service not known
+[NET] https://c1ne.co/  (cloud-hosting/Dedicated Hosts)  -- C1NE  -- [Errno 111] Connection refused
+[404] https://rainierland.to/  (cloud-hosting/Dedicated Hosts)  -- Rainierland  -- 
+[NET] https://animesuge.io/  (cloud-hosting/Image hosting / Processing)  -- AnimeSuge  -- [Errno 111] Connection refused
+[NET] http://www.animetoon.org/  (cloud-hosting/Image hosting / Processing)  -- animetoon  -- [Errno 111] Connection refused
+[NET] https://www.booktolearn.com  (cloud-hosting/Image hosting / Processing)  -- BooksToLearn  -- [Errno -3] Temporary failure in name resolution
+[NET] https://football-live.stream/  (cloud-hosting/Image hosting / Processing)  -- https://football-live.stream/  -- [Errno -2] Name or service not known
+[NET] https://vidstreaming.io/  (cloud-hosting/Image hosting / Processing)  -- vidstreaming  -- [Errno -2] Name or service not known
+[NET] https://www.streamdor.com/  (cloud-hosting/Legal Hosts)  -- StreamDor  -- [Errno -2] Name or service not known
+[NET] https://drive.a092devs.workers.dev/0:/  (communities-info/Download Sites)  -- a092devs  -- [Errno 101] Network is unreachable
+[NET] https://pre.corrupt-net.org/  (communities-info/PreDB sites)  -- pre.corrupt-net  -- [Errno 111] Connection refused
+[NET] https://learncreative.net/  (education-learning/Educational Sites)  -- LearnCreative  -- [Errno 101] Network is unreachable
+[404] https://www.csun.edu/science/software/simulations/physics.html  (education-learning/Educational Tools)  -- Physics Simulations  -- 
+[NET] https://robostorm.io/  (games/Browser Games)  -- RoboStorm  -- [Errno 111] Connection refused
+[NET] https://cdromance.com/  (games/Emulation / Roms)  -- CDRomance  -- [Errno -5] No address associated with hostname
+[404] https://write.as/ress/  (games/PC Games)  -- Blog  -- 
+[NET] https://simplednscrypt.org/  (privacy-security/DNS Adblocking)  -- Manager  -- [Errno -5] No address associated with hostname
+[404] https://www.getoutline.org/  (privacy-security/Self-hosted VPNs)  -- Outline by Alphabet  -- 
+[NET] https://www.divxtop.com/  (streaming/1080p Streaming)  -- DivxTOP  -- [Errno -2] Name or service not known
+[NET] https://anidex.info  (streaming/Anime (Hentai pages are NOT allowed!))  -- AniDex  -- [Errno 111] Connection refused
+[NET] https://www2.series9.io/  (streaming/Anime (Hentai pages are NOT allowed!))  -- Series9  -- [Errno -2] Name or service not known
+[NET] https://anidex.info/  (streaming/Anime Torrent Websites)  -- AniDex  -- [Errno 111] Connection refused
+[NET] https://x265movies.co/  (streaming/H265 Encoded Movies and TV Shows)  -- x265 Movies  -- [Errno -5] No address associated with hostname
+[NET] https://football-live.stream/free-matches-online-6  (streaming/Live TV / Sports)  -- Football Live Stream  -- [Errno -2] Name or service not known
+[NET] https://datmusic.xyz/  (streaming/Music Streaming)  -- datmusic  -- [Errno 111] Connection refused
+[404] https://jetfilmizle.live/  (streaming/Streaming)  -- JetFilmizle  -- 
+[NET] https://wvw.drama3s.me/  (tools-utilities/Automation Tools)  -- Drama3s  -- [Errno -2] Name or service not known
+[NET] https://old.akwam.co/  (tools-utilities/Downloading)  -- akwam  -- [Errno -2] Name or service not known
+[NET] https://dlfars.pw/  (tools-utilities/Downloading)  -- dlfars  -- [Errno -2] Name or service not known
+[404] https://jwallet.github.io/spy-spotify/overview.html  (tools-utilities/Downloading Apps)  -- Spytify  -- 
+[NET] https://www.danstools.com/  (tools-utilities/Helpful Sites / Tools)  -- Dan's Tools  -- [Errno -2] Name or service not known
+[NET] https://socialwiki.top/  (tools-utilities/Indexes)  -- SocialWiki  -- [Errno -2] Name or service not known
+[NET] https://git.nuegia.net/webbrowser.git/  (tools-utilities/Internet Tools)  -- webbrowser.git  -- [Errno 101] Network is unreachable
+[NET] https://peekier.com/  (tools-utilities/Search Engines)  -- peekier  -- [Errno -5] No address associated with hostname
+[NET] https://pixelspeechbubble.com/  (tools-utilities/Text Tools)  -- Pixel Speech Bubble  -- [Errno 111] Connection refused
+[NET] https://rawkbawx.rocks/  (trackers/Audio Torrenting)  -- RockBox  -- [Errno 111] Connection refused
+[NET] https://www.demonoid.is/  (trackers/Torrent Sites)  -- Demonoid  -- [Errno -2] Name or service not known
+[NET] https://trace.corrupt-net.org/live.php  (trackers/Torrenting)  -- Live Tracer  -- [Errno 111] Connection refused
